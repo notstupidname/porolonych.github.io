@@ -1859,10 +1859,10 @@
 
 /* Header phones */
 
-	.head-phones ul {
+	ul.head-phones  {
 	}
 		
-		.head-phones ul li{
+		ul.head-phones  li {
 			float: left;
 			line-height: 4.5em;
 			padding-left: 1em;
