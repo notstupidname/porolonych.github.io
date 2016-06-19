@@ -1430,7 +1430,7 @@
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0;
 	}
 
 		header h2, header h3 {
@@ -1834,7 +1834,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 2.5em 0 1em 0;
+		padding: 1em 0 1em 0;
 	}
 
 	#features-wrapper {
@@ -1862,11 +1862,15 @@
 	#logo {
 		display: inline-block;
 	}
-
-		#logo a img {
-			height: inherit;
-			width: initial;
+		
+		#logo a {
+			height: 14em;
 		}
+		
+			#logo a img {
+				height: inherit;
+				width: initial;
+			}
 
 /* Nav */
 
