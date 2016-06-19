@@ -1867,6 +1867,13 @@
 			line-height: 4.5em;
 			padding-left: 1em;
 		}
+			
+			ul.head-phones  li a{
+				text-decoration: none;
+				text-transform: uppercase;
+				color: #fff;
+				font-size: 2em;
+			}
 	
 /* Logo */
 
@@ -2531,6 +2538,9 @@
 
 		/* Logo */
 
+			#logo {
+				padding: 0 8em 0 8em;
+			}
 			#logo h1 {
 				font-size: 2.75em;
 				padding: 0.2em 0.275em;
