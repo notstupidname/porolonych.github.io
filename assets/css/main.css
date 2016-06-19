@@ -1834,7 +1834,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		/* padding: 1em 0 1em 0; */
+		padding: 1em 0 0 0;
 	}
 
 	#features-wrapper {
@@ -1875,12 +1875,11 @@
 	}
 		
 		#logo a {
-			height: 14em;
+			/* height: 14em; */
 		}
 		
 			#logo a img {
 				height: inherit;
-				width: initial;
 			}
 
 /* Nav */
@@ -2160,7 +2159,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 3em 0 1em 0;
+				padding: 1em 0 1em 0;
 				text-align: center;
 			}
 
