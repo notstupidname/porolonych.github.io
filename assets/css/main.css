@@ -1863,7 +1863,7 @@
 	}
 		
 		ul.head-phones  li {
-			float: left;
+			display: inline-block;
 			line-height: 4.5em;
 			padding-left: 1em;
 		}
