@@ -1834,7 +1834,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 1em 0 1em 0;
+		/* padding: 1em 0 1em 0; */
 	}
 
 	#features-wrapper {
@@ -1886,14 +1886,18 @@
 /* Nav */
 
 	#nav {
-		position: absolute;
+		/* position: absolute;
 		right: 0;
-		top: 0;
+		top: 0; */
 		font-size: 0.9em;
 	}
-
+		
+		#nav ul {
+			margin: 0;
+		}
+		
 		#nav ul li {
-			float: left;
+			display: inline-block;
 			line-height: 4.5em;
 			padding-left: 1.5em;
 		}
