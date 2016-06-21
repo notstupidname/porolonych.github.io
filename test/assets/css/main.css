@@ -2080,7 +2080,18 @@
 		#copyright a {
 			color: inherit;
 		}
+/* Crumbs */
 
+	#breadcrumbs {
+	}
+	
+		#breadcrumbs ul{
+			margin-bottom: 1em;
+		}
+		
+			#breadcrumbs ul li{
+				display: inline;
+			}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
