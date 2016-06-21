@@ -2092,6 +2092,36 @@
 			#breadcrumbs ul li{
 				display: inline;
 			}
+			
+/* Header contacts */
+
+	#header-contacts {
+		display: inline-block;
+		padding-top: 3.5em;
+		width: 100%;
+	}
+	
+		#header-contacts ul{
+			margin-bottom: 0.6em;
+			text-align: right;
+			font-size: 1.4em;
+		}
+		
+			#header-contacts ul li{
+				display: inline-block;
+				margin-left: 1em;
+			}
+			
+				#header-contacts ul li a{
+					text-decoration: none;
+					color: #696969;
+					
+				}
+				
+					#header-contacts ul li a span{
+						color: #DD6031;
+						font-weight: 600;
+					}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
