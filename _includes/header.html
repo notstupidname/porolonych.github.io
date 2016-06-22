@@ -1,22 +1,26 @@
 <div id="header-wrapper">
 	<header id="header" class="container">
-		<div class="row">
-			<div class="3u 12u(small)">
+		<div class="row 0%">
 			<!-- Logo -->
+			<div class="3u 12u(small)">
 				<div id="logo">
-					<a href="/" class="image fit"><img src="/images/logo_300x210.png"/></a>
+					<a href="/"><img src="/images/logo_n_300.png"/></a>
 				</div>
 			</div>
+			<!-- Contacts -->
 			<div class="9u 12u(small)">
-				<ul class="head-phones">
-					<li><a href="#">+7 (123) 456-78-90</a></li>
-					<li><a href="#">+7 (123) 456-78-90</a></li>
-					<li><a href="#">info@porolonych.ru</a></li>
-				</ul>
+				<div id="header-contacts">
+					<ul>
+						<li><a href="#"><i class="icon fa fa-phone"/></i>+7 (495) <span>123-45-67</span></a></li>
+						<li><a href="#"><i class="icon fa fa-phone"/></i>+7 (495) <span>123-45-67</span></a></li>
+					</ul>
+					<ul>
+						<li><i class="icon fa fa-clock-o"/></i> 9:00-19:00 Без выходных</li>
+						<li><a href="#"><i class="icon fa fa-envelope-o"></i> info@<span>porolonych.ru</span></a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
-		<!-- Nav -->
-			{% include nav.html %}
-
 	</header>
+	{% include nav.html %}
 </div>
