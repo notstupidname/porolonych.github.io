@@ -31,9 +31,9 @@
 													<img class="image fit" src="{{ page.prod_image }}"/>
 												</div>
 												<div class="8u 12u(small)">
-													<p>{{page.prod_short_desc }}</p>
+													<p>{{page.prod_full_desc }}</p>
 													<footer>
-														<a href="#inline-form" class="button fancybox">Buy now!</a>
+														<a href="#inline-form" class="button fancybox">Заказать</a>
 													</footer>
 													
 													<div style="display:none">
@@ -54,10 +54,32 @@
 													</div>
 												</div>
 											</div>
-											<div class="row">
+											<div class="row 0%">
 												<h3>Варианты товара:</h3>
 												<div class="table-wrapper">
 												{{ content }}
+												</div>
+											</div>
+											<div class="row 0%">
+												<div class="8u 12u(small)">
+													{% if page.add_images != nil %}
+														<h3>Дополнительные фото:</h3>
+														<div class="row 0%">
+															{% for image in page.add_images %}
+																<div class="3u 4u(small)">
+																	<a class="image fit" href="#"><img src={{ image.image_path }}/></a>
+																</div>
+															{% endfor %}
+														</div>
+													{% endif %}
+													{% if page.chars != nil %}
+														<h3>Характеристики товара:</h3>
+														<ul class="default">
+															{% for char in page.chars %}
+																<li>{{ char }}</li>
+															{% endfor %}
+														</ul>
+													{% endif %}
 												</div>
 											</div>
 										</article>
