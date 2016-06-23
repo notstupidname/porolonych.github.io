@@ -31,7 +31,7 @@
 												{% if product.type != "category" and product.url contains page.url%}
 													<div class="3u 4u(large) 6u(medium)">
 														<div class="product-wrapper">
-															<a class="image fit" href={{ product.url }}><img src={{ product.prod_image }}/></a>
+															<a class="image fit" href={{ product.url }}><img src="{{ product.prod_image }}"/></a>
 															<a href={{ product.url }}>{{ product.prod_title }}</a>
 															<p>{{ product.prod_short_desc }}</p>
 														</div>
