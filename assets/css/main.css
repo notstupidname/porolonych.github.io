@@ -1342,7 +1342,7 @@
 	}
 
 	a {
-		color: #0090c5;
+		color: #dd6031;
 		text-decoration: underline;
 	}
 
@@ -1770,11 +1770,10 @@
 
 		.box.feature {
 			padding: 0;
-			min-height: 30em;
 		}
 
 			.box.feature .inner {
-				padding: 0 1em 1em 1em;
+				padding: 0 0 1em 0;
 			}
 
 			.box.feature h2 {
@@ -2103,6 +2102,28 @@
 	.product-wrapper {
 		border: solid 1px #bebebe;
 	}
+	
+	#how-to-buy {
+		border: solid 2px #dd6031;
+		padding: 1em 1.4em;
+	}
+	
+		#how-to-buy header{
+			text-align: center;
+			margin-bottom: 1em;
+		}
+		
+		#how-to-buy ol{
+			margin: 0;
+		}
+		
+		#how-to-buy ol li{
+			margin-bottom: 0.75em;
+		}
+		
+		#how-to-buy p{
+			margin-bottom: 0;
+		}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
@@ -2189,10 +2210,8 @@
 			input[type="reset"],
 			button,
 			.button {
-				width: 100%;
 				text-align: center;
 				font-size: 1.35em;
-				padding: 0.85em 0 !important;
 			}
 
 				input[type="button"].icon,
@@ -2531,9 +2550,9 @@
 					padding: 0;
 				}
 
-					.box.feature .inner {
+					/* .box.feature .inner {
 						padding: 30px 15px 30px 15px;
-					}
+					} */
 
 					.box.feature p {
 						margin: 0;
@@ -2644,5 +2663,19 @@
 			#sidebar {
 				text-align: center;
 			}
+			
+		/* Header contacts */
+
+		#header-contacts {
+			padding-top: 0.5em;
+		}
+		
+			#header-contacts ul{
+				text-align: center;
+			}
+			
+				#header-contacts ul li{
+					margin-bottom: 0.6em;
+				}
 
 	}

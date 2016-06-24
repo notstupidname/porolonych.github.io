@@ -3,7 +3,7 @@ title: porolon
 layout: category
 permalink: /catalog/:path/
 type: "category"
-weight: 1
+weight: 5
 
 cat_title: Поролон
 cat_short_desc: Длинное описание категории поролон.

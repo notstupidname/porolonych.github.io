@@ -118,5 +118,10 @@
 			return false; //to stop the form from submitting
 		}
 	});
+	
+	$(document).ready(function() {
+		$('.box').matchHeight();
+	});
+	
 
 })(jQuery);

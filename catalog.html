@@ -1,0 +1,27 @@
+---
+title: Каталог
+layout: default
+permalink: /catalog/
+type: "category"
+---
+<h2>Каталог</h2>
+<hr>
+
+<div class="row">
+	{% assign sorted_cat = site.catalog | sort: 'weight' %}
+	{% for cat in sorted_cat %}
+		{% if cat.type == "category" %}
+			<div class="4u 6u(large) 12u(small)">
+				<div class="box feature">
+					<a class="image featured" href={{ cat.url }}><img src="{{ cat.cat_image }}"/></a>
+					<div class="inner">
+						<header>
+							<a href={{ cat.url }}>{{ cat.cat_title }}</a>
+						</header>
+						<p>{{ cat.cat_short_desc }}</p>
+					</div>
+				</div>
+			</div>
+		{% endif %}
+	{% endfor %}
+</div>
