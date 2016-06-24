@@ -3,6 +3,8 @@ title: Каталог
 layout: default
 permalink: /catalog/
 type: "category"
+
+prod_title: Каталог
 ---
 <h2>Каталог</h2>
 <hr>
@@ -13,12 +15,12 @@ type: "category"
 		{% if cat.type == "category" %}
 			<div class="4u 6u(large) 12u(small)">
 				<div class="box feature">
-					<a class="image featured" href={{ cat.url }}><img src="{{ cat.cat_image }}"/></a>
+					<a class="image featured" href={{ cat.url }}><img src="{{ cat.prod_image }}"/></a>
 					<div class="inner">
 						<header>
-							<a href={{ cat.url }}>{{ cat.cat_title }}</a>
+							<a href={{ cat.url }}>{{ cat.prod_title }}</a>
 						</header>
-						<p>{{ cat.cat_short_desc }}</p>
+						<p>{{ cat.prod_short_desc }}</p>
 					</div>
 				</div>
 			</div>

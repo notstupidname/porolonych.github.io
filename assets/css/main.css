@@ -1773,7 +1773,7 @@
 		}
 
 			.box.feature .inner {
-				padding: 0 0 1em 0;
+				padding: 1em 0 1em 0;
 			}
 
 			.box.feature h2 {
@@ -2067,6 +2067,25 @@
 				display: inline;
 			}
 			
+				#breadcrumbs ul li:after{
+					font-family: FontAwesome;
+					content: "\f105";
+					padding: 0 1em 0 1em;
+				}
+				
+				#breadcrumbs ul li:last-child:after{
+					content: "";
+				}
+				
+				#breadcrumbs ul li a{
+					color: #696969;
+					text-decoration: none;
+				}
+				
+					#breadcrumbs ul li a:hover{
+						color: #787878;
+						text-decoration: underline;
+					}
 /* Header contacts */
 
 	#header-contacts {
@@ -2662,6 +2681,10 @@
 			
 			#sidebar {
 				text-align: center;
+			}
+			
+			#sidebar ul li a:hover{
+				left: 0;
 			}
 			
 		/* Header contacts */

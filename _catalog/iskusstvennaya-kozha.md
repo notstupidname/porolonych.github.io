@@ -5,9 +5,9 @@ permalink: /catalog/:path/
 type: "category"
 weight: 2
 
-cat_title: Поролон
-cat_short_desc: Длинное описание категории поролон.
-cat_image: /images/pic300.jpg
+prod_title: Искусственная кожа
+prod_short_desc: Длинное описание категории поролон.
+prod_image: /images/pic300.jpg
 ---
 
 Content

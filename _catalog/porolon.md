@@ -1,13 +1,16 @@
 ---
-title: porolon
+title: Поролон
+description:
+
+
 layout: category
 permalink: /catalog/:path/
 type: "category"
 weight: 1
 
-cat_title: Поролон
-cat_short_desc: Длинное описание категории поролон.
-cat_image: /images/pic300.jpg
+prod_title: Поролон
+prod_short_desc: Длинное описание категории поролон.
+prod_image: /images/pic300.jpg
 ---
 
 Content

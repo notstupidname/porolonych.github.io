@@ -1,5 +1,5 @@
 ---
-title: porolon-el-2545
+title: Поролон EL 2545
 layout: product
 permalink: /catalog/:path
 type: "product"
