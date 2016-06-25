@@ -2382,7 +2382,7 @@
 				position: fixed;
 				top: 0;
 				width: 100%;
-				z-index: 10001;
+				z-index: 1000;
 			}
 
 				#navToggle .toggle {
@@ -2742,5 +2742,6 @@
 		
 		#inline-form {
 			min-width: 60vw;
+			max-width: 75vw;
 		}
 	}
