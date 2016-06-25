@@ -86,20 +86,22 @@
 			required: true,
 			minlength: 2
 			},
-			email: {
+			phone: {
 			required: true,
-			email: true
+			minlength: 10
 			},
 			message: {
 			required: true,
-			minlength: 5
 			}
 		},
 		messages: {
-			name: "Please specify your name",
-			email: {
-			  required: "We need your email address to contact you",
-			  email: "Your email address must be in the format of name@domain.com"
+			name: "Пожалуйста, укажите Ваше имя",
+			phone: {
+			  required: "Пожалуйста, укажите Ваш телефон для подтверждения заказа",
+			  minlength: "Номер телефона не может быть короче 10 символов"
+			},
+			message: {
+			  required: "Пожалуйста, укажите необходимые параметры товара"
 			}
 		},
 		// errorPlacement: function(error, element) {

@@ -44,17 +44,22 @@
 													
 													<div style="display:none">
 														<div id="inline-form">
+															<h2>Заказ товара</h2>
+															<p>Поля отмеченные <b>*</b> обязательны к заполнению</p>
 															<form action="#" class="ajax-form">
-																<input required data-msg="Please fill this field" type="text" class="name" name="name" placeholder="Your name">
-																<input type="text" class="email" name="email" placeholder="Your email address">
-																<textarea name="message" class="message" placeholder="Enter your message"></textarea>
+																<input type="text" class="name" name="name" placeholder="Ваше имя*">
+																<input type="text" class="phone" name="phone" placeholder="Ваш телефон*">
+																<input type="text" class="email" name="email" placeholder="Ваш e-mail">
+																<input type="text" class="address" name="address" placeholder="Адрес доставки/самовывоз">
+																<textarea name="message" class="message" placeholder="Укажите необходимые параметры товара*"></textarea>
+																<input style="display:none" type="text" class="product" name="product" value="{{ page.prod_title }}">
 																<div class="form-btn">
-																	<input type="submit" class="submit" value="Submit">
+																	<input type="submit" class="submit" value="Отправить">
 																</div>
 															</form>
-															<div class="form-thank-you">
-																 <h3>Thank you for contacting me!</h3>
-																 <p>I'll be in touch with you shortly</p>
+															<div class="form-thank-you" style="display:none;">
+																 <h3>Спасибо за заказ!</h3>
+																 <p>Наши менеджеры свяжутся с Вами в самое ближайшее время.</p>
 															</div>  
 														</div>
 													</div>

@@ -1452,10 +1452,11 @@
 
 	form label {
 		display: block;
-		font-weight: 800;
+		font-weight: 600;
 		margin: 0 0 1em 0;
-		font-size: 0.8em;
-		color: #444;
+		font-size: 1em;
+		color: crimson;
+		text-align: left;
 	}
 
 	form input[type="text"],
@@ -1466,7 +1467,6 @@
 		-webkit-appearance: none;
 		display: block;
 		width: 100%;
-		border-radius: 8px;
 		border: solid 1px #eee;
 	}
 
@@ -1475,7 +1475,8 @@
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #dd6031;
+			outline-color: #dd6031;
 		}
 
 	form input[type="text"],
@@ -1483,6 +1484,7 @@
 	form input[type="password"] {
 		line-height: 3em;
 		padding: 0 1em;
+		margin: 1.2em 0;
 	}
 
 	form select {
@@ -1493,6 +1495,7 @@
 	form textarea {
 		min-height: 9em;
 		padding: 1em;
+		margin: 1.2em 0;;
 	}
 
 	form .formerize-placeholder {
@@ -1875,7 +1878,6 @@
 				height: 2.5em;
 				text-align: center;
 				line-height: 2.5em;
-				border-radius: 0.35em;
 				outline: 0;
 				opacity: 0.75;
 				text-decoration: none;
@@ -2170,6 +2172,11 @@
 		#how-to-buy p{
 			margin-bottom: 0;
 		}
+		
+	#inline-form {
+		min-width: 30vw;
+		text-align: center;
+	}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
@@ -2732,5 +2739,8 @@
 				#header-contacts ul li{
 					margin-bottom: 0.6em;
 				}
-
+		
+		#inline-form {
+			min-width: 60vw;
+		}
 	}
