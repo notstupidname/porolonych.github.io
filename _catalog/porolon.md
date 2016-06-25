@@ -2,7 +2,6 @@
 title: Поролон
 description:
 
-
 layout: category
 permalink: /catalog/:path/
 type: "category"
