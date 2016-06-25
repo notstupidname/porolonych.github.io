@@ -93,7 +93,12 @@
 			<script type="text/javascript" src="/assets/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 			<script type="text/javascript">
 				$(document).ready(function() {
-					$(".fancybox").fancybox();
+					$(".fancybox").fancybox({
+						fitToView : true,
+						beforeLoad : function() {         
+							this.fitToView  = !(this.element.data('fancybox-fit') == false); 
+						}
+					});
 				});
 			</script>
 			{% if page.url != "/" %}
