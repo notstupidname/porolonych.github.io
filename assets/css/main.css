@@ -1360,9 +1360,15 @@
 			text-decoration: none;
 			outline: 0;
 		}
-
-	h2 {
+	
+	h1 {
 		font-size: 2.25em;
+		margin: 0 0 0.8em 0;
+		line-height: 1em;
+	}
+	
+	h2 {
+		font-size: 1.75em;
 		margin: 0 0 0.8em 0;
 		line-height: 1em;
 	}
@@ -1430,7 +1436,7 @@
 		margin: 0;
 	}
 
-		header h2, header h3 {
+		header h1, header h2, header h3 {
 			margin: 0 0 0.25em 0;
 		}
 
@@ -1718,13 +1724,22 @@
 
 /* List */
 
-	ul.default {
+	ul {
 		list-style: disc;
 		padding-left: 1em;
 	}
 
-		ul.default li {
+		ul li {
 			padding-left: 0.5em;
+		}
+	
+	ul.default {
+		list-style: none;
+		padding-left: 0;
+	}
+
+		ul.default li {
+			padding-left: 0;
 		}
 
 	ul.actions li {
@@ -1775,6 +1790,18 @@
 			.box.feature .inner {
 				padding: 1em 0 1em 0;
 			}
+			
+				.box.feature .inner a{
+					display: block;
+					width: 100%;
+					font-size: 1.35 em;
+					font-weight: 600;
+					text-decoration: none;
+				}
+				
+					.box.feature .inner a:hover{
+						text-decoration: underline;
+					}
 
 			.box.feature h2 {
 				font-size: 1.35em;
@@ -2485,6 +2512,11 @@
 				line-height: 2em;
 			}
 
+			h1 {
+				font-size: 15pt;
+				margin: 0 0 1em 0;
+			}
+			
 			h2, h3, h4, h5, h6 {
 				font-size: 13pt;
 				margin: 0 0 1em 0;
