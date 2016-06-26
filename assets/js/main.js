@@ -36,13 +36,6 @@
 				);
 			});
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({
-				mode: 'fade',
-				noOpenerFade: true,
-				speed: 300
-			});
-
 		// Off-Canvas Navigation.
 
 			// Navigation Toggle.
@@ -123,6 +116,15 @@
 	
 	$(document).ready(function() {
 		$('.box').matchHeight();
+	});
+	
+	$(document).ready(function() {
+		$(".fancybox").fancybox({
+			fitToView : true,
+			beforeLoad : function() {         
+				this.fitToView  = !(this.element.data('fancybox-fit') == false); 
+			}
+		});
 	});
 	
 

@@ -1416,7 +1416,7 @@
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 
 /* Section/Article */
@@ -1624,7 +1624,14 @@
 
 		.image.left {
 			float: left;
-			margin: 0 2em 2em 0;
+			margin: 0 1em 1em 0;
+			max-width: 30%;
+		}
+		
+		.image.right {
+			float: right;
+			margin: 0 0 1em 1em;
+			max-width: 30%;
 		}
 
 		.image.centered {
@@ -1769,12 +1776,12 @@
 			padding-left: 0;
 		}
 
-	ol.default {
+	ol {
 		list-style: decimal;
 		padding-left: 1.25em;
 	}
 
-		ol.default li {
+		ol li {
 			padding-left: 0.25em;
 		}
 
@@ -2232,9 +2239,9 @@
 
 		/* Image */
 
-			.image.left {
+			.image.left, .image.right {
 				width: 25%;
-				margin-bottom: 2em !important;
+				margin-bottom: 1em !important;
 			}
 
 		/* List */
@@ -2542,10 +2549,11 @@
 
 		/* Image */
 
-			.image.left {
+			.image.left, .image.right {
 				width: 25%;
-				margin-bottom: 2em !important;
+				margin-bottom: 1em !important;
 			}
+			
 
 		/* List */
 
