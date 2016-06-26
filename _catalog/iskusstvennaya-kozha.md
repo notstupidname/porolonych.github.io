@@ -1,5 +1,6 @@
 ---
-title: porolon
+title: Искусственная кожа с доставкой по Москве
+description: У нас Вы сможете купить искусственную кожу со склада в Москве. Искусственная кожа для обивки мебели и дверей.
 layout: category
 permalink: /catalog/:path/
 type: "category"

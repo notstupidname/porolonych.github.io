@@ -6,8 +6,8 @@ layout: default
 permalink: /blog/:title
 
 prod_title: Мебельный поролон
-prod_short_desc: Длинное описание категории поролон.
-prod_image: /images/pic300.jpg
+prod_short_desc: Одной из областей применения поролона является производство мягкой мебели, поролон используют практически во всех типах диванов, матрасов, кресел и стульях.
+prod_image: /images/posts/mebelniy-porolon_1.jpg
 ---
 # Мебельный поролон
 <img class="image right" src="/images/posts/mebelniy-porolon_1.jpg"/>

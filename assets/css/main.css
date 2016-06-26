@@ -1485,6 +1485,7 @@
 		line-height: 3em;
 		padding: 0 1em;
 		margin: 1.2em 0;
+		height: 3em;
 	}
 
 	form select {
@@ -1801,15 +1802,15 @@
 				padding: 1em 0 1em 0;
 			}
 			
-				.box.feature .inner a{
+				.box.feature .inner header a{
 					display: block;
 					width: 100%;
-					font-size: 1.35 em;
+					font-size: 1.1em;
 					font-weight: 600;
 					text-decoration: none;
 				}
 				
-					.box.feature .inner a:hover{
+					.box.feature .inner header a:hover{
 						text-decoration: underline;
 					}
 

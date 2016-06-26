@@ -6,8 +6,8 @@ layout: default
 permalink: /blog/:title
 
 prod_title: Что такое Поролон?
-prod_short_desc: Длинное описание категории поролон.
-prod_image: /images/pic300.jpg
+prod_short_desc: Поролоном принято называть вспененный пенополиуретан (ППУ), используемый как опорный, смягчающий и изоляционный материал.
+prod_image: /images/posts/chto-takoe-porolon-porolon_3.jpg
 ---
 # Что такое Поролон?
 <img class="image right" src="/images/posts/chto-takoe-porolon-porolon_1.jpg"/>

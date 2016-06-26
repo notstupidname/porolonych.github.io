@@ -6,8 +6,8 @@ layout: default
 permalink: /blog/:title
 
 prod_title: Как заменить поролон в диване
-prod_short_desc: Длинное описание категории поролон.
-prod_image: /images/pic300.jpg
+prod_short_desc: К сожалению, со временем даже самая дорогостоящая и любимая мебель теряет свой первоначальный вид и комфорт.
+prod_image: /images/posts/kak-zamenit-porolon-v-divane_2.jpg
 ---
 # Замена поролона в мягкой мебели
 

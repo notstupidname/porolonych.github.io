@@ -6,8 +6,8 @@ layout: default
 permalink: /blog/:title
 
 prod_title: Производство поролона
-prod_short_desc: Длинное описание категории поролон.
-prod_image: /images/pic300.jpg
+prod_short_desc: На первый взгляд производство поролона кажется простым, а его использование практически незаметно.
+prod_image: /images/posts/proizvodstvo-porolona_1.jpg
 ---
 # Производство поролона
 
