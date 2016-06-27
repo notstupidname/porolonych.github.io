@@ -1,5 +1,6 @@
 ---
-title: porolon
+title: Фурнитура для обивки уплотнители для дверей, клей, скобы и прочее
+description: Аксессуары для обивки уплотнители для дверей, клей, скобы и прочее купить с доставкой по Москве
 layout: category
 permalink: /catalog/:path/
 type: "category"
