@@ -9,7 +9,7 @@ weight: 1
 
 prod_title: Поролон
 prod_short_desc: Поролон - это торговое название листового пенополиуретана. Наименование "Поролон", ставшее для нас столь привычным, в действительности является торговым названием эластичного пенополиуретана...
-prod_image: /images/pic300.jpg
+prod_image: /images/catalog/category-porolon.jpg
 ---
 ## Поролон от компании «Поролоныч»
 <img class="image right" src="/images/catalog/porolon_foto.png"/>
