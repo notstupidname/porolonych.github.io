@@ -1862,6 +1862,10 @@
 	.widget.thumbnails .image {
 		margin: 0;
 	}
+	
+	.widget.links  {
+		text-align: right;
+	}
 
 	.widget.contact ul {
 		overflow: hidden;
@@ -2637,6 +2641,13 @@
 
 		/* Widgets */
 
+			.widget {
+				text-align: center;
+			}
+			
+			.widget.links  {
+				text-align: center;
+			}
 			.widget.thumbnails .image {
 				margin: 0;
 			}
