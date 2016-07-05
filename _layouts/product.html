@@ -15,10 +15,10 @@
 				<div id="main-wrapper">
 					<div class="container">
 						<div class="row">
-							<div class="3u 12u$(small)">
+							<div class="3u 4u(medium) 12u$(small)">
 								{% include sidebar.html %}
 							</div>
-							<div class="9u 12u$(small)">
+							<div class="9u 8u(medium) 12u$(small)">
 								<div id="content">
 
 									<!-- Content -->
@@ -26,9 +26,12 @@
 										<article>
 
 											<h1>{{ page.prod_title }}</h1>
+											{% assign url_list = page.url | split: '/' %}
+											{% assign prod_name = url_list | last %}
 											<div class="row">
 												<div class="4u 12u(small)">
-													<img class="image fit" src="{{ page.prod_image }}" alt="{{ page.prod_title }}"/>
+													<a title="{{ page.prod_title }}" class="image fit fancybox" href="/images/catalog/{{ prod_name }}.jpg" data-fancybox-group="gallery"><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{ page.prod_title }}"/></a>
+													
 												</div>
 												<div class="8u 12u(small)">
 													<p>{{page.prod_full_desc }}</p>
@@ -76,8 +79,7 @@
 											{% endif %}
 											<div class="row 50%">
 												<div class="7u 12u(medium)">
-												{% assign url_list = page.url | split: '/' %}
-												{% assign prod_name = url_list | last %}
+												
 												{% assign img_array = "" | split:"," %}
 												{% for file in site.static_files %}
 													{% if file.path contains page.url %}
@@ -92,7 +94,7 @@
 															{% for img in img_array %}
 																<div class="3u 4u(small)">
 																	{% assign temp_str = 'thumb/' | append: prod_name %}
-																	<a title="{{ page.prod_title }}" class="image fit fancybox" href="{{ img }}" rel="gallery"><img src="{{ img | replace: prod_name, temp_str }}" alt="{{ page.prod_title }}"/></a>
+																	<a title="{{ page.prod_title }}" class="image fit fancybox" href="{{ img }}" data-fancybox-group=="gallery"><img src="{{ img | replace: prod_name, temp_str }}" alt="{{ page.prod_title }}"/></a>
 																</div>
 															{% endfor %}
 														</div>

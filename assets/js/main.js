@@ -123,7 +123,12 @@
 			fitToView : true,
 			beforeLoad : function() {         
 				this.fitToView  = !(this.element.data('fancybox-fit') == false); 
+			},
+			helpers : {
+				title: {
+					type: 'over'
 			}
+    }
 		});
 	});
 	
