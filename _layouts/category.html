@@ -27,8 +27,10 @@
 											<h1>{{ page.prod_title }}</h1>
 											<hr>
 											<div class="row 50%">
+											{% assign url_list = page.url | split: '/' %}
+											{% assign cat_name = url_list | last %}
 											{% for product in site.catalog %}
-												{% if product.type != "category" and product.url contains page.url%}
+												{% if (product.type != "category" and product.url contains page.url) or (product.prod_add_cat == cat_name) %}
 													{% assign url_list = product.url | split: '/' %}
 													{% assign prod_name = url_list | last %}
 													<div class="3u 4u(large) 6u(medium)">

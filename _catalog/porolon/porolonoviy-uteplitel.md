@@ -11,6 +11,7 @@ prod_short_desc: Надежно защищает от сквозняков и п
 prod_full_desc: Длинное описание.
 prod_message: При заказе товара пожалуйста уточните необходимые параметры (размер и количество).
 prod_image: /images/porolon.jpg
+prod_add_cat: "utepliteli"
 
 chars:
 - "Плотность, кг/м3: 20"
