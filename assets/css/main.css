@@ -1424,6 +1424,10 @@
 	section, article {
 		margin-bottom: 5em;
 	}
+	
+		article p {
+			line-height: 1.75em;
+		}
 
 	section > :last-child,
 	article > :last-child,
