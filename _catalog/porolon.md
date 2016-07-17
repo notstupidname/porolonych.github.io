@@ -6,6 +6,7 @@ redirect_from:
 - /porolon
 - /index.php/prajs-list/2-prais/5-prajs-list-porolon
 - /index.php/porolon
+- /index.php/porolon/
 - /index.php/chto-takoe-porolon/2-prais/5-prajs-list-porolon
 
 layout: category
