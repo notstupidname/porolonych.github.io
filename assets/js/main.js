@@ -102,7 +102,7 @@
 		submitHandler: function(form) {
 			$.ajax({
 				dataType: "jsonp",
-				url: "https://getsimpleform.com/messages/ajax?form_api_token=de9720bd366aac7b944cd1e046e0cda9",
+				url: "https://getsimpleform.com/messages/ajax?form_api_token=611298e2aef6031a2d171125cf11c1e8",
 				data: $(".ajax-form").serialize() 
 				}).done(function() {
 				//callback which can be used to show a thank you message
