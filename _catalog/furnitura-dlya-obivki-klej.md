@@ -1,8 +1,9 @@
 ---
 title: Фурнитура для обивки уплотнители для дверей, клей, скобы и прочее
 description: Аксессуары для обивки уплотнители для дверей, клей, скобы и прочее купить с доставкой по Москве
-redirect_from: /index.php/dekorativnye-gvozdi
-redirect_from: /index.php/furnitura-uplotniteli-gvozdi-mebelnye
+redirect_from:
+- /index.php/dekorativnye-gvozdi
+- /index.php/furnitura-uplotniteli-gvozdi-mebelnye
 
 layout: category
 permalink: /catalog/:path/

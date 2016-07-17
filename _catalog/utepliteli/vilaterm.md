@@ -1,9 +1,10 @@
 ---
 title: Вилатерм - Поролоныч
 description: Купить Вилатерм в розницу с доставкой по Москве.
-redirect_from: /index.php/vilaterm/2-prais/13-prajs-list-vilaterm
-redirect_from: /index.php/vilaterm
-redirect_from: /index.php/prajs-list/2-prais/13-prajs-list-vilaterm
+redirect_from:
+- /index.php/vilaterm/2-prais/13-prajs-list-vilaterm
+- /index.php/vilaterm
+- /index.php/prajs-list/2-prais/13-prajs-list-vilaterm
 
 layout: product
 permalink: /catalog/:path
