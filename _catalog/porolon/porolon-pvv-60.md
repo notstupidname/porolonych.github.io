@@ -5,6 +5,7 @@ description: Купить Поролон ПВВ-60 в розницу с дост
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 5
 
 prod_title: Поролон ПВВ-60
 prod_short_desc: Поролон вторичного вспенивания высокой плотности. Используется в мебельной и автомобильной промышленности.

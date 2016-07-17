@@ -1,6 +1,7 @@
 ---
 title: Максизол - Поролоныч
 description: Купить Максизол в розницу с доставкой по Москве.
+redirect_from: /index.php/maksizol
 
 layout: product
 permalink: /catalog/:path

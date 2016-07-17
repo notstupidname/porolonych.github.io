@@ -1,6 +1,9 @@
 ---
 title: Ватин - Поролоныч
 description: Купить Ватин в розницу с доставкой по Москве.
+redirect_from: /index.php/vatin/2-prais/18-prajs-list-vatin
+redirect_from: /index.php/vatin
+redirect_from: /index.php/sintepon/2-prais/18-prajs-list-vatin
 
 layout: product
 permalink: /catalog/:path

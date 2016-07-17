@@ -5,6 +5,7 @@ description: Купить Поролоновый валик в розницу с
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 12
 
 prod_title: Поролоновый валик
 prod_short_desc: Цилиндрические валики из поролона стандартной жесткости. Применяются в качестве наполнителя для мебели (валиков, подушек и т.п.)

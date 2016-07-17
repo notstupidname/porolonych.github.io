@@ -5,6 +5,7 @@ description: Купить Поролон ST 3040 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 8
 
 prod_title: Поролон ST 3040
 prod_short_desc: Марка листового поролона стандартной жесткости, отличается превосходной эластичностью и восстанавливаемостью.

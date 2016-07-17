@@ -1,6 +1,7 @@
 ---
 title: Спанбонд - Поролоныч
 description: Купить Спанбонд в розницу с доставкой по Москве.
+redirect_from: /index.php/spanbond
 
 layout: product
 permalink: /catalog/:path

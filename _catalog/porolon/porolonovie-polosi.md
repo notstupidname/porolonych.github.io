@@ -5,6 +5,7 @@ description: Купить Поролоновые полосы в розницу 
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 10
 
 prod_title: Поролоновые полосы
 prod_short_desc: Полосы из 100% ППУ. Используются при выполнении строительных работ или ручной мойке автомобилей.

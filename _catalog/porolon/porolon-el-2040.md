@@ -5,6 +5,7 @@ description: Купить Поролон EL 2040 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 1
 
 prod_title: Поролон EL 2040
 prod_short_desc: Листовой поролон повышенной жесткости. Применяется в качестве наполнителя для мягкой мебели.

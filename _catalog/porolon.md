@@ -1,6 +1,11 @@
 ---
 title: Мебельный поролон с доставкой по Москве - Поролоныч
-description: Мебельный поролон в розницу и оптом по лучшей цене с доставкой по Москве.
+description: Поролон в розницу со склада в Москве. Розничная цена поролона от Поролоныча.
+redirect_from: /index.php/porolon/2-prais/5-prajs-list-porolon
+redirect_from: /porolon
+redirect_from: /index.php/prajs-list/2-prais/5-prajs-list-porolon
+redirect_from: /index.php/porolon
+redirect_from: /index.php/chto-takoe-porolon/2-prais/5-prajs-list-porolon
 
 layout: category
 permalink: /catalog/:path/

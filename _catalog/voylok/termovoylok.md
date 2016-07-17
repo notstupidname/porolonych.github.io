@@ -1,6 +1,7 @@
 ---
 title: Термовойлок - Поролоныч
 description: Купить Термовойлок в розницу с доставкой по Москве.
+redirect_from: /index.php/termovojlok
 
 layout: product
 permalink: /catalog/:path

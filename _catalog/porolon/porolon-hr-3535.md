@@ -5,6 +5,7 @@ description: Купить Поролон HR 3535 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 4
 
 prod_title: Поролон HR 3535
 prod_short_desc: Высокоэластичный поролон, также называемый искусственный латекс. В этом поролоне не остаются вмятины даже после длительной эксплуатации.

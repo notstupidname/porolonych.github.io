@@ -5,6 +5,7 @@ description: Купить Поролон EL 2540 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 2
 
 prod_title: Поролон EL 2540
 prod_short_desc: Высококачественный поролон повышенной жесткости и плотности. Используется в мебельном производстве в качестве наполнителя.

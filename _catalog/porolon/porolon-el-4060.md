@@ -5,6 +5,7 @@ description: Купить Поролон EL 4060 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 3
 
 prod_title: Поролон EL 4060
 prod_short_desc: Сверхжесткий поролон, обладает прекрасными эксплуатационными характеристиками и долговечностью.

@@ -5,6 +5,7 @@ description: Купить Поролон ST 1620 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 6
 
 prod_title: Поролон ST 1620
 prod_short_desc: Мягкий поролон. Применяется в качестве упаковки а так же для изготовления подголовников, боковин и спинок мягкой мебели.

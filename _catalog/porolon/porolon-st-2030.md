@@ -5,6 +5,7 @@ description: Купить Поролон ST 2030 в розницу с доста
 layout: product
 permalink: /catalog/:path
 type: "product"
+weight: 7
 
 prod_title: Поролон ST 2030
 prod_short_desc: Черный поролон стандартной жесткости. Используется в качестве упаковки для хрупких изделий, подарков а так же при перевозке.

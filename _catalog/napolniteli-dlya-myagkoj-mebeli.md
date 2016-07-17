@@ -1,6 +1,7 @@
 ---
 title: Наполнители для мягкой мебели с доставкой по Москве
 description: Синтепон, Войлок, Ватин, Фетр, Hollcon. Синтепон - легкий, объемный, упругий нетканый материал, в котором смесь полиэфирных волокон скрепляется клеевым (эмульсионным) или термическим способом.
+redirect_from: /index.php/sintepon/2-prais/16-prajs-list-sintepon-hollcon
 layout: category
 permalink: /catalog/:path/
 type: "category"

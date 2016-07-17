@@ -2769,3 +2769,19 @@
 			max-width: 75vw;
 		}
 	}
+	
+	.gallery a {
+		position: relative;
+	}
+		
+		.gallery a p {
+			position: absolute;
+			bottom: 0;
+			color: #fff;
+			background-color: rgba(0,0,0,0.5);
+			margin-bottom: 0;
+			font-size: 0.9em;
+			text-align: center;
+			width: 100%;
+		}
+			
