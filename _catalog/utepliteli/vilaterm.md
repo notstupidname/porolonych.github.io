@@ -4,6 +4,7 @@ description: Купить Вилатерм в розницу с доставко
 redirect_from:
 - /index.php/vilaterm/2-prais/13-prajs-list-vilaterm
 - /index.php/vilaterm
+- /index.php/vilaterm/
 - /index.php/prajs-list/2-prais/13-prajs-list-vilaterm
 
 layout: product
