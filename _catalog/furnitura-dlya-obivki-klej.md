@@ -4,6 +4,7 @@ description: Аксессуары для обивки уплотнители д�
 redirect_from:
 - /index.php/dekorativnye-gvozdi
 - /index.php/furnitura-uplotniteli-gvozdi-mebelnye
+- /index.php/component/content/article/10-produktsiya/23-gvozdi-mebelnye-dekorativnye-dvernye-i-okonnye-uplotniteli-furnitura-dlya-obivki-dverej
 
 layout: category
 permalink: /catalog/:path/

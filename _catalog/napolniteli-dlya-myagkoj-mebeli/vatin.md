@@ -5,6 +5,7 @@ redirect_from:
 - /index.php/vatin/2-prais/18-prajs-list-vatin
 - /index.php/vatin
 - /index.php/sintepon/2-prais/18-prajs-list-vatin
+- /index.php/vatin/
 
 layout: product
 permalink: /catalog/:path

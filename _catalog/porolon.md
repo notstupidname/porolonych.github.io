@@ -8,6 +8,7 @@ redirect_from:
 - /index.php/porolon
 - /index.php/porolon/
 - /index.php/chto-takoe-porolon/2-prais/5-prajs-list-porolon
+- /index.php/porolon/2-uncategorised/5-prajs-list-porolon
 
 layout: category
 permalink: /catalog/:path/

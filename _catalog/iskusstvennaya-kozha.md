@@ -6,6 +6,8 @@ redirect_from:
 - /index.php/prajs-list/2-prais/15-prajs-list-iskusstvennaya-kozha
 - /index.php/iskusstvennaya-koja
 - /index.php/iskusstvennaya-koja/2-prais/15-prajs-list-iskusstvennaya-kozha
+- /index.php/iskusstvennaya-koja/
+
 
 layout: category
 permalink: /catalog/:path/

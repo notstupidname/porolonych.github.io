@@ -1,7 +1,9 @@
 ---
 title: Синтепон - Поролоныч
 description: Купить Синтепон в розницу с доставкой по Москве.
-redirect_from: /index.php/sintepon
+redirect_from:
+- /index.php/sintepon
+- /index.php/sintepon/
 
 layout: product
 permalink: /catalog/:path
