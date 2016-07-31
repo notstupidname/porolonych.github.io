@@ -24,124 +24,128 @@
 									<!-- Content -->
 										{% include crumbs.html %}
 										<article>
-
-											<h1>{{ page.prod_title }}</h1>
-											{% assign url_list = page.url | split: '/' %}
-											{% assign prod_name = url_list | last %}
-											<div class="row">
-												<div class="4u 12u(small)">
-													<a title="{{ page.prod_title }}" class="image fit fancybox" href="/images/catalog/{{ prod_name }}.jpg" data-fancybox-group="gallery"><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{ page.prod_title }}"/></a>
-													
-												</div>
-												<div class="8u 12u(small)">
-													<p>{{page.prod_full_desc }}</p>
-													{% if page.prod_message %}
-													<p><b>{{ page.prod_message }}</b></p>
-													{% endif %}
-													<footer>
-														{% if page.price.size > 2 %}
-														<h3>{{ page.price }}</h3>
+											<div itemscope itemtype="http://schema.org/Product">
+												<h1 itemprop="name">{{ page.prod_title }}</h1>
+												{% assign url_list = page.url | split: '/' %}
+												{% assign prod_name = url_list | last %}
+												<div class="row">
+													<div class="4u 12u(small)">
+														<a  itemprop="image" title="{{ page.prod_title }}" class="image fit fancybox" href="/images/catalog/{{ prod_name }}.jpg" data-fancybox-group="gallery"><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{ page.prod_title }}"/></a>
+														
+													</div>
+													<div class="8u 12u(small)">
+														<p itemprop="description">{{page.prod_full_desc }}</p>
+														{% if page.prod_message %}
+														<p><b>{{ page.prod_message }}</b></p>
 														{% endif %}
-														<a href="#inline-form" class="button fancybox" data-fancybox-fit="false">Заказать</a>
-													</footer>
-													
-													<div style="display:none">
-														<div id="inline-form">
-															<form action="#" class="ajax-form">
-																<h2>Заказ товара</h2>
-																<p>Поля отмеченные <b>*</b> обязательны к заполнению</p>
-																<input type="text" class="name" name="name" placeholder="Ваше имя*">
-																<input type="text" class="phone" name="phone" placeholder="Ваш телефон*">
-																<input type="text" class="email" name="email" placeholder="Ваш e-mail">
-																<input type="text" class="address" name="address" placeholder="Адрес доставки/самовывоз">
-																<textarea name="message" class="message" placeholder="Укажите необходимые параметры товара*"></textarea>
-																<input style="display:none" type="text" class="product" name="product" value="{{ page.prod_title }}">
-																<div class="form-btn">
-																	<input type="submit" class="submit" value="Отправить">
-																</div>
-															</form>
-															<div class="form-thank-you" style="display:none;">
-																 <h3>Спасибо за заказ!</h3>
-																 <p>Наши менеджеры свяжутся с Вами в самое ближайшее время.</p>
-															</div>  
+														<footer>
+															{% if page.price.size > 2 %}
+															<div itemprop="offers" itemscope itemtype="http://schema.org/AggregateOffer">
+																<h3>Цена: <span itemprop="price">{{ page.price }}</span></h3>
+																<meta itemprop="priceCurrency" content="RUB">
+															</div>
+															{% endif %}
+															<a href="#inline-form" class="button fancybox" data-fancybox-fit="false">Заказать</a>
+														</footer>
+														
+														<div style="display:none">
+															<div id="inline-form">
+																<form action="#" class="ajax-form">
+																	<h2>Заказ товара</h2>
+																	<p>Поля отмеченные <b>*</b> обязательны к заполнению</p>
+																	<input type="text" class="name" name="name" placeholder="Ваше имя*">
+																	<input type="text" class="phone" name="phone" placeholder="Ваш телефон*">
+																	<input type="text" class="email" name="email" placeholder="Ваш e-mail">
+																	<input type="text" class="address" name="address" placeholder="Адрес доставки/самовывоз">
+																	<textarea name="message" class="message" placeholder="Укажите необходимые параметры товара*"></textarea>
+																	<input style="display:none" type="text" class="product" name="product" value="{{ page.prod_title }}">
+																	<div class="form-btn">
+																		<input type="submit" class="submit" value="Отправить">
+																	</div>
+																</form>
+																<div class="form-thank-you" style="display:none;">
+																	 <h3>Спасибо за заказ!</h3>
+																	 <p>Наши менеджеры свяжутся с Вами в самое ближайшее время.</p>
+																</div>  
+															</div>
 														</div>
 													</div>
 												</div>
-											</div>
-											<br>
-											{% if content.size > 4 %}
-											<div class="row 0%">
-												<h3>Варианты товара:</h3>
-												<div class="table-wrapper">
-												{{ content }}
+												<br>
+												{% if content.size > 4 %}
+												<div class="row 0%">
+													<h3>Варианты товара:</h3>
+													<div class="table-wrapper">
+													{{ content }}
+													</div>
 												</div>
-											</div>
-											{% endif %}
-											<div class="row 50%">
-												<div class="7u 12u(medium)">
-												
-												{% assign img_array = "" | split:"," %}
-												{% for file in site.static_files %}
-													{% if file.path contains page.url %}
-														{% assign img_array = img_array | push: file.path %}
-													{% endif %}
-												{% endfor %}
+												{% endif %}
+												<div class="row 50%">
+													<div class="7u 12u(medium)">
+													
+													{% assign img_array = "" | split:"," %}
+													{% for file in site.static_files %}
+														{% if file.path contains page.url %}
+															{% assign img_array = img_array | push: file.path %}
+														{% endif %}
+													{% endfor %}
 
-												{% if img_array.size > 0 %}
+													{% if img_array.size > 0 %}
+														
+															<h3>Дополнительные фото:</h3>
+															<div class="row 25%">
+																{% for img in img_array %}
+																	<div class="3u 4u(small)">
+																		{% assign temp_str = 'thumb/' | append: prod_name %}
+																		<a title="{{ page.prod_title }}" class="image fit fancybox" href="{{ img }}" data-fancybox-group="gallery"><img src="{{ img | replace: prod_name, temp_str }}" alt="{{ page.prod_title }}"/></a>
+																	</div>
+																{% endfor %}
+															</div>
+															<br>
+													{% endif %}
+													{% if page.chars != nil %}
+														
+															<h3>Характеристики товара:</h3>
+															<ul>
+																{% for char in page.chars %}
+																	<li>{{ char }}</li>
+																{% endfor %}
+															</ul>
+														
+													{% endif %}
+													{% if page.usage != nil %}
+														
+															<h3>Примеры использования:</h3>
+															<ul>
+																{% for uc in page.usage %}
+																	<li>{{ uc }}</li>
+																{% endfor %}
+															</ul>
+														
+													{% endif %}
 													
-														<h3>Дополнительные фото:</h3>
-														<div class="row 25%">
-															{% for img in img_array %}
-																<div class="3u 4u(small)">
-																	{% assign temp_str = 'thumb/' | append: prod_name %}
-																	<a title="{{ page.prod_title }}" class="image fit fancybox" href="{{ img }}" data-fancybox-group="gallery"><img src="{{ img | replace: prod_name, temp_str }}" alt="{{ page.prod_title }}"/></a>
-																</div>
-															{% endfor %}
+													</div>
+													<div class="5u 12u(medium)">
+														<div id="how-to-buy">
+															<header>
+																<h3>Как купить товар</h3>
+															</header>
+															<ol>
+																<li>
+																	<p><b>Консультация</b> и оформление заказа по телефону <b>+7&nbsp;(499)&nbsp;408-00-24</b>.</p>
+																</li>
+																<li>
+																	<p><b>Самовывоз.</b></p>
+																	<p>Перед покупкой товара необходимо уточнить наличие в магазинe.</p>
+																	<a href="/contact/">ТЦ "Каширский двор-2" м. Каширская</a>
+																	<p>+7 (926) 136-96-23</p>
+																</li>
+																<li>
+																	<p><b>Доставка</b> ежедневно.</p>
+																	<a href="/dostavka-i-oplata/">Подробнее о доставке</a>
+																</li>
+															</ol>
 														</div>
-														<br>
-												{% endif %}
-												{% if page.chars != nil %}
-													
-														<h3>Характеристики товара:</h3>
-														<ul>
-															{% for char in page.chars %}
-																<li>{{ char }}</li>
-															{% endfor %}
-														</ul>
-													
-												{% endif %}
-												{% if page.usage != nil %}
-													
-														<h3>Примеры использования:</h3>
-														<ul>
-															{% for uc in page.usage %}
-																<li>{{ uc }}</li>
-															{% endfor %}
-														</ul>
-													
-												{% endif %}
-												
-												</div>
-												<div class="5u 12u(medium)">
-													<div id="how-to-buy">
-														<header>
-															<h3>Как купить товар</h3>
-														</header>
-														<ol>
-															<li>
-																<p><b>Консультация</b> и оформление заказа по телефону <b>+7&nbsp;(499)&nbsp;408-00-24</b>.</p>
-															</li>
-															<li>
-																<p><b>Самовывоз.</b></p>
-																<p>Перед покупкой товара необходимо уточнить наличие в магазинe.</p>
-																<a href="/contact/">ТЦ "Каширский двор-2" м. Каширская</a>
-																<p>+7 (926) 136-96-23</p>
-															</li>
-															<li>
-																<p><b>Доставка</b> ежедневно.</p>
-																<a href="/dostavka-i-oplata/">Подробнее о доставке</a>
-															</li>
-														</ol>
 													</div>
 												</div>
 											</div>
