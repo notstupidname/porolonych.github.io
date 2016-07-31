@@ -20,7 +20,7 @@ prod_title: Каталог
 		{% if cat.type == "category" %}
 			<div class="4u 6u(large) 12u(small)">
 				<div class="box feature">
-					<a class="image featured" href={{ cat.url }}><img src="{{ cat.prod_image }}"/></a>
+					<a class="image featured" href={{ cat.url }}><img src="{{ cat.prod_image }}" alt="{{ cat.prod_title }}"/></a>
 					<div class="inner">
 						<header>
 							<a href={{ cat.url }}>{{ cat.prod_title }}</a>
