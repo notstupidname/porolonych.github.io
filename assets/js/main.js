@@ -103,6 +103,7 @@
 				//and reset the form
 				$(".ajax-form").hide();
 				$(".form-thank-you").fadeIn("400");
+				yaCounter15918124.reachGoal('order');
 			});
 			return false; //to stop the form from submitting
 		}
