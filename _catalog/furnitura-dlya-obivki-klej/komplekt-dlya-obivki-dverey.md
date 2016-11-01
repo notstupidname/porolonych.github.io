@@ -17,5 +17,11 @@ price: 950 руб.
 chars:
 
 usage:
+
+related:
+- porolon-el-2040
+- kozha-obivochnaya
+- kozha-dvernaya
+- porolon-st-3040
 ---
 

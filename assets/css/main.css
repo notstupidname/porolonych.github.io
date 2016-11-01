@@ -1527,13 +1527,13 @@
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
 		width: 100%;
-		font-size: 0.9em;
+		/* font-size: 0.9em; */
 	}
 
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
-		line-height: 1.6em;
+		line-height: 1em;
 	}
 
 		table tbody tr {
@@ -2164,6 +2164,7 @@
 	#how-to-buy {
 		border: solid 1px #bebebe;
 		padding: 1em 1.4em;
+		margin-bottom: 1em;
 	}
 	
 		#how-to-buy header{

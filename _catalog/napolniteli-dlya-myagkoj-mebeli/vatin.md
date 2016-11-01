@@ -24,6 +24,12 @@ chars:
 - "Ширина, м: 1,5"
 
 usage:
+
+related:
+- sintepon
+- voylok-naturalniy
+- voylok-iskusstvenniy
+- porolon-el-2040
 ---
 | Марка | Плотность, г/м2 | Ширина, м | Длина рулона, м | Розничная цена м.п, руб |
 |:--:|:--:|:--:|:--:|:--:|

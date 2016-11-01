@@ -15,6 +15,12 @@ price: от 300 руб./м2.
 chars:
 
 usage:
+
+related:
+- sintepon
+- porolon-el-2040
+- voylok-iskusstvenniy
+- vatin
 ---
 | Марка | Толщина, мм | Ширина, м | Розничная цена м2, руб |
 |:--:|:--:|:--:|:--:|

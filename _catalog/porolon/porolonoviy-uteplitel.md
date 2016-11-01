@@ -23,6 +23,11 @@ usage:
 - "утепление дверных проёмов"
 - "прокладки от сквозняка"
 
+related:
+- uplotnitel-d-9x8
+- uplotnitel-d-14x12
+- uteplitel-dlya-okon-i-dverey
+- porolonovie-polosi
 ---
 | Размер, мм | Длина, м | Цена, руб
 |:-----------:|:---------------:|:-------:|
