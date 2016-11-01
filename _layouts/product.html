@@ -45,7 +45,7 @@
 																<meta itemprop="priceCurrency" content="RUB">
 															</div>
 															{% endif %}
-															<a href="#inline-form" class="button fancybox" data-fancybox-fit="false">Заказать</a>
+															<a href="#inline-form" class="button fancybox icon fa-shopping-cart" data-fancybox-fit="false">Купить</a>
 														</footer>
 														
 														<div style="display:none">
@@ -76,7 +76,11 @@
 												<div class="row 0%">
 													<h3>Варианты товара:</h3>
 													<div class="table-wrapper">
-													{{ content }}
+														{% if content contains 'end_mark' %}
+															{{ content | split:'end_mark' | first | remove: '<p>' | remove: '</p>' }}
+														{% else %}
+															{{ content }}
+														{% endif %}
 													</div>
 												</div>
 												{% endif %}

@@ -22,7 +22,11 @@ prod_title: Прайс-лист
 		<h3><a href="{{ product.url }}">{{ product.prod_title }}</a></h3>
 		<p>{{ product.prod_short_desc }} <a href="{{ product.url }}">Подробнее</a></p>
 		<div class="table-wrapper">
-			{{ product.content }}
+			{% if product.content contains 'end_mark' %}
+				{{ product.content | split:'end_mark' | last | remove: '<p>' | remove: '</p>' }}
+			{% else %}
+				{{ product.content }}
+			{% endif %}
 		</div>
 	{% endif %}
 {% endfor %}
