@@ -19,7 +19,9 @@ prod_title: Прайс-лист
 {% assign sorted_cat = site.catalog | sort: 'weight' %}
 {% for product in sorted_cat %}
 	{% if (product.type != "category" and product.url contains "porolon") %}
-		<h3><a href="{{ product.url }}">{{ product.prod_title }}</a></h3>
+		{% assign url_list = product.url | split: '/' %}
+		{% assign prod_name = url_list | last %}
+		<h3 id="{{prod_name}}"><a href="{{ product.url }}">{{ product.prod_title }}</a></h3>
 		<p>{{ product.prod_short_desc }} <a href="{{ product.url }}">Подробнее</a></p>
 		<div class="table-wrapper">
 			{% if product.content contains 'end_mark' %}

@@ -78,6 +78,7 @@
 													<div class="table-wrapper">
 														{% if content contains 'end_mark' %}
 															{{ content | split:'end_mark' | first | remove: '<p>' | remove: '</p>' }}
+															<p>Для оптовых покупателей действуют специальные цены. <a href="/price-list/#{{prod_name}}">Подробнее</a></p>
 														{% else %}
 															{{ content }}
 														{% endif %}

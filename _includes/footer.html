@@ -63,7 +63,7 @@
 			{% if page.url != "/" %}
 			<script type="text/javascript">
 				jQuery(document).ready(function($) {
-					if (document.referrer.indexOf(location.hostname) != -1) {
+					if ((document.referrer.indexOf(location.hostname) != -1) && (document.URL.indexOf('#') == -1)) {
 						$("html,body").animate({scrollTop:$('#content').offset().top},1);
 					}
 				});
