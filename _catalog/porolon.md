@@ -20,7 +20,7 @@ prod_short_desc: Поролон - это торговое название ли�
 prod_image: /images/catalog/category-porolon.jpg
 ---
 ## Поролон от компании «Поролоныч»
-<img class="image right" src="/images/catalog/porolon_foto.png"/>
+<img class="image right" src="/images/catalog/porolon_foto.png" alt="Поролон мебельный от Поролоныча"/>
 
 Поролон - это торговое название листового пенополиуретана.
 
