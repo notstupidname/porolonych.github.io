@@ -11,7 +11,8 @@ prod_title: Лента самоклеющаяся для окон
 prod_short_desc: Ширина 50 мм, длина 10 метров.
 prod_full_desc: Ширина 50 мм, длина 10 метров.
 prod_message:
-price: 110 руб.
+price: 110
+price-a: " руб."
 
 chars:
 

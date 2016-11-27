@@ -5,3 +5,10 @@ gems:
 collections:
   catalog:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /images/porolon-v-roznicu-ot-porolonycha.jpg
