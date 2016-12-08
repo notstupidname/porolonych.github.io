@@ -2,6 +2,9 @@ gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
+logo: /images/logo_n_300.png
+title: Поролоныч
+  
 collections:
   catalog:
     output: true
