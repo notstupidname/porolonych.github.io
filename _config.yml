@@ -3,7 +3,7 @@ gems:
   - jekyll-redirect-from
 
 logo: /images/logo_n_300.png
-title: Поролоныч
+author: Поролоныч
   
 collections:
   catalog:

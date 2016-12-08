@@ -24,13 +24,13 @@
 									<!-- Content -->
 										{% include crumbs.html %}
 										<article>
-											<div itemscope itemtype="http://schema.org/Product">
-												<h1 itemprop="name">{{ page.prod_title }}</h1>
+											<div>
+												<h1>{{ page.prod_title }}</h1>
 												{% assign url_list = page.url | split: '/' %}
 												{% assign prod_name = url_list | last %}
 												<div class="row">
 													<div class="4u 12u(small)">
-														<a  itemprop="image" title="{{ page.prod_title }}" class="image fit fancybox" href="/images/catalog/{{ prod_name }}.jpg" data-fancybox-group="gallery"><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{ page.prod_title }}"/></a>
+														<a title="{{ page.prod_title }}" class="image fit fancybox" href="/images/catalog/{{ prod_name }}.jpg" data-fancybox-group="gallery"><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{ page.prod_title }}"/></a>
 														
 													</div>
 													<div class="8u 12u(small)">
@@ -61,15 +61,14 @@
 														  }
 														}
 														</script>
-														<p itemprop="description">{{page.prod_full_desc }}</p>
+														<p>{{page.prod_full_desc }}</p>
 														{% if page.prod_message %}
 														<p><b>{{ page.prod_message }}</b></p>
 														{% endif %}
 														<footer>
 															{% if page.price.size > 2 %}
-															<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																<h3>Цена: {{page.price-b}}<span itemprop="price">{{ page.price }}</span>{{page.price-a}}</h3>
-																<meta itemprop="priceCurrency" content="RUB">
+															<div>
+																<h3>Цена: {{page.price-b}}<span>{{ page.price }}</span>{{page.price-a}}</h3>
 															</div>
 															{% endif %}
 															<a href="#inline-form" class="button fancybox icon fa-shopping-cart" data-fancybox-fit="false">Купить</a>
