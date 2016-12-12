@@ -46,3 +46,6 @@ prod_image: /images/posts/kak-zamenit-porolon-v-divane_2.jpg
 Консультанты нашей компании помогут вам рассчитать, выбрать и приобрести нужный материал для ремонта любой мягкой мебели.
 
 В нашем ассортименте всегда представлены: [поролон](/catalog/porolon/), [синтепон](/catalog/napolniteli-dlya-myagkoj-mebeli/), обивочные ткани, [искусственная кожа](/catalog/iskusstvennaya-kozha/) и [фурнитура](/catalog/furnitura-dlya-obivki-klej/).
+
+---
+<p style="text-align:center"><a class="button alt" href="/catalog/porolon/">Купить поролон для мебели</a></p>
