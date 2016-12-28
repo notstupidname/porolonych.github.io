@@ -7,7 +7,7 @@ permalink: /shop.xml
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
-        <url>"http://porolonych.ru/"</url>
+        <url>http://porolonych.ru/</url>
         {% assign sorted_cat = site.catalog | sort: 'weight' %}
         <currencies>
             <currency id="RUR" rate="1"/>
@@ -40,11 +40,11 @@ permalink: /shop.xml
 				{% assign cat_id = 7 %}
 			{% endcase %}
             <offer id="{{forloop.index}}" available="true">
-                <url>"http://porolonych.ru{{product.url}}"</url>
+                <url>http://porolonych.ru{{product.url}}</url>
                 <price>{{product.price}}</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>{{cat_id}}</categoryId>
-                <picture>"http://porolonych.ru/images/catalog/{{prod_name}}.jpg"</picture>
+                <picture>http://porolonych.ru/images/catalog/{{prod_name}}.jpg</picture>
                 <delivery>true</delivery>
                 <delivery-options>
                     <option cost="400" days="1"/>
