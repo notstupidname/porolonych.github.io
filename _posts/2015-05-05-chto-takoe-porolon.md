@@ -67,4 +67,4 @@ prod_image: /images/posts/chto-takoe-porolon-porolon_3.jpg
 Ассортимент продукции, предлагаемый нашей компанией, включает в себя различные типы и марки поролона для всех областей его применения. Наши специалисты помогут Вам выбрать необходимую марку и размеры материала по Вашим запросам.
 
 ---
-<p style="text-align:center"><a class="button alt" href="/catalog/porolon/">Смотреть прайс на поролон</a></p>
+<p style="text-align:center"><a class="button alt" href="/catalog/porolon/">Купить поролон</a></p>
