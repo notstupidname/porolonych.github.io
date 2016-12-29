@@ -18,6 +18,9 @@ permalink: /shop.xml
             <category id="{{cat.weight}}">{{cat.prod_title}}</category>
             {% endfor %}
         </categories>
+		<delivery-options>
+			<option cost="400" days="1"/>
+		</delivery-options>
         {% assign products = sorted_cat | where: "type", "product" %}
         <offers>
             {% for product in products %}
@@ -46,10 +49,7 @@ permalink: /shop.xml
                 <categoryId>{{cat_id}}</categoryId>
                 <picture>http://porolonych.ru/images/catalog/{{prod_name}}.jpg</picture>
                 <delivery>true</delivery>
-                <delivery-options>
-                    <option cost="400" days="1"/>
-                </delivery-options>
-                <name>{{product.prod_title}}</name>
+                <name>{{product.prod_title | replace: '&Oslash;', 'Ø'}}</name>
                 <description>{{product.prod_full_desc | strip_html}}</description>
             </offer>
             {% endfor %}
