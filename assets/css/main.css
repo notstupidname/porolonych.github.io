@@ -1310,7 +1310,7 @@
 	body {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
+		color: #444;
 		font-weight: 300;
 		line-height: 2.25em;
 		background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");;
@@ -1420,7 +1420,7 @@
 	}
 	
 		article p {
-			line-height: 1.75em;
+			line-height: 1.65em;
 		}
 
 	section > :last-child,
@@ -1803,19 +1803,21 @@
 				.box.feature .inner header a{
 					display: block;
 					width: 100%;
-					font-size: 1.1em;
+					font-size: 1em;
 					font-weight: 600;
 					text-decoration: none;
 					line-height: 1.4em;
+					margin-bottom: 0.6em;
 				}
 				
 					.box.feature .inner header a:hover{
 						text-decoration: underline;
 					}
 
-			.box.feature h2 {
-				font-size: 1.35em;
-			}
+				.box.feature .inner header h4 {
+					font-size: 1em;
+					margin:0;
+				}
 
 			.box.feature p {
 				margin: 0;
@@ -2627,6 +2629,7 @@
 
 					.box.feature p {
 						margin: 0;
+						font-size: 0.9em;
 					}
 
 					.box.feature .image {
@@ -2638,6 +2641,10 @@
 							border-bottom-left-radius: 0;
 							border-bottom-right-radius: 0;
 						}
+						
+					.box.feature .inner header h4 {
+						font-size: 0.8em;
+					}
 
 		/* Widgets */
 
@@ -2679,7 +2686,7 @@
 			}
 
 			#main-wrapper, #footer-wrapper {
-				padding: 40px 30px 40px 30px;
+				padding: 40px 15px 40px 15px;
 			}
 
 		/* Logo */

@@ -37,12 +37,12 @@
 													<div class="3u 4u(large) 6u(medium)">
 														<div class="box feature">
 															<a class="image feature" href={{ product.url }}><img src="/images/catalog/{{ prod_name }}_small.jpg" alt="{{product.prod_title}}"/></a>
-															<a href={{ product.url }} class="button small" style="width:100%;text-align:center;">Подробнее</a>
+															<a href={{ product.url }} class="button alt small" style="width:100%;text-align:center;">Подробнее</a>
 															<section class="inner">
 																<header>
 																	<a href={{ product.url }}>{{ product.prod_title }}</a>
 																	{% if product.price %}
-																	<h4>{{ product.price-b }}{{ product.price }}{{ product.price-a }}</h4>
+																	<h4>Цена: {{ product.price-b }}{{ product.price }}{{ product.price-a }}</h4>
 																	{% endif %}
 																</header>
 																<p>{{ product.prod_short_desc }}</p>
