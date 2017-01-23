@@ -20,8 +20,9 @@ usage:
 
 related:
 - sintepon
+- voylok-iskusstvenniy-cherniy
 - porolon-el-2040
-- voylok-iskusstvenniy
+- voylok-iskusstvenniy-seriy
 - vatin
 ---
 | Марка | Толщина, мм | Ширина, м | Розничная цена м2, руб |
