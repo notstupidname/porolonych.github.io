@@ -32,7 +32,7 @@ usage:
 related:
 - sintepon
 - voylok-naturalniy
-- voylok-iskusstvenniy
+- voylok-iskusstvenniy-seriy
 - porolon-el-2040
 ---
 | Марка | Плотность, г/м2 | Ширина, м | Длина рулона, м | Розничная цена м.п, руб |
