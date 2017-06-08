@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /test
-Host: porolonych.ru
-Sitemap: http://porolonych.ru/sitemap.xml
+Host: https://porolonych.ru
+Sitemap: https://porolonych.ru/sitemap.xml
