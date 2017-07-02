@@ -1,7 +1,6 @@
 ---
 title: Клей мебельный "Poling" - Поролоныч
 description: Купить Клей мебельный "Poling" в розницу с доставкой по Москве.
-redirect_from: /index.php/klei
 
 layout: product
 permalink: /catalog/:path

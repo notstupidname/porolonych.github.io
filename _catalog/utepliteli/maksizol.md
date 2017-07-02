@@ -1,7 +1,6 @@
 ---
 title: Максизол купить по лучшей цене с доставкой - Поролоныч
 description: Купить Максизол в розницу с доставкой по Москве в интернет-магазине Поролоныча.
-redirect_from: /index.php/maksizol
 
 layout: product
 permalink: /catalog/:path

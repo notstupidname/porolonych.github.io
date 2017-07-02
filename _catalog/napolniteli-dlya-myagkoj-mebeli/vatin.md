@@ -1,12 +1,6 @@
 ---
 title: Ватин купить по лучшей цене с доставкой - Поролоныч
 description: Купить Ватин в розницу с доставкой по Москве в интернет-магазине Поролоныча.
-redirect_from:
-- /index.php/vatin/2-prais/18-prajs-list-vatin
-- /index.php/vatin
-- /index.php/sintepon/2-prais/18-prajs-list-vatin
-- /index.php/prajs-list/2-prais/18-prajs-list-vatin
-- /index.php/vatin/
 
 layout: product
 permalink: /catalog/:path

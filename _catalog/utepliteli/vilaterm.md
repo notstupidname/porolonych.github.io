@@ -1,11 +1,6 @@
 ---
 title: Вилатерм купить по лучшей цене с доставкой - Поролоныч
 description: Купить Вилатерм в розницу с доставкой по Москве в интернет-магазине Поролоныча.
-redirect_from:
-- /index.php/vilaterm/2-prais/13-prajs-list-vilaterm
-- /index.php/vilaterm
-- /index.php/vilaterm/
-- /index.php/prajs-list/2-prais/13-prajs-list-vilaterm
 
 layout: product
 permalink: /catalog/:path

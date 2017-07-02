@@ -1,10 +1,6 @@
 ---
 title: Синтепон купить по лучшей цене с доставкой - Поролоныч
 description: Купить Синтепон в розницу с доставкой по Москве в интернет-магазине Поролоныча.
-redirect_from:
-- /index.php/sintepon
-- /index.php/sintepon/
-- /index.php/prajs-list/2-prais/16-prajs-list-sintepon-hollcon
 
 layout: product
 permalink: /catalog/:path

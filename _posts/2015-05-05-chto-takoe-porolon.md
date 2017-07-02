@@ -1,7 +1,6 @@
 ---
 title: Что такое Поролон?
 description: Поролоном принято называть вспененный пенополиуретан (ППУ), используемый как опорный, смягчающий и изоляционный материал.
-redirect_from: /chto-takoe-porolon
 
 layout: default
 permalink: /blog/:title

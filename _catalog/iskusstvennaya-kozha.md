@@ -1,13 +1,6 @@
 ---
 title: Искусственная кожа с доставкой по Москве
 description: Искусственная кожа цена. Прайс лист на искусственную кожу со склада в Москве.
-redirect_from:
-- /index.php/prajs-list/2-prais/15-prajs-list...
-- /index.php/prajs-list/2-prais/15-prajs-list-iskusstvennaya-kozha
-- /index.php/iskusstvennaya-koja
-- /index.php/iskusstvennaya-koja/2-prais/15-prajs-list-iskusstvennaya-kozha
-- /index.php/iskusstvennaya-koja/
-
 
 layout: category
 permalink: /catalog/:path/

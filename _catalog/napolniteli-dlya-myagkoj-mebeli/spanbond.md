@@ -1,7 +1,6 @@
 ---
 title: Спанбонд купить по лучшей цене с доставкой - Поролоныч
 description: Купить Спанбонд в розницу с доставкой по Москве в интернет-магазине Поролоныча.
-redirect_from: /index.php/spanbond
 
 layout: product
 permalink: /catalog/:path

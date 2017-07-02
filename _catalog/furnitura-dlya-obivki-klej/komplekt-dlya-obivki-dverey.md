@@ -1,7 +1,6 @@
 ---
 title: Комплект для обивки дверей - Поролоныч
 description: Купить Комплект для обивки дверей в розницу с доставкой по Москве.
-redirect_from: /index.php/komplekty-dlya-obivki-dverej
 
 layout: product
 permalink: /catalog/:path
