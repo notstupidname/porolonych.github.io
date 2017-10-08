@@ -29,8 +29,8 @@ usage:
 
 related:
 - porolonoviy-uteplitel
-- uplotnitel-d-14x12
-- uteplitel-dlya-okon-i-dverey
+- voylochniy-uteplitel-seriy
+- voylochniy-uteplitel-beliy
 - porolonovie-polosi
 ---
 | Ширина, мм | Розничная цена, руб |
