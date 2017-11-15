@@ -1,8 +1,10 @@
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
 logo: /images/logo_n_300.png
+
+title: ""
   
 collections:
   catalog:
