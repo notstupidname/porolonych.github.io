@@ -13,7 +13,7 @@ prod_full_desc: Войлочный утеплитель представляет
 prod_message:
 prod_add_cat: "utepliteli"
 price-b:
-price: 500
+price: 550
 price-a: " руб./шт"
 
 chars:
