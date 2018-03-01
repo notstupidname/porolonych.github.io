@@ -5,7 +5,7 @@ description: Купить искусственную кожу дверную в 
 layout: product
 permalink: /catalog/:path
 type: "product"
-weight: 2
+weight: 3
 
 prod_title: Кожа дверная
 prod_short_desc: Отличается элегантным дизайном и слабовыраженным тиснением. Приятная фактура. Прочная на разрыв.

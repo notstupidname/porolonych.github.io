@@ -5,7 +5,7 @@ description: Купить искусственную кожу эконом в р
 layout: product
 permalink: /catalog/:path
 type: "product"
-weight: 1
+weight: 2
 
 prod_title: Кожа эконом
 prod_short_desc: Ярко выраженная фактура и множество классических цветов. Отличное сочетание цены и качества.
