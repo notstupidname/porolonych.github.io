@@ -3,8 +3,10 @@ plugins:
   - jekyll-redirect-from
 
 logo: /images/logo_n_300.png
+url: https://porolonych.ru
 
 title: ""
+lang: "ru_RU"
   
 collections:
   catalog:
