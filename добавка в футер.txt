@@ -7,3 +7,10 @@
 	});
 </script> -->
 {% endif %}
+
+//Левый рейтинг, гугл банит
+<!-- "aggregateRating": { -->
+<!-- "@type": "AggregateRating", -->
+<!-- "ratingValue": "{{rating_array | sample}}", -->
+<!-- "reviewCount": "{{count_array | sample}}" -->
+<!-- }, -->
