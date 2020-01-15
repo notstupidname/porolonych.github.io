@@ -94,17 +94,20 @@
 		// errorPlacement: function(error, element) {
 		// },
 		submitHandler: function(form) {
+			$(".ajax-form").hide();
+			$(".form-loading").fadeIn("300");
 			$.ajax({
 				dataType: "jsonp",
 				url: "https://script.google.com/macros/s/AKfycbzsBxQ_0rkFBSPUoWywnvdjUfyippHomxBDDRHV2hpTmWIrYNc/exec",
 				data: $(".ajax-form").serialize() 
 				}).done(function() {
-				//callback which can be used to show a thank you message
-				//and reset the form
-				$(".ajax-form").hide();
-				$(".form-thank-you").fadeIn("400");
-				yaCounter15918124.reachGoal('order');
-			});
+					$(".form-loading").hide();
+					$(".form-thank-you").fadeIn("300");
+					yaCounter15918124.reachGoal('order');
+				}).fail(function() {
+					$(".form-loading").hide();
+					$(".form-error").fadeIn("300");
+				});
 			return false; //to stop the form from submitting
 		}
 	});
