@@ -21,6 +21,12 @@ chars:
 
 usage:
 
+related:
+- kozha-ekonom
+- kozha-dvernaya
+- kley-mebelniy-poling
+- porolon-el-2040
+
 colors:
 - image: 27
   title: "Цвет №306 Тиснение №84 Печать №02330"

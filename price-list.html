@@ -16,7 +16,8 @@ prod_title: Прайс-лист
 <p>У нас в магазине Вы можете купить поролон в розницу. Цена поролона в розницу указана в рублях за лист. При покупке поролона мелким оптом (от 20 000 руб.) цена поролона уменьшится. Практически любой поролоновый лист в розницу есть в наличии в нашем магазине, точное наличие поролона Вы всегда сможете узнать по телефону или отправив запрос по e-mail.</p>
 {% assign sorted_cat = site.catalog | sort: 'weight' %}
 {% for product in sorted_cat %}
-	{% if (product.type != "category" and product.url contains "porolon") %}
+	{% if product.type != "category" %}
+	{% if product.url contains "porolon" %}
 		{% assign url_list = product.url | split: '/' %}
 		{% assign prod_name = url_list | last %}
 		<h3 id="{{prod_name}}"><a href="{{ product.url }}">{{ product.prod_title }}</a></h3>
@@ -28,5 +29,6 @@ prod_title: Прайс-лист
 				{{ product.content }}
 			{% endif %}
 		</div>
+	{% endif %}
 	{% endif %}
 {% endfor %}

@@ -31,7 +31,8 @@
 											{% assign cat_name = url_list | last %}
 											{% assign sorted_cat = site.catalog | sort: 'weight' %}
 											{% for product in sorted_cat %}
-												{% if (product.type != "category" and product.url contains page.url) or (product.prod_add_cat == cat_name) %}
+												{% if product.type != "category" %}
+												{% if product.url contains page.url or product.prod_add_cat == cat_name %}
 													{% assign url_list = product.url | split: '/' %}
 													{% assign prod_name = url_list | last %}
 													<div class="3u 4u(large) 6u(medium)">
@@ -49,6 +50,7 @@
 															</section>
 														</div>
 													</div>
+												{% endif %}
 												{% endif %}
 											{% endfor %}
 											
