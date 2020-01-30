@@ -21,4 +21,10 @@ chars:
 - "Кол-во в упаковке, шт: 1"
 
 usage:
+
+related:
+- gvozdi-kozhanye-23-mm-raznocvetnye
+- gvozdi-klassicheskie-10-mm-latun
+- gvozdi-obivochnye-20-mm-med
+- gvozdi-krashennye-10-mm-korichnevye
 ---

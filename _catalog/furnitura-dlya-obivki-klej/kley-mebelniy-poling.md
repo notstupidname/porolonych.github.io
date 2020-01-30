@@ -17,5 +17,11 @@ price-a: " руб."
 chars:
 
 usage:
+
+related:
+- stepler-mebelniy-obivochniy
+- porolon-el-2040
+- porolon-pvv-60
+- kozha-obivochnaya
 ---
 

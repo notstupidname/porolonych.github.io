@@ -22,6 +22,12 @@ chars:
 
 usage:
 - Звуко- и шумоизоляция помещений
+
+related:
+- porolon-st-2030
+- maksizol
+- kley-mebelniy-poling
+- stepler-mebelniy-obivochniy
 ---
 <a class="image left fancybox" href="/images/akust.png"><img src="/images/akust.png" alt="Акустический поролон, размеры"/></a>
 
