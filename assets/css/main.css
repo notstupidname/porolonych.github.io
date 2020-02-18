@@ -2747,6 +2747,8 @@
 			
 			#sidebar {
 				text-align: center;
+				height: 4em;
+				overflow: hidden;
 			}
 			
 			#sidebar ul li a:hover{
