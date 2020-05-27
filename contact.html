@@ -1,6 +1,6 @@
 ---
 title: Контакты и схема проезда - Поролоныч
-description: Мы находимся по адресу Каширское шоссе, д.1, торговый комплекс "Каширский двор-2" Торговые места № 222, склад-магазин -  18-4, витрина товаров -  11-1 ВБ.
+description: Мы находимся по адресу Неманский пр-д, дом 18 (район Строгино), 100 метров от МКАД.
 
 layout: default
 permalink: /contact/
@@ -34,23 +34,22 @@ prod_title: Контакты
 		<li><strong>Телефон:</strong> <a href="tel:+7(499)408-00-24"><span itemprop="telephone">+7 (499) 408-00-24</span></a></li>
 		<li><strong>E-mail:</strong> <a href="mailto:info@porolonych.ru"><span itemprop="email">info@porolonych.ru</span></a></li>
 		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-			<li><strong>Адрес:</strong> <span itemprop="postalCode">115230</span>, г. <span itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">Каширское шоссе, д. 1</span>, ТЦ "Каширский двор - 2, пав. 222</li>
+			<li><strong>Адрес:</strong> <span itemprop="postalCode">123592</span>, г. <span itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">Неманский пр-д, д. 18</span></li>
 		</div>
 		<li><strong>Часы работы:</strong><time itemprop="openingHours" datetime="Mo-Su 09:00−20:00"> Пн-Вск с 09:00 до 17:00. По предварительной договоренности возможен самовывоз до 18:00.</time></li>
-		<!-- <li style="color:red">НЕ РАБОТАЕМ С 28.01 по 04.02!</li> -->
 	</ul>
 </div>
-	<p><b>Проезд:</b> от станции м. «Нагатинская» – троллейбус №8, 40 или автобусы № 142, 147, от станции м. «Каширская» троллейбус №40 до остановки "1-й Нагатинский проезд, Каширский двор-2".</p>
+	<p><b>Проезд:</b> 100 метров от МКАД, станция метро Строгино, 700 метров пешком.</p>
 	<div id='map'></div>
 <br>
-<div class="row 25%">
+<!-- <div class="row 25%">
 	<div class="3u 4u(medium) 6u(small)">
 		<a href="/images/shema_proezda_porolonych.jpg" class="image feature fancybox" rel="schema"><img src="/images/shema_proezda_porolonych_small.jpg" alt="" title="Схема проезда"/></a>
 	</div>
 	<div class="3u 4u(medium) 6u(small)">
 		<a href="/images/shema_proezda_porolonych_2.jpg" class="image feature fancybox" rel="schema"><img src="/images/shema_proezda_porolonych_2_small.jpg" alt="" title="Схема проезда"/></a>
 	</div>
-</div>
+</div> -->
 <p>Реквизиты: ИП Васильева О.С., ИНН:773467111406, ОГРН:315774600392431</p>
 <script>
 	function initMap() {
@@ -58,7 +57,7 @@ prod_title: Контакты
 		var map;
 		function init() {
 			var mapOptions = {
-				center: new google.maps.LatLng(55.674027,37.627676),
+				center: new google.maps.LatLng(55.805811, 37.389688),
 				zoom: 16,
 				zoomControl: true,
 				zoomControlOptions: {
@@ -81,7 +80,7 @@ prod_title: Контакты
 			var mapElement = document.getElementById('map');
 			var map = new google.maps.Map(mapElement, mapOptions);
 			var locations = [
-	['\"Поролоныч\"', 'ТЦ \"Каширский двор - 2\", пав. 222', '+7 (926) 136-96-23', 'undefined', 'undefined', 55.674223551398654, 37.628803858474726, '/images/solid-pin-orange.png']
+	['\"Поролоныч\"', 'Неманский пр-д, д. 18', '+7 (926) 136-96-23', 'undefined', 'undefined', 55.805811, 37.389688, '/images/solid-pin-orange.png']
 			];
 			for (i = 0; i < locations.length; i++) {
 				if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
