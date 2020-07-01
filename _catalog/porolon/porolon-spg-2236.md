@@ -2,6 +2,8 @@
 title: Черный поролон SPG 2236 купить по лучшей цене с доставкой - Поролоныч
 description: Купить черный поролон SPG 2236 в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
+redirect_from: /catalog/porolon/porolon-st-2030
+
 layout: product
 permalink: /catalog/:path
 type: "product"
