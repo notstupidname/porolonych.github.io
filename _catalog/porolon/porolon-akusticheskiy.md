@@ -24,7 +24,7 @@ usage:
 - Звуко- и шумоизоляция помещений
 
 related:
-- porolon-st-2030
+- porolon-el-2040
 - maksizol
 - kley-mebelniy-poling
 - stepler-mebelniy-obivochniy
