@@ -1,30 +1,28 @@
 ---
 title: Москитная сетка купить по лучшей цене с доставкой - Поролоныч
-description: Купить москитную сетку в розницу с доставкой по Москве в интернет-магазине Поролоныча.
+description: Купить москитная сетка в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
 layout: product
 permalink: /catalog/:path
-type: "product"
+image: /images/catalog/napolniteli-dlya-myagkoj-mebeli/moskitnaya-setka-01_1600w.jpg
+type: product
 
-weight: 9
+weight: 10
+add_category: 
 
-prod_title: Москитная сетка
-prod_short_desc: Сетка против насекомых.
-prod_full_desc: Также в продаже имеются готовые комплекты москитных сеток в алюминиевых рамках на окна - 800 рублей/шт.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price-b:
-price: 160
-price-a: " руб/м.п."
+product_title: Москитная сетка
+product_short_desc: Сетка против насекомых.
+product_full_desc: Также в продаже имеются готовые комплекты москитных сеток в алюминиевых рамках на окна - 800 рублей/шт.
+        
+price_after: "м.п."
+properties:
+- name: Длина рулона
+  value: 50 м
+- name: Ширина
+  value: 1,6 м
 
-chars:
-- "Длина рулона, м: 50"
-- "Ширина, м: 1.6"
+products:
+- id: 1211
+  price: 160
 
-usage:
-
-related:
-- sintepon
-- voylok-naturalniy
-- voylok-iskusstvenniy-seriy
-- porolon-el-2040
 ---

@@ -7,9 +7,9 @@ permalink: /catalog/:path/
 type: "category"
 weight: 7
 
-prod_title: Фурнитура для обивки. Клей.
+page_title: Фурнитура для обивки. Клей.
 prod_short_desc: Дверная и мебельная фурнитура различных форм, цветов и характерристик, а также декоративные гвозди и большой выбор мебельного и универсального клея.
-prod_image: /images/catalog/category-furnitura-dlya-obivki-klej.jpg
+prod_image: /images/catalog/category-furnitura-dlya-obivki-klej_400w.jpg
 ---
 ## Всё для обивки и утепления
 

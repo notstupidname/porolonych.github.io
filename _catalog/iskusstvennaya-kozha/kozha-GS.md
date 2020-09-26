@@ -4,21 +4,27 @@ description: Купить искусственную кожу GS в розниц
 
 layout: product
 permalink: /catalog/:path
-type: "product"
+image: /images/catalog/iskusstvennaya-kozha/kozha-GS-01_1600w.jpg
+type: product
+
 weight: 4
+add_category: 
 
-prod_title: Кожа GS
-prod_short_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
-prod_full_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (цвет и количество).
-price: 800
-price-a: " руб/м.п."
+product_title: Кожа GS
+product_short_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
+product_full_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
+        
+price_after: "м.п."
+properties:
+- name: Материал основы
+  value: трикотаж
+- name: Материал верха
+  value: ПВХ
+- name: Ширина
+  value: 1,4 м
 
-chars:
-- "Материал основы: трикотаж"
-- "Материал верха: ПВХ"
-- "Ширина, м: 1,4"
+products:
+- id: 1243
+  price: 800
 
-usage:
 ---
-

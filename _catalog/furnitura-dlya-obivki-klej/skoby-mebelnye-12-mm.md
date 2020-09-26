@@ -1,21 +1,22 @@
 ---
-title: Скобы мебельные 12 мм - Поролоныч
-description: Купить скобы мебельные 12 мм в розницу с доставкой по Москве.
+title: Скобы мебельные 12мм купить по лучшей цене с доставкой - Поролоныч
+description: Купить скобы мебельные 12мм в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
 layout: product
 permalink: /catalog/:path
-type: "product"
-weight: 4
+image: /images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-12-mm-01_1600w.jpg
+type: product
 
-prod_title: Скобы мебельные 12 мм
-prod_short_desc: Используются в мебельном производстве для крепежа. Длина скобы 12 мм.
-prod_full_desc: Используются в мебельном производстве для крепежа. Длина скобы 12 мм.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price: 85
-price-a: " руб./уп."
+weight: 5
+add_category: 
 
-chars:
+product_title: Скобы мебельные 12мм
+product_short_desc: Используются в мебельном производстве для крепежа. Длина скобы 12 мм.
+product_full_desc: Используются в мебельном производстве для крепежа. Длина скобы 12 мм.
+        
+price_after: "упаковка"
+products:
+- id: 1258
+  price: 85
 
-usage:
 ---
-

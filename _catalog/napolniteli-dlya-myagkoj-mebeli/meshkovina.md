@@ -1,30 +1,28 @@
 ---
 title: Мешковина купить по лучшей цене с доставкой - Поролоныч
-description: Купить мешковину в розницу с доставкой по Москве в интернет-магазине Поролоныча.
+description: Купить мешковина в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
 layout: product
 permalink: /catalog/:path
-type: "product"
+image: /images/catalog/napolniteli-dlya-myagkoj-mebeli/meshkovina-01_1600w.jpg
+type: product
 
-weight: 7
+weight: 8
+add_category: 
 
-prod_title: Мешковина
-prod_short_desc: Полотно льняное.
-prod_full_desc: Плотная, грубая ткань и толстых льняных нитей.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price-b:
-price: 60
-price-a: " руб/м.п."
+product_title: Мешковина
+product_short_desc: Полотно льняное.
+product_full_desc: Плотная, грубая ткань и толстых льняных нитей.
+        
+price_after: "м.п."
+properties:
+- name: Длина рулона
+  value: 50 м
+- name: Ширина
+  value: 1 м
 
-chars:
-- "Длина рулона, м: 50"
-- "Ширина, м: 1.0"
+products:
+- id: 1209
+  price: 60
 
-usage:
-
-related:
-- sintepon
-- voylok-naturalniy
-- voylok-iskusstvenniy-seriy
-- porolon-el-2040
 ---

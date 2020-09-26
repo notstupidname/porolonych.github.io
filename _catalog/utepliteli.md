@@ -6,9 +6,9 @@ permalink: /catalog/:path/
 type: "category"
 weight: 5
 
-prod_title: Утеплители
+page_title: Утеплители
 prod_short_desc: Современные теплоизоляционные материалы для утепления и звукоизоляции стен, потолков, кровли и т.д. Эффективные и экологически чистые.
-prod_image: /images/catalog/category-utepliteli.jpg
+prod_image: /images/catalog/category-utepliteli_400w.jpg
 ---
 
 ## Максизол

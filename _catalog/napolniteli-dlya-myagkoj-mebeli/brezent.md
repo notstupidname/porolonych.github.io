@@ -4,27 +4,25 @@ description: Купить брезент в розницу с доставкой
 
 layout: product
 permalink: /catalog/:path
-type: "product"
+image: /images/catalog/napolniteli-dlya-myagkoj-mebeli/brezent-01_1600w.jpg
+type: product
 
-weight: 6
+weight: 7
+add_category: 
 
-prod_title: Брезент
-prod_short_desc: Полотно из натурального льна.
-prod_full_desc: <b>Брезент</b> - полотно из натурального льна, пропитанное специальным составом, который обеспечивает огнеупорные и водоотталкивающие свойства.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price-b:
-price: 150
-price-a: " руб/м.п."
+product_title: Брезент
+product_short_desc: Полотно из натурального льна.
+product_full_desc: <b>Брезент</b> - полотно из натурального льна, пропитанное специальным составом, который обеспечивает огнеупорные и водоотталкивающие свойства.
+        
+price_after: "м.п."
+properties:
+- name: Длина рулона
+  value: 50 м
+- name: Ширина
+  value: 1 м
 
-chars:
-- "Длина рулона, м: 50"
-- "Ширина, м: 1.0"
+products:
+- id: 1208
+  price: 150
 
-usage:
-
-related:
-- sintepon
-- voylok-naturalniy
-- voylok-iskusstvenniy-seriy
-- porolon-el-2040
 ---

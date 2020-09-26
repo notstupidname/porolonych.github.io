@@ -4,32 +4,35 @@ description: Купить войлочный утеплитель серый в 
 
 layout: product
 permalink: /catalog/:path
-type: "product"
-weight: 17
+image: /images/catalog/voylok/voylochniy-uteplitel-seriy-01_1600w.jpg
+type: product
 
-prod_title: Войлочный утеплитель серый
-prod_short_desc: Применяется для утепления дверных проёмов. Надежно защищает от сквозняков и попадания холодного воздуха в помещение.
-prod_full_desc: Войлочный утеплитель представляет собой полоски из натурального войлока шириной 50 мм. Используется для утепления дверей и окон. Обладает отличными тепло- и звукоизоляционными свойствами.
-prod_message:
-prod_add_cat: "utepliteli"
-price-b:
-price: 550
-price-a: " руб./шт"
+weight: 9
+add_category: utepliteli
 
-chars:
-- "Цвет: серый"
-- "Толщина, мм: 10"
-- "Ширина, мм: 50"
-- "Длина, м: 6"
-
-usage:
-- "утепление окон"
-- "утепление дверных проёмов"
-- "прокладки от сквозняка"
+product_title: Войлочный утеплитель серый
+product_short_desc: Применяется для утепления дверных проёмов. Надежно защищает от сквозняков и попадания холодного воздуха в помещение.
+product_full_desc: Войлочный утеплитель представляет собой полоски из натурального войлока шириной 50 мм. Используется для утепления дверей и окон. Обладает отличными тепло- и звукоизоляционными свойствами.
+        
+price_after: "шт"
+properties:
+- name: Толщина
+  value: 10 мм
+- name: Ширина
+  value: 50 мм
+- name: Длина
+  value: 6 м.
+- name: Цвет
+  value: серый
 
 related:
-- porolonoviy-uteplitel
 - voylochniy-uteplitel-cherniy
 - voylochniy-uteplitel-beliy
-- porolonovie-polosi
+- voylok-iskusstvenniy-cherniy
+- porolonoviy-uteplitel
+
+products:
+- id: 1179
+  price: 550
+
 ---

@@ -1,20 +1,26 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
-
-logo: /images/logo_n_300.png
-url: https://porolonych.ru
-
-title: ""
-lang: "ru_RU"
   
 collections:
   catalog:
     output: true
+
+social:
+  name: Porolonych
+  links:
+    - https://www.facebook.com/porolonych
+    - https://www.instagram.com/porolonych/
+
+logo: /images/logo.jpg
+url: https://porolonych.ru
+
+title: ""
+lang: "ru_RU"
 
 defaults:
   -
     scope:
       path: ""
     values:
-      image: /images/porolon-v-roznicu-ot-porolonycha.jpg
+      image: /images/logo.jpg

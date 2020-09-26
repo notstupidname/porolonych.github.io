@@ -1,0 +1,30 @@
+<ul class="breadcrumbs">
+	<li><a href="/">Главная</a></li>
+	{%-assign crumbs = page.url | split: '/'-%}
+	{%-assign full_url = "/"-%}
+	{%-for crumb in crumbs offset: 1-%}
+		{%-assign full_url = full_url | append: crumb | append: "/"-%}
+		{%-if forloop.last-%}
+			{%-if page.type == 'product'-%}
+			<li>{{page.product_title}}</li>
+			{%-else-%}
+			<li>{{page.page_title}}</li>
+			{%-endif-%}
+		{%-else-%}
+		{%-assign crumb_title = ""-%}
+		{%-for p in site.pages-%}
+			{%-if p.url == full_url-%}
+				{%-capture crumb_title-%}{{p.page_title}}{%-endcapture-%}
+			{%-endif-%}
+		{%-endfor-%}
+		{%-if crumb_title == ""-%}
+			{%-for p in site.catalog-%}
+				{%-if p.url == full_url-%}
+					{%-capture crumb_title-%}{{p.page_title}}{%-endcapture-%}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+			<li><a href="{{full_url}}">{{crumb_title}}</a></li>
+		{%-endif-%}
+	{%-endfor-%}
+</ul>

@@ -1,21 +1,22 @@
 ---
-title: Скобы мебельные 8 мм - Поролоныч
-description: Купить скобы мебельные 8 мм в розницу с доставкой по Москве.
+title: Скобы мебельные 8мм купить по лучшей цене с доставкой - Поролоныч
+description: Купить скобы мебельные 8мм в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
 layout: product
 permalink: /catalog/:path
-type: "product"
-weight: 4
+image: /images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-8-mm-01_1600w.jpg
+type: product
 
-prod_title: Скобы мебельные 8 мм
-prod_short_desc: Используются в мебельном производстве для крепежа. Длина скобы 8 мм.
-prod_full_desc: Используются в мебельном производстве для крепежа. Длина скобы 8 мм.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price: 70
-price-a: " руб./уп."
+weight: 7
+add_category: 
 
-chars:
+product_title: Скобы мебельные 8мм
+product_short_desc: Используются в мебельном производстве для крепежа. Длина скобы 8 мм.
+product_full_desc: Используются в мебельном производстве для крепежа. Длина скобы 8 мм.
+        
+price_after: "упаковка"
+products:
+- id: 1260
+  price: 70
 
-usage:
 ---
-

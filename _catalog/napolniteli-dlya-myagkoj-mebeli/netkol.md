@@ -4,27 +4,25 @@ description: Купить неткол в розницу с доставкой �
 
 layout: product
 permalink: /catalog/:path
-type: "product"
+image: /images/catalog/napolniteli-dlya-myagkoj-mebeli/netkol-01_1600w.jpg
+type: product
 
-weight: 8
+weight: 9
+add_category: 
 
-prod_title: Неткол
-prod_short_desc: Хлопковая мешковина.
-prod_full_desc: Неткол используется в качестве обтирочной ткани, для мытья и протирания поверхностей.
-prod_message: При заказе товара пожалуйста уточните необходимые параметры (количество).
-price-b:
-price: 30
-price-a: " руб/м.п."
+product_title: Неткол
+product_short_desc: Хлопковая мешковина.
+product_full_desc: Неткол используется в качестве обтирочной ткани, для мытья и протирания поверхностей.
+        
+price_after: "м.п."
+properties:
+- name: Длина рулона
+  value: 50 м
+- name: Ширина
+  value: 0,75 м
 
-chars:
-- "Длина рулона, м: 50"
-- "Ширина, м: 0.75"
+products:
+- id: 1210
+  price: 30
 
-usage:
-
-related:
-- sintepon
-- voylok-naturalniy
-- voylok-iskusstvenniy-seriy
-- porolon-el-2040
 ---

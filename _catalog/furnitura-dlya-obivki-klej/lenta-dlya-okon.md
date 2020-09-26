@@ -1,21 +1,22 @@
 ---
-title: Лента самоклеющаяся для окон - Поролоныч
-description: Купить Лента самоклеющаяся для окон в розницу с доставкой по Москве.
+title: Лента самоклеющаяся для окон купить по лучшей цене с доставкой - Поролоныч
+description: Купить лента самоклеющаяся для окон в розницу с доставкой по Москве в интернет-магазине Поролоныча.
 
 layout: product
 permalink: /catalog/:path
-type: "product"
-weight: 8
+image: /images/catalog/furnitura-dlya-obivki-klej/lenta-dlya-okon-01_1600w.jpg
+type: product
 
-prod_title: Лента самоклеющаяся для окон
-prod_short_desc: Ширина 50 мм, длина 10 метров.
-prod_full_desc: Ширина 50 мм, длина 10 метров.
-prod_message:
-price: 110
-price-a: " руб."
+weight: 14
+add_category: 
 
-chars:
+product_title: Лента самоклеющаяся для окон
+product_short_desc: Ширина 50 мм, длина 10 метров.
+product_full_desc: Ширина 50 мм, длина 10 метров.
+        
+price_after: "шт."
+products:
+- id: 1267
+  price: 110
 
-usage:
 ---
-

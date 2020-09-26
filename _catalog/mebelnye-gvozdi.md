@@ -7,9 +7,9 @@ permalink: /catalog/:path/
 type: "category"
 weight: 6
 
-prod_title: Мебельные гвозди
+page_title: Мебельные гвозди
 prod_short_desc: Декоративные мебельные гвозди различных цветов и размеров. Классические мебельные гвозди, крашенные, обтянутые кожей и другие. Мебельные молдинги.
-prod_image: /images/catalog/category-mebelnye-gvozdi.jpg
+prod_image: /images/catalog/category-mebelnye-gvozdi_400w.jpg
 ---
 ## Мебельные гвозди на заказ
 
