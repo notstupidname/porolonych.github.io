@@ -31,6 +31,6 @@ properties:
 
 products:
 - id: 1241
-  price: 250
+  price: 350
 
 ---
