@@ -30,27 +30,27 @@ param_mes: 'мм'
 products:
 - id: 1055
   param: 10
-  price: 210
+  price: 230
 - id: 1056
   param: 20
-  price: 410
+  price: 450
 - id: 1057
   param: 30
-  price: 620
+  price: 680
 - id: 1058
   param: 40
-  price: 820
+  price: 900
 - id: 1059
   param: 50
-  price: 1030
+  price: 1130
 - id: 1060
   param: 60
-  price: 1230
+  price: 1350
 - id: 1061
   param: 80
-  price: 1640
+  price: 1800
 - id: 1062
   param: 100
-  price: 2050
+  price: 2250
 
 ---
