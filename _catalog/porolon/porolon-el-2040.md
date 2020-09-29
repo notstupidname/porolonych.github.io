@@ -39,7 +39,7 @@ products:
   price: 150
 - id: 1002
   param: 5
-  price: 130
+  price: 180
 - id: 1003
   param: 10
   price: 260
