@@ -13,15 +13,15 @@ prod_image: /images/catalog/category-napolniteli-dlya-myagkoy-mebeli_400w.jpg
 ---
 
 ## Синтепон, Hollcon
-<img class="image right" src="/images/catalog/sintepon_2.png" alt="Синтепон от Поролоныча"/>
+<img class="image right" loading="lazy" src="/images/catalog/sintepon_2.png" alt="Синтепон от Поролоныча"/>
 
 **Синтепон** - легкий, объемный, упругий нетканый материал, в котором смесь полиэфирных волокон скрепляется клеевым (эмульсионным) или термическим способом. Преимущества СИНТЕПОНА заключаются в легкости, хороших теплозащитных свойствах и малом весе. Синтепон используется как утеплитель, фильтровальный материал.
-<img class="image left" src="/images/catalog/hollcon.png" alt="Hollcon от Поролоныча"/>
+<img class="image left" loading="lazy" src="/images/catalog/hollcon.png" alt="Hollcon от Поролоныча"/>
 
 **Hollcon (холлофайбер)** - объемный нетканый материал, изготовленный по уникальной технологии. Структура наполнителя Hollcon активно сопротивляется сжатию, так как материал стремится восстановить свою форму, направляя усилия непосредственно в сторону давления, тем самым обеспечивается отличная восстанавливаемость материала, комфорт и пышность стеганных изделий, при любой деформации и стирке.
 
 ## Ватин
-<img class="image right" src="/images/catalog/vatin_foto.png" alt="Ватин от Поролоныча"/>
+<img class="image right" loading="lazy" src="/images/catalog/vatin_foto.png" alt="Ватин от Поролоныча"/>
 
 ### Описание и разновидности ватина
 
@@ -36,7 +36,7 @@ prod_image: /images/catalog/category-napolniteli-dlya-myagkoy-mebeli_400w.jpg
 Иглопробивные нетканые полотна ватина получаются за счет скрепления волокон при прокалывании большим количеством игл на специализированных иглопробивных машинах. Соответственно нитепрошивной получил свое название от того, что в процессе производства волокна скрепляются с помощью нитей по всей длине.
 
 ### Применение ватина
-<img class="image right" src="/images/catalog/vatin_foto.jpg" alt="Ватин от Поролоныча"/>
+<img class="image right" loading="lazy" src="/images/catalog/vatin_foto.jpg" alt="Ватин от Поролоныча"/>
 
 Ватин обладает хорошей теплоизоляцией и звукоизоляцией.
 

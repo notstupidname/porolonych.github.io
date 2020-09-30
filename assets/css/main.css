@@ -1414,6 +1414,7 @@ header.mobile {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	contain: content;
 }
 		.item header h2 {
 			font-size: 1.2em;
