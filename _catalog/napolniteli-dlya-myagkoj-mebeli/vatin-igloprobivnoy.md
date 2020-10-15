@@ -19,12 +19,16 @@ properties:
 - name: Длина рулона
   value: 50 м
 - name: Ширина
-  value: 1,8 м
-- name: Плотность
-  value: 300 г/м2
+  value: 1,5 м
 
+param_name: 'Плотность'
+param_mes: 'г/м2'
 products:
 - id: 1207
-  price: 55
+  param: 230
+  price: 45
+- id: 1300
+  param: 300
+  price: 50
 
 ---

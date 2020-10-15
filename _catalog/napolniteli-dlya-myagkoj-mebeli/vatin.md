@@ -26,9 +26,9 @@ param_mes: 'г/м2'
 products:
 - id: 1205
   param: 250
-  price: 45
+  price: 50
 - id: 1206
-  param: 400
+  param: 300
   price: 60
 
 ---
