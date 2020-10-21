@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-seriy-01_1600w.jpg
 type: product
 
-weight: 9
+weight: 10
 add_category: utepliteli
 
 product_title: Войлочный утеплитель серый
@@ -21,7 +21,7 @@ properties:
 - name: Ширина
   value: 50 мм
 - name: Длина
-  value: 6 м.
+  value: 6 м
 - name: Цвет
   value: серый
 
@@ -33,6 +33,6 @@ related:
 
 products:
 - id: 1179
-  price: 550
+  price: 450
 
 ---

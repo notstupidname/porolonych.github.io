@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/termovoylok-01_1600w.jpg
 type: product
 
-weight: 11
+weight: 12
 add_category: 
 
 product_title: Термовойлок

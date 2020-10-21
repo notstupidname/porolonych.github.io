@@ -31,13 +31,16 @@ param_name: 'Размер'
 param_mes: 'мм'
 products:
 - id: 1163
-  param: 20х30
+  param: 20х20
   price: 180
+- id: 2164
+  param: 20х30
+  price: 200
 - id: 1164
   param: 20х40
-  price: 220
+  price: 230
 - id: 1165
   param: 30х30
-  price: 230
+  price: 240
 
 ---
