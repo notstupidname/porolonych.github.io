@@ -30,12 +30,12 @@ param_mes: 'мм'
 products:
 - id: 1123
   param: 20
-  price: 1920
+  price: 2220
 - id: 1124
   param: 40
-  price: 3830
+  price: 4430
 - id: 1125
   param: 50
-  price: 4790
+  price: 5540
 
 ---
