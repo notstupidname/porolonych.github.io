@@ -17,6 +17,6 @@ product_full_desc: Применяется для устранения малых
 price_after: "м.п."
 products:
 - id: 1264
-  price: 40
+  price: 50
 
 ---
