@@ -21,11 +21,12 @@ properties:
 - name: Вес упаковки
   value: 10-15 кг
 
+param_name: 'Сорт'
+param_mes: ''
 products:
 - id: 1196
+  param: 1-й сорт
   price: 410
-
----
 - id: 2196
   param: 2-й сорт
   price: 310
