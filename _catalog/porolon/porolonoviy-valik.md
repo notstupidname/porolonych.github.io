@@ -26,9 +26,9 @@ param_mes: 'мм'
 products:
 - id: 1161
   param: 180
-  price: 1750
+  price: 2550
 - id: 1162
   param: 200
-  price: 1900
+  price: 2900
 
 ---
