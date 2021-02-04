@@ -28,7 +28,7 @@ properties:
 related:
 - porolon-st-3040
 - porolon-el-4060
-- porolon-el-2040-1400-2000
+- porolon-el-2040-1500-2000
 - kley-mebelniy-poling
 
 param_name: 'Толщина'
