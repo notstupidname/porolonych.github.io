@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-pvv-80-01_1600w.jpg
 type: product
 
-weight: 37
+weight: 36
 add_category: 
 
 product_title: Поролон ПВВ-80 1000х2000мм
@@ -30,19 +30,19 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1140
+- id: 1139
   param: 10
   price: 590
-- id: 1141
+- id: 1140
   param: 20
   price: 1170
-- id: 1142
+- id: 1141
   param: 30
   price: 1760
-- id: 1143
+- id: 1142
   param: 40
   price: 2340
-- id: 1144
+- id: 1143
   param: 50
   price: 2930
 

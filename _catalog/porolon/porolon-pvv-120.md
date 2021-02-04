@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-pvv-120-01_1600w.jpg
 type: product
 
-weight: 39
+weight: 38
 add_category: 
 
 product_title: Поролон ПВВ-120 1000х2000мм
@@ -30,19 +30,19 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1150
+- id: 1149
   param: 10
   price: 740
-- id: 1151
+- id: 1150
   param: 20
   price: 1480
-- id: 1152
+- id: 1151
   param: 30
   price: 2200
-- id: 1153
+- id: 1152
   param: 40
   price: 2950
-- id: 1154
+- id: 1153
   param: 50
   price: 3680
 

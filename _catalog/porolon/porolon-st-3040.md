@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-3040-01_1600w.jpg
 type: product
 
-weight: 6
+weight: 4
 add_category: 
 
 product_title: Поролон ST3040 1000х2000мм
@@ -34,28 +34,28 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1025
+- id: 1020
   param: 10
   price: 490
-- id: 1026
+- id: 1021
   param: 20
   price: 970
-- id: 1027
+- id: 1022
   param: 30
   price: 1450
-- id: 1028
+- id: 1023
   param: 40
   price: 1930
-- id: 1029
+- id: 1024
   param: 50
   price: 2410
-- id: 1030
+- id: 1025
   param: 60
   price: 2890
-- id: 1031
+- id: 1026
   param: 80
   price: 3850
-- id: 1032
+- id: 1027
   param: 100
   price: 4810
 

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolonoviy-valik-01_1600w.jpg
 type: product
 
-weight: 41
+weight: 40
 add_category: 
 
 product_title: Поролоновый валик
@@ -24,10 +24,10 @@ properties:
 param_name: 'Диаметр'
 param_mes: 'мм'
 products:
-- id: 1161
+- id: 1160
   param: 180
   price: 2550
-- id: 1162
+- id: 1161
   param: 200
   price: 2900
 

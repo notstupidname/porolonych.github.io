@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-lr-5014-01_1600w.jpg
 type: product
 
-weight: 31
+weight: 30
 add_category: 
 
 product_title: Поролон LR5014 1000х2000мм
@@ -28,13 +28,13 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1123
+- id: 1122
   param: 20
   price: 2220
-- id: 1124
+- id: 1123
   param: 40
   price: 4430
-- id: 1125
+- id: 1124
   param: 50
   price: 5540
 

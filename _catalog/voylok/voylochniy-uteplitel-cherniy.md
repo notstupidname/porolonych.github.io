@@ -32,7 +32,7 @@ related:
 - porolonoviy-uteplitel
 
 products:
-- id: 1176
+- id: 1177
   price: 500
 
 ---

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-3542-01_1600w.jpg
 type: product
 
-weight: 16
+weight: 15
 add_category: 
 
 product_title: Поролон ST3542 1000х2000мм

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-s-2520-01_1600w.jpg
 type: product
 
-weight: 21
+weight: 20
 add_category: 
 
 product_title: Поролон S2520 1000х2000мм

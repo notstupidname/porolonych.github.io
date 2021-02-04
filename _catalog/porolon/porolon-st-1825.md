@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-1825-01_1600w.jpg
 type: product
 
-weight: 13
+weight: 12
 add_category: 
 
 product_title: Поролон ST1825 1000х2000мм

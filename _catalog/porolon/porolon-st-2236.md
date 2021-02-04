@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-2236-01_1600w.jpg
 type: product
 
-weight: 14
+weight: 13
 add_category: 
 
 product_title: Поролон ST2236 1000х2000мм

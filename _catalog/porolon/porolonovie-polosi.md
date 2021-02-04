@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolonovie-polosi-01_1600w.jpg
 type: product
 
-weight: 43
+weight: 42
 add_category: 
 
 product_title: Поролоновые полосы

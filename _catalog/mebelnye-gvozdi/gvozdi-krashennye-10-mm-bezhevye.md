@@ -24,7 +24,7 @@ properties:
   value: 60 шт
 
 products:
-- id: 1229
+- id: 1233
   price: 250
 
 ---

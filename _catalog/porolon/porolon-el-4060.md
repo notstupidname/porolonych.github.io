@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-el-4060-01_1600w.jpg
 type: product
 
-weight: 9
+weight: 7
 add_category: 
 
 product_title: Поролон EL4060 1000х2000мм
@@ -34,28 +34,28 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1038
+- id: 1035
   param: 10
   price: 650
-- id: 1039
+- id: 1036
   param: 20
   price: 1300
-- id: 1040
+- id: 1037
   param: 30
   price: 1950
-- id: 1041
+- id: 1038
   param: 40
   price: 2600
-- id: 1042
+- id: 1039
   param: 50
   price: 3250
-- id: 1043
+- id: 1040
   param: 60
   price: 3890
-- id: 1044
+- id: 1041
   param: 80
   price: 5190
-- id: 1045
+- id: 1042
   param: 100
   price: 6490
 

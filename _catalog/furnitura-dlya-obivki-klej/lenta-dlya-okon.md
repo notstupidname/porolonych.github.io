@@ -16,7 +16,7 @@ product_full_desc: Ширина 50 мм, длина 10 метров.
         
 price_after: "шт."
 products:
-- id: 1267
+- id: 1271
   price: 150
 
 ---

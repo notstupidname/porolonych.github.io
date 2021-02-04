@@ -30,7 +30,7 @@ properties:
   value: 25000 циклов
 
 products:
-- id: 1241
+- id: 1245
   price: 350
 
 ---
