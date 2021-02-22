@@ -78,7 +78,7 @@
 							{%-else-%}
 								{%-assign img_path = "/images/catalog/placeholder"-%}
 							{%-endif-%}
-							<img class="image fit" src="{{img_path}}-01_1600w.jpg" alt="{{page.product_title}}-фото-1" title="{{page.product_title}}-фото-1"
+							<img class="image fit" src="{{img_path}}-01_1600w.jpg" width="1600" height="1600" alt="{{page.product_title}}-фото-1" title="{{page.product_title}}-фото-1"
 							srcset="{{img_path}}-01_1600w.jpg 1600w, {{img_path}}-01_1400w.jpg 1400w, {{img_path}}-01_1000w.jpg 1000w, {{img_path}}-01_800w.jpg 800w, {{img_path}}-01_600w.jpg 600w, {{img_path}}-01_400w.jpg 400w"
 							sizes="(max-width: 480px) 100vw, (max-width: 980px) 33vw, 25vw"/>
 							<div>
@@ -155,7 +155,7 @@
 							<div class="product_add_info">
 								{%-for img in img_array-%}
 								{%-unless img contains "01"-%}
-								<img class="image fit" loading="lazy" src="{{img}}" alt='{{page.product_title | escape}}-фото-{{forloop.index}}' title='{{page.product_title | escape}}-фото-{{forloop.index}}'
+								<img class="image fit" loading="lazy" src="{{img}}" width="1600" height="1600" alt='{{page.product_title | escape}}-фото-{{forloop.index}}' title='{{page.product_title | escape}}-фото-{{forloop.index}}'
 								srcset="{{img | remove: '.jpg'}}_1600w.jpg 1600w, {{img | remove: '.jpg'}}_1400w.jpg 1400w, {{img | remove: '.jpg'}}_1000w.jpg 1000w, {{img | remove: '.jpg'}}_800w.jpg 800w, {{img | remove: '.jpg'}}_600w.jpg 600w, {{img | remove: '.jpg'}}_400w.jpg 400w"
 								sizes="(max-width: 780px) 100vw, 20vw"/>
 								{%-endunless-%}
@@ -205,7 +205,7 @@
 									{%-else-%}
 										{%-assign img_path = "/images/catalog/placeholder"-%}
 									{%-endif-%}
-									<img class="image fit" loading="lazy" src="{{img_path}}-01_400w.jpg" alt="{{product.product_title}}-фото-1" title="{{product.product_title}}-фото-1"
+									<img class="image fit" loading="lazy" src="{{img_path}}-01_400w.jpg" width="1600" height="1600" alt="{{product.product_title}}-фото-1" title="{{product.product_title}}-фото-1"
 									srcset="{{img_path}}-01_1600w.jpg 1600w, {{img_path}}-01_1400w.jpg 1400w, {{img_path}}-01_1000w.jpg 1000w, {{img_path}}-01_800w.jpg 800w, {{img_path}}-01_600w.jpg 600w, {{img_path}}-01_400w.jpg 400w"
 									sizes="(max-width: 340px) 100vw, (max-width: 510px) 50vw, (max-width: 1080px) 33vw, 20vw"/>
 									<h2>{{product.product_title}}</h2>
