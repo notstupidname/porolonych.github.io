@@ -30,24 +30,24 @@ param_mes: 'г/м2'
 products:
 - id: 1201
   param: 17
-  price: 7
+  price: 16
 - id: 1202
   param: 40
-  price: 17
+  price: 36
 - id: 1203
   param: 60
-  price: 25
+  price: 36
 - id: 1204
   param: 80
-  price: 32
+  price: 70
 - id: 1205
   param: 100
-  price: 40
+  price: 90
 - id: 1206
   param: 120
-  price: 50
+  price: 110
 - id: 1207
   param: 150
-  price: 70
+  price: 130
 
 ---
