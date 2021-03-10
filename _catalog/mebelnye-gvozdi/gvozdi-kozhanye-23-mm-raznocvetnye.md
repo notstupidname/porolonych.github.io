@@ -31,6 +31,6 @@ related:
 
 products:
 - id: 1217
-  price: 13
+  price: 30
 
 ---
