@@ -36,7 +36,7 @@ products:
   param: 2
   price: 200
 - id: 1171
-  param: 5
-  price: 500
+  param: 4
+  price: 400
 
 ---
