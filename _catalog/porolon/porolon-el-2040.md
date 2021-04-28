@@ -36,10 +36,10 @@ param_mes: 'мм'
 products:
 - id: 1001
   param: 3
-  price: 200
+  price: 220
 - id: 1002
   param: 5
-  price: 250
+  price: 280
 - id: 1003
   param: 10
   price: 350
