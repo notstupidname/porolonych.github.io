@@ -25,8 +25,11 @@ properties:
 - name: Рекомендуемая нагрузка
   value: до 140 кг
 
+param_name: 'Толщина'
+param_mes: 'мм'
 products:
 - id: 1135
+  param: 50
   price: 5810
 
 ---
