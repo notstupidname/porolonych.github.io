@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-2236-01_1600w.jpg
 type: product
 
-weight: 13
+weight: 14
 add_category: 
 
 product_title: Поролон ST2236 1000х2000мм
@@ -28,28 +28,28 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1063
+- id: 1070
   param: 10
   price: 380
-- id: 1064
+- id: 1071
   param: 20
   price: 760
-- id: 1065
+- id: 1072
   param: 30
   price: 1140
-- id: 1066
+- id: 1073
   param: 40
   price: 1520
-- id: 1067
+- id: 1074
   param: 50
   price: 1890
-- id: 1068
+- id: 1075
   param: 60
   price: 2270
-- id: 1069
+- id: 1076
   param: 80
   price: 3030
-- id: 1070
+- id: 1077
   param: 100
   price: 3780
 

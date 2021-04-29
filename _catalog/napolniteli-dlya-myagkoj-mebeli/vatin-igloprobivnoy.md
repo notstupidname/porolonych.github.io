@@ -24,10 +24,10 @@ properties:
 param_name: 'Плотность'
 param_mes: 'г/м2'
 products:
-- id: 1210
+- id: 1216
   param: 230
   price: 45
-- id: 1211
+- id: 1217
   param: 300
   price: 50
 

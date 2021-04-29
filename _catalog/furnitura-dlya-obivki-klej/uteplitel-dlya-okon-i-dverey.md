@@ -16,7 +16,7 @@ product_full_desc: Сечение 8х8 мм, длина - 14 метров.
         
 price_after: "шт."
 products:
-- id: 1270
+- id: 1276
   price: 100
 
 ---

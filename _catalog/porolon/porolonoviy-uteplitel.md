@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolonoviy-uteplitel-01_1600w.jpg
 type: product
 
-weight: 41
+weight: 42
 add_category: utepliteli
 
 product_title: Поролоновый утеплитель
@@ -30,16 +30,16 @@ related:
 param_name: 'Размер'
 param_mes: 'мм'
 products:
-- id: 1162
+- id: 1168
   param: 20х20
   price: 180
-- id: 1163
+- id: 1169
   param: 20х30
   price: 200
-- id: 1164
+- id: 1170
   param: 20х40
   price: 230
-- id: 1165
+- id: 1171
   param: 30х30
   price: 240
 

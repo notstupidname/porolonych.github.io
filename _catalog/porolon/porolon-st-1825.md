@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-st-1825-01_1600w.jpg
 type: product
 
-weight: 12
+weight: 13
 add_category: 
 
 product_title: Поролон ST1825 1000х2000мм
@@ -28,28 +28,28 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1055
+- id: 1062
   param: 10
   price: 320
-- id: 1056
+- id: 1063
   param: 20
   price: 630
-- id: 1057
+- id: 1064
   param: 30
   price: 940
-- id: 1058
+- id: 1065
   param: 40
   price: 1250
-- id: 1059
+- id: 1066
   param: 50
   price: 1560
-- id: 1060
+- id: 1067
   param: 60
   price: 1870
-- id: 1061
+- id: 1068
   param: 80
   price: 2490
-- id: 1062
+- id: 1069
   param: 100
   price: 3120
 

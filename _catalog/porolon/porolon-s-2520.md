@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-s-2520-01_1600w.jpg
 type: product
 
-weight: 20
+weight: 21
 add_category: 
 
 product_title: Поролон S2520 1000х2000мм
@@ -28,16 +28,16 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1093
+- id: 1100
   param: 40
   price: 1800
-- id: 1094
+- id: 1101
   param: 60
   price: 2690
-- id: 1095
+- id: 1102
   param: 80
   price: 3590
-- id: 1096
+- id: 1103
   param: 100
   price: 4490
 

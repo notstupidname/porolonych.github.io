@@ -26,25 +26,25 @@ properties:
 param_name: 'Диаметр'
 param_mes: 'мм'
 products:
-- id: 1183
+- id: 1189
   param: 6
   price: 6
-- id: 1184
+- id: 1190
   param: 8
   price: 9
-- id: 1185
+- id: 1191
   param: 10
   price: 11
-- id: 1186
+- id: 1192
   param: 12
   price: 13
-- id: 1187
+- id: 1193
   param: 15
   price: 16
-- id: 1188
+- id: 1194
   param: 20
   price: 21
-- id: 1189
+- id: 1195
   param: 25
   price: 27
 

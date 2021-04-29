@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolonovie-polosi-01_1600w.jpg
 type: product
 
-weight: 42
+weight: 43
 add_category: 
 
 product_title: Поролоновые полосы
@@ -22,7 +22,7 @@ related:
 - voylochniy-uteplitel-beliy
 
 products:
-- id: 1166
+- id: 1172
   price: 480
 
 ---

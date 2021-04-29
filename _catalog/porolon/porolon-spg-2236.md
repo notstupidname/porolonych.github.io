@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-spg-2236-01_1600w.jpg
 type: product
 
-weight: 11
+weight: 12
 add_category: 
 
 product_title: Поролон SPG2236 1000х2000мм
@@ -26,19 +26,19 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1050
+- id: 1057
   param: 10
   price: 420
-- id: 1051
+- id: 1058
   param: 20
   price: 830
-- id: 1052
+- id: 1059
   param: 30
   price: 1250
-- id: 1053
+- id: 1060
   param: 40
   price: 1660
-- id: 1054
+- id: 1061
   param: 50
   price: 2080
 

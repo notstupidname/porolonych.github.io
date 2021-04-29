@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/porolon/porolon-hr-5535-01_1600w.jpg
 type: product
 
-weight: 27
+weight: 28
 add_category: 
 
 product_title: Поролон HR5535 1000х2000мм
@@ -28,10 +28,10 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1115
+- id: 1122
   param: 80
   price: 9040
-- id: 1116
+- id: 1123
   param: 100
   price: 11300
 
