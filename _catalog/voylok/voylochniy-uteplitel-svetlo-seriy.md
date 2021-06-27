@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-svetlo-seriy-01_1600w.jpg
 type: product
 
-weight: 5
+weight: 6
 add_category: utepliteli
 
 product_title: Войлочный утеплитель светло-серый

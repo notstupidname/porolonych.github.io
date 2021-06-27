@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-iskusstvenniy-korichneviy-01_1600w.jpg
 type: product
 
-weight: 1
+weight: 4
 add_category: 
 
 product_title: Войлок искусственный коричневый

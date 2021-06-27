@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-naturalniy-pressovanniy-01_1600w.jpg
 type: product
 
-weight: 9
+weight: 10
 add_category: 
 
 product_title: Войлок натуральный пресованный

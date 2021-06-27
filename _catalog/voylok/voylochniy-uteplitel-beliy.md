@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-beliy-01_1600w.jpg
 type: product
 
-weight: 7
+weight: 8
 add_category: utepliteli
 
 product_title: Войлочный утеплитель белый

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-cherniy-01_1600w.jpg
 type: product
 
-weight: 4
+weight: 5
 add_category: utepliteli
 
 product_title: Войлочный утеплитель черный

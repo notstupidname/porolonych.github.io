@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-seriy-01_1600w.jpg
 type: product
 
-weight: 6
+weight: 7
 add_category: utepliteli
 
 product_title: Войлочный утеплитель серый
