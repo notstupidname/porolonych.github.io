@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-naturalniy-folgirovanniy-01_1600w.jpg
 type: product
 
-weight: 3
+weight: 10
 add_category: 
 
 product_title: Войлок натуральный фольгированный

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-iskusstvenniy-cherniy-01_1600w.jpg
 type: product
 
-weight: 4
+weight: 1
 add_category: 
 
 product_title: Войлок искусственный черный
@@ -17,9 +17,9 @@ product_full_desc: Искусственный войлок это нетканн
 price_after: "м2"
 properties:
 - name: Ширина
-  value: 1,6 м
+  value: 1,5 м
 - name: Длина рулона
-  value: 30 м.п.
+  value: 60 м.п.
 - name: Цвет
   value: черный
 
@@ -38,5 +38,8 @@ products:
 - id: 1177
   param: 4
   price: 400
+- id: 1178
+  param: 5
+  price: 500
 
 ---

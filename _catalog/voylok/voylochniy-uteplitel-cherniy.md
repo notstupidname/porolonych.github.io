@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-cherniy-01_1600w.jpg
 type: product
 
-weight: 8
+weight: 4
 add_category: utepliteli
 
 product_title: Войлочный утеплитель черный
@@ -16,12 +16,10 @@ product_full_desc: Войлочный утеплитель представля�
         
 price_after: "шт"
 properties:
-- name: Толщина
-  value: 5 мм
 - name: Ширина
   value: 50 мм
 - name: Длина
-  value: 6 м
+  value: 6 м.п.
 - name: Цвет
   value: черный
 
@@ -31,8 +29,14 @@ related:
 - voylok-iskusstvenniy-cherniy
 - porolonoviy-uteplitel
 
+param_name: 'Толщина'
+param_mes: 'мм'
 products:
-- id: 1183
+- id: 1185
+  param: 4
+  price: 400
+- id: 1186
+  param: 5
   price: 500
 
 ---

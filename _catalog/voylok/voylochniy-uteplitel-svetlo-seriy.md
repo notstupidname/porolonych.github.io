@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-svetlo-seriy-01_1600w.jpg
 type: product
 
-weight: 9
+weight: 5
 add_category: utepliteli
 
 product_title: Войлочный утеплитель светло-серый
@@ -19,7 +19,7 @@ properties:
 - name: Ширина
   value: 50 мм
 - name: Длина
-  value: 6 м
+  value: 6 м.п.
 - name: Цвет
   value: светло-серый
 
@@ -32,10 +32,10 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1184
+- id: 1187
   param: 5
   price: 550
-- id: 1185
+- id: 1188
   param: 10
   price: 800
 

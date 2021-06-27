@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylochniy-uteplitel-beliy-01_1600w.jpg
 type: product
 
-weight: 11
+weight: 7
 add_category: utepliteli
 
 product_title: Войлочный утеплитель белый
@@ -16,12 +16,10 @@ product_full_desc: Войлочный утеплитель представля�
         
 price_after: "шт"
 properties:
-- name: Толщина
-  value: 5 мм
 - name: Ширина
   value: 50 мм
 - name: Длина
-  value: 6 м
+  value: 6 м.п.
 - name: Цвет
   value: белый
 
@@ -31,8 +29,17 @@ related:
 - voylok-iskusstvenniy-cherniy
 - porolonoviy-uteplitel
 
+param_name: 'Толщина'
+param_mes: 'мм'
 products:
-- id: 1187
-  price: 600
+- id: 1190
+  param: 3
+  price: 300
+- id: 1191
+  param: 5
+  price: 500
+- id: 1192
+  param: 10
+  price: 800
 
 ---

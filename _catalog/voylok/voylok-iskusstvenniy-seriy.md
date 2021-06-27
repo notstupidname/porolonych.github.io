@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-iskusstvenniy-seriy-01_1600w.jpg
 type: product
 
-weight: 5
+weight: 2
 add_category: 
 
 product_title: Войлок искусственный серый
@@ -32,13 +32,13 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1178
+- id: 1179
   param: 5
   price: 400
-- id: 1179
+- id: 1180
   param: 8
   price: 650
-- id: 1180
+- id: 1181
   param: 10
   price: 800
 

@@ -24,10 +24,10 @@ properties:
 param_name: 'Сорт'
 param_mes: ''
 products:
-- id: 1203
+- id: 1208
   param: 1-й сорт
   price: 410
-- id: 1204
+- id: 1209
   param: 2-й сорт
   price: 310
 

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/voylok/voylok-iskusstvenniy-beliy-5mm-01_1600w.jpg
 type: product
 
-weight: 6
+weight: 3
 add_category: 
 
 product_title: Войлок искусственный белый
@@ -17,9 +17,9 @@ product_full_desc: Искусственный войлок это нетканн
 price_after: "м2"
 properties:
 - name: Ширина
-  value: 1,4 м
+  value: 2,1 м
 - name: Длина рулона
-  value: 30 м.п.
+  value: 60 м.п.
 - name: Цвет
   value: белый
 
@@ -32,11 +32,14 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1181
+- id: 1182
   param: 3
   price: 300
-- id: 1182
+- id: 1183
   param: 5
   price: 500
+- id: 1184
+  param: 10
+  price: 900
 
 ---
