@@ -16,7 +16,7 @@ product_full_desc: Комплект для обивки деревянных и 
         
 price_after: "шт."
 products:
-- id: 1269
+- id: 1270
   price: 950
 
 ---
