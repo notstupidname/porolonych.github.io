@@ -17,7 +17,7 @@ product_full_desc: Искусственный войлок это нетканн
 price_after: "м2"
 properties:
 - name: Ширина
-  value: 2,1 м
+  value: 1,5 м
 - name: Длина рулона
   value: 60 м.п.
 - name: Цвет
