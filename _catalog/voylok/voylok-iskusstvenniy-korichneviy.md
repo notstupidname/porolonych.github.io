@@ -23,7 +23,7 @@ properties:
 - name: Длина рулона
   value: 60 м.п.
 - name: Цвет
-  value: черный
+  value: коричневый
 
 related:
 - voylok-iskusstvenniy-seriy
