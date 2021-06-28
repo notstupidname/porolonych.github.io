@@ -22,6 +22,14 @@ properties:
   value: 60 м.п.
 - name: Цвет
   value: черный
+- name: Поверхностная плотность
+  value: 571 г/м2
+- name: Неровнота по массе
+  value: 2,4%
+- name: Разрывная нагрузка
+  value: 1063 Н
+- name: Удлинение при разрыве
+  value: 94%
 
 related:
 - voylok-iskusstvenniy-seriy
