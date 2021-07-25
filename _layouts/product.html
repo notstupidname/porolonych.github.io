@@ -83,6 +83,9 @@
 							sizes="(max-width: 480px) 100vw, (max-width: 980px) 33vw, 25vw"/>
 							<div>
 								<p>{{page.product_full_desc}}</p>
+								{%-if product_name contains "porolon-"-%}
+								<p><b>РЕЗКА ПОРОЛОНА: </b>Можем порезать поролон в любой размер.</br>Стоимость одного реза поролона любой толщины - <b>150 рублей.</b></br>Для заказа резки укажите требуемые размеры в комментарии к заказу.</p>
+								{%-endif-%}
 								{%-if page.properties-%}
 								<ul>
 									{%-for prop in page.properties-%}
