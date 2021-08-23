@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/lenta-dlya-okon-01_1600w.jpg
 type: product
 
-weight: 14
+weight: 16
 add_category: 
 
 product_title: Лента самоклеющаяся для окон
@@ -16,7 +16,7 @@ product_full_desc: Ширина 50 мм, длина 10 метров.
         
 price_after: "шт."
 products:
-- id: 1283
+- id: 1285
   price: 150
 
 ---

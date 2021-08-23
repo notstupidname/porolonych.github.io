@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/dubel-dlya-obivki-dverey-01_1600w.jpg
 type: product
 
-weight: 15
+weight: 17
 add_category: 
 
 product_title: Дюбель для обивки металлических дверей
@@ -28,7 +28,7 @@ properties:
   value: 1000 шт
 
 products:
-- id: 1284
+- id: 1286
   price: 5
 
 ---

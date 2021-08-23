@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uteplitel-dlya-okon-i-dverey-01_1600w.jpg
 type: product
 
-weight: 13
+weight: 15
 add_category: 
 
 product_title: Утеплитель самоклеющийся для окон и дверей
@@ -16,7 +16,7 @@ product_full_desc: Сечение 8х8 мм, длина - 14 метров.
         
 price_after: "шт."
 products:
-- id: 1282
+- id: 1284
   price: 100
 
 ---

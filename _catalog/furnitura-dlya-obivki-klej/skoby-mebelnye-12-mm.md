@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-12-mm-01_1600w.jpg
 type: product
 
-weight: 5
+weight: 7
 add_category: 
 
 product_title: Скобы мебельные 12мм
@@ -16,7 +16,7 @@ product_full_desc: Используются в мебельном произво
         
 price_after: "упаковка"
 products:
-- id: 1274
+- id: 1276
   price: 85
 
 ---

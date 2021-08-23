@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/stepler-mebelniy-obivochniy-01_1600w.jpg
 type: product
 
-weight: 3
+weight: 5
 add_category: 
 
 product_title: Степлер мебельный обивочный «Профессионал»
@@ -16,7 +16,7 @@ product_full_desc: Применяется для крепления кожи, т
         
 price_after: "шт."
 products:
-- id: 1272
+- id: 1274
   price: 850
 
 ---
