@@ -32,13 +32,13 @@ param_mes: 'мм'
 products:
 - id: 1168
   param: 20х20
-  price: 180
+  price: 190
 - id: 1169
   param: 20х30
-  price: 200
+  price: 220
 - id: 1170
   param: 20х40
-  price: 230
+  price: 250
 - id: 1171
   param: 30х30
   price: 240
