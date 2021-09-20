@@ -41,6 +41,6 @@ products:
   price: 250
 - id: 1171
   param: 30х30
-  price: 240
+  price: 270
 
 ---
