@@ -37,7 +37,7 @@ products:
   price: 300
 - id: 1183
   param: 5
-  price: 500
+  price: 350
 - id: 1184
   param: 10
   price: 1500
