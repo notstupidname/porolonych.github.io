@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-01-16 10:02">
+<yml_catalog date="2022-01-16 10:09">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -3749,7 +3749,7 @@
                 <offer id="1271">
                 <name>Клей мебельный Poling</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-poling</url>
-                <price>400</price>
+                <price>480</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
                 <delivery>true</delivery>
@@ -3762,7 +3762,7 @@
                 <offer id="1272">
                 <name>Клей мебельный LAKOL</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-lakol</url>
-                <price>450</price>
+                <price>550</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>7</categoryId>
                 <delivery>true</delivery>
