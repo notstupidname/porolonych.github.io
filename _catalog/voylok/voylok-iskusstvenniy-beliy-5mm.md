@@ -40,6 +40,6 @@ products:
   price: 200
 - id: 1184
   param: 10
-  price: 700
+  price: 480
 
 ---

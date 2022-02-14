@@ -45,9 +45,9 @@ products:
   price: 150
 - id: 1177
   param: 4
-  price: 200
+  price: 180
 - id: 1178
   param: 5
-  price: 250
+  price: 200
 
 ---
