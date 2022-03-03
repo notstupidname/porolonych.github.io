@@ -30,15 +30,15 @@ param_mes: 'мм'
 products:
 - id: 1100
   param: 40
-  price: 1800
+  price: 2160
 - id: 1101
   param: 60
-  price: 2690
+  price: 3230
 - id: 1102
   param: 80
-  price: 3590
+  price: 4310
 - id: 1103
   param: 100
-  price: 4490
+  price: 5390
 
 ---
