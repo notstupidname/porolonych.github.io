@@ -23,6 +23,6 @@ related:
 
 products:
 - id: 1172
-  price: 580
+  price: 680
 
 ---
