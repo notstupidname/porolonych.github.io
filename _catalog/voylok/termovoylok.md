@@ -21,7 +21,7 @@ properties:
 - name: Длина рулона
   value: 30 м
 - name: Ширина
-  value: 2 м
+  value: 2,2 м
 - name: Плотность
   value: 500 г/м2
 
@@ -33,6 +33,6 @@ related:
 
 products:
 - id: 1194
-  price: 200
+  price: 230
 
 ---
