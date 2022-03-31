@@ -26,9 +26,9 @@ param_mes: ''
 products:
 - id: 1211
   param: 1-й сорт
-  price: 410
+  price: 480
 - id: 1212
   param: 2-й сорт
-  price: 310
+  price: 380
 
 ---
