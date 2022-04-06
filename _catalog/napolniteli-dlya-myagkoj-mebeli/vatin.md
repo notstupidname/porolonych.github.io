@@ -25,10 +25,10 @@ param_name: 'Плотность'
 param_mes: 'г/м2'
 products:
 - id: 1220
-  param: 250
-  price: 50
+  param: 260
+  price: 70
 - id: 1221
   param: 300
-  price: 60
+  price: 90
 
 ---

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-03-31 13:37">
+<yml_catalog date="2022-04-06 13:07">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -2998,7 +2998,7 @@
                 <offer id="1213">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>16</price>
+                <price>25</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3012,7 +3012,7 @@
                 <offer id="1214">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>36</price>
+                <price>60</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3026,7 +3026,7 @@
                 <offer id="1215">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>36</price>
+                <price>90</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3040,7 +3040,7 @@
                 <offer id="1216">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>70</price>
+                <price>120</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3054,7 +3054,7 @@
                 <offer id="1217">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>90</price>
+                <price>150</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3068,7 +3068,7 @@
                 <offer id="1218">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>110</price>
+                <price>180</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3082,7 +3082,7 @@
                 <offer id="1219">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
-                <price>130</price>
+                <price>225</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3096,7 +3096,7 @@
                 <offer id="1220">
                 <name>Ватин нитепрошивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin</url>
-                <price>50</price>
+                <price>70</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3105,12 +3105,12 @@
                 </delivery-options>
                 <description><b>Ватин</b> подразделяется на нитепрошивной и иглопробивной. Применяется при изготовлении матрасов, мебели, гладильных досок, обивки дверей, при пошиве верхней спецодежды. Также <b>ватин</b> используют для укрытия пола при отделочных работах, для упаковки оборудования.</br>Ватин продаётся ТОЛЬКО целыми роликами по 50 м.п.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-01.jpg</picture>
-                <param name="Плотность">250</param>
+                <param name="Плотность">260</param>
             </offer>
                 <offer id="1221">
                 <name>Ватин нитепрошивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin</url>
-                <price>60</price>
+                <price>90</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3124,7 +3124,7 @@
                 <offer id="1222">
                 <name>Ватин иглопробивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy</url>
-                <price>45</price>
+                <price>60</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
@@ -3133,12 +3133,12 @@
                 </delivery-options>
                 <description><b>Ватин</b> подразделяется на нитепрошивной и иглопробивной. Применяется при изготовлении матрасов, мебели, гладильных досок, обивки дверей, при пошиве верхней спецодежды. Также <b>ватин</b> используют для укрытия пола при отделочных работах, для упаковки оборудования.</br>Ватин продаётся ТОЛЬКО целыми роликами по 50 м.п.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy-01.jpg</picture>
-                <param name="Плотность">230</param>
+                <param name="Плотность">260</param>
             </offer>
                 <offer id="1223">
                 <name>Ватин иглопробивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy</url>
-                <price>50</price>
+                <price>80</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
