@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-04-14 07:15">
+<yml_catalog date="2022-04-27 13:10">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -1969,7 +1969,7 @@
                 <offer id="1140">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>1860</price>
+                <price>1570</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1983,7 +1983,7 @@
                 <offer id="1141">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>2790</price>
+                <price>2350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1997,7 +1997,7 @@
                 <offer id="1142">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>3720</price>
+                <price>3130</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2011,7 +2011,7 @@
                 <offer id="1143">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>4650</price>
+                <price>3910</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2025,7 +2025,7 @@
                 <offer id="1144">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>7440</price>
+                <price>6250</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2039,7 +2039,7 @@
                 <offer id="1145">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>1140</price>
+                <price>960</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2053,7 +2053,7 @@
                 <offer id="1146">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>2280</price>
+                <price>1920</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2067,7 +2067,7 @@
                 <offer id="1147">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>3420</price>
+                <price>2870</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2081,7 +2081,7 @@
                 <offer id="1148">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>4550</price>
+                <price>3830</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2095,7 +2095,7 @@
                 <offer id="1149">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>5690</price>
+                <price>4780</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2109,7 +2109,7 @@
                 <offer id="1150">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>1280</price>
+                <price>1080</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2123,7 +2123,7 @@
                 <offer id="1151">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>2560</price>
+                <price>2150</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2137,7 +2137,7 @@
                 <offer id="1152">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>3840</price>
+                <price>3220</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2151,7 +2151,7 @@
                 <offer id="1153">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>5110</price>
+                <price>4300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2165,7 +2165,7 @@
                 <offer id="1154">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>6390</price>
+                <price>5370</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2179,7 +2179,7 @@
                 <offer id="1155">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>1440</price>
+                <price>1210</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2193,7 +2193,7 @@
                 <offer id="1156">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>2880</price>
+                <price>2420</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2207,7 +2207,7 @@
                 <offer id="1157">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>4320</price>
+                <price>3630</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2221,7 +2221,7 @@
                 <offer id="1158">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>5750</price>
+                <price>4830</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2235,7 +2235,7 @@
                 <offer id="1159">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>7190</price>
+                <price>6040</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
