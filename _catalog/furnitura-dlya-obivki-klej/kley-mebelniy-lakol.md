@@ -23,6 +23,6 @@ properties:
 
 products:
 - id: 1272
-  price: 550
+  price: 650
 
 ---
