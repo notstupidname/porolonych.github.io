@@ -119,6 +119,7 @@
 	
 	svg {
 		vertical-align: middle;
+		fill: var(--text-color);
 	}
 
 	a {
