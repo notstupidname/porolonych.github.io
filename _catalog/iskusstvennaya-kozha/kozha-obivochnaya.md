@@ -30,7 +30,7 @@ related:
 - porolon-el-2040
 
 products:
-- id: 1256
+- id: 1259
   price: 500
 colors:
 - image: 27

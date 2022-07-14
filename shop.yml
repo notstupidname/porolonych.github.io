@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-05-24 13:03">
+<yml_catalog date="2022-07-14 11:42">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -2511,6 +2511,34 @@
                 <offer id="1179">
                 <name>Войлок искусственный серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-seriy</url>
+                <price>150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>4</categoryId>
+                <delivery>true</delivery>
+                <delivery-options>
+                    <option cost="700" days="1" />
+                </delivery-options>
+                <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
+                <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-seriy-01.jpg</picture>
+                <param name="Толщина">2</param>
+            </offer>
+                <offer id="1180">
+                <name>Войлок искусственный серый</name>
+                <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-seriy</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>4</categoryId>
+                <delivery>true</delivery>
+                <delivery-options>
+                    <option cost="700" days="1" />
+                </delivery-options>
+                <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
+                <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-seriy-01.jpg</picture>
+                <param name="Толщина">4</param>
+            </offer>
+                <offer id="1181">
+                <name>Войлок искусственный серый</name>
+                <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-seriy</url>
                 <price>400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>4</categoryId>
@@ -2522,10 +2550,10 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-seriy-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1180">
+                <offer id="1182">
                 <name>Войлок искусственный серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-seriy</url>
-                <price>650</price>
+                <price>500</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>4</categoryId>
                 <delivery>true</delivery>
@@ -2534,12 +2562,12 @@
                 </delivery-options>
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-seriy-01.jpg</picture>
-                <param name="Толщина">8</param>
+                <param name="Толщина">7</param>
             </offer>
-                <offer id="1181">
+                <offer id="1183">
                 <name>Войлок искусственный серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-seriy</url>
-                <price>800</price>
+                <price>600</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>4</categoryId>
                 <delivery>true</delivery>
@@ -2550,7 +2578,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-seriy-01.jpg</picture>
                 <param name="Толщина">10</param>
             </offer>
-                <offer id="1182">
+                <offer id="1184">
                 <name>Войлок искусственный белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-beliy-5mm</url>
                 <price>150</price>
@@ -2564,7 +2592,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-5mm-01.jpg</picture>
                 <param name="Толщина">3</param>
             </offer>
-                <offer id="1183">
+                <offer id="1185">
                 <name>Войлок искусственный белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-beliy-5mm</url>
                 <price>200</price>
@@ -2578,7 +2606,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-5mm-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1184">
+                <offer id="1186">
                 <name>Войлок искусственный белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-beliy-5mm</url>
                 <price>480</price>
@@ -2592,7 +2620,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-5mm-01.jpg</picture>
                 <param name="Толщина">10</param>
             </offer>
-                <offer id="1185">
+                <offer id="1187">
                 <name>Войлок искусственный коричневый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylok-iskusstvenniy-korichneviy</url>
                 <price>140</price>
@@ -2605,7 +2633,7 @@
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-korichneviy-01.jpg</picture>
                 </offer>
-                <offer id="1186">
+                <offer id="1188">
                 <name>Войлочный утеплитель черный</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-cherniy</url>
                 <price>400</price>
@@ -2619,7 +2647,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-cherniy-01.jpg</picture>
                 <param name="Толщина">4</param>
             </offer>
-                <offer id="1187">
+                <offer id="1189">
                 <name>Войлочный утеплитель черный</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-cherniy</url>
                 <price>500</price>
@@ -2633,7 +2661,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-cherniy-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1188">
+                <offer id="1190">
                 <name>Войлочный утеплитель светло-серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-svetlo-seriy</url>
                 <price>550</price>
@@ -2647,7 +2675,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-svetlo-seriy-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1189">
+                <offer id="1191">
                 <name>Войлочный утеплитель светло-серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-svetlo-seriy</url>
                 <price>800</price>
@@ -2661,7 +2689,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-svetlo-seriy-01.jpg</picture>
                 <param name="Толщина">10</param>
             </offer>
-                <offer id="1190">
+                <offer id="1192">
                 <name>Войлочный утеплитель серый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-seriy</url>
                 <price>350</price>
@@ -2674,7 +2702,7 @@
                 <description>Войлочный утеплитель представляет собой полоски из натурального войлока шириной 50 мм. Используется для утепления дверей и окон. Обладает отличными тепло- и звукоизоляционными свойствами.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-seriy-01.jpg</picture>
                 </offer>
-                <offer id="1191">
+                <offer id="1193">
                 <name>Войлочный утеплитель белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-beliy</url>
                 <price>300</price>
@@ -2688,7 +2716,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-beliy-01.jpg</picture>
                 <param name="Толщина">3</param>
             </offer>
-                <offer id="1192">
+                <offer id="1194">
                 <name>Войлочный утеплитель белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-beliy</url>
                 <price>500</price>
@@ -2702,7 +2730,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-beliy-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1193">
+                <offer id="1195">
                 <name>Войлочный утеплитель белый</name>
                 <url>https://porolonych.ru/catalog/voylok/voylochniy-uteplitel-beliy</url>
                 <price>800</price>
@@ -2716,7 +2744,7 @@
                 <picture>https://porolonych.ru/images/catalog/voylok/voylochniy-uteplitel-beliy-01.jpg</picture>
                 <param name="Толщина">10</param>
             </offer>
-                <offer id="1194">
+                <offer id="1196">
                 <name>Термовойлок</name>
                 <url>https://porolonych.ru/catalog/voylok/termovoylok</url>
                 <price>230</price>
@@ -2729,7 +2757,7 @@
                 <description>Термовойлок – это сверхпрочный материал изготовленный из хлопковых, шерстяных и синтетических волокон с применением термической обработки. Используется в качестве изолирующего слоя между наполнителями и пружинным блоком, обеспечивает конструкции матраса прочность и долговечность. Также используется как шумоизоляция, термоизоляция и как утеплитель.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/termovoylok-01.jpg</picture>
                 </offer>
-                <offer id="1195">
+                <offer id="1197">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>6</price>
@@ -2743,7 +2771,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">6</param>
             </offer>
-                <offer id="1196">
+                <offer id="1198">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>9</price>
@@ -2757,7 +2785,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">8</param>
             </offer>
-                <offer id="1197">
+                <offer id="1199">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>11</price>
@@ -2771,7 +2799,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">10</param>
             </offer>
-                <offer id="1198">
+                <offer id="1200">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>13</price>
@@ -2785,7 +2813,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">12</param>
             </offer>
-                <offer id="1199">
+                <offer id="1201">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>16</price>
@@ -2799,7 +2827,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">15</param>
             </offer>
-                <offer id="1200">
+                <offer id="1202">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>21</price>
@@ -2813,7 +2841,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">20</param>
             </offer>
-                <offer id="1201">
+                <offer id="1203">
                 <name>Вилатерм</name>
                 <url>https://porolonych.ru/catalog/utepliteli/vilaterm</url>
                 <price>27</price>
@@ -2827,7 +2855,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/vilaterm-01.jpg</picture>
                 <param name="Диаметр">25</param>
             </offer>
-                <offer id="1202">
+                <offer id="1204">
                 <name>Максизол</name>
                 <url>https://porolonych.ru/catalog/utepliteli/maksizol</url>
                 <price>50</price>
@@ -2841,7 +2869,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/maksizol-01.jpg</picture>
                 <param name="Толщина">2</param>
             </offer>
-                <offer id="1203">
+                <offer id="1205">
                 <name>Максизол</name>
                 <url>https://porolonych.ru/catalog/utepliteli/maksizol</url>
                 <price>60</price>
@@ -2855,7 +2883,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/maksizol-01.jpg</picture>
                 <param name="Толщина">3</param>
             </offer>
-                <offer id="1204">
+                <offer id="1206">
                 <name>Максизол</name>
                 <url>https://porolonych.ru/catalog/utepliteli/maksizol</url>
                 <price>80</price>
@@ -2869,7 +2897,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/maksizol-01.jpg</picture>
                 <param name="Толщина">5</param>
             </offer>
-                <offer id="1205">
+                <offer id="1207">
                 <name>Максизол</name>
                 <url>https://porolonych.ru/catalog/utepliteli/maksizol</url>
                 <price>110</price>
@@ -2883,7 +2911,7 @@
                 <picture>https://porolonych.ru/images/catalog/utepliteli/maksizol-01.jpg</picture>
                 <param name="Толщина">10</param>
             </offer>
-                <offer id="1206">
+                <offer id="1208">
                 <name>Синтепон</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon</url>
                 <price>80</price>
@@ -2897,7 +2925,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon-01.jpg</picture>
                 <param name="Плотность">100</param>
             </offer>
-                <offer id="1300">
+                <offer id="1209">
                 <name>Синтепон</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon</url>
                 <price>120</price>
@@ -2911,7 +2939,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon-01.jpg</picture>
                 <param name="Плотность">150</param>
             </offer>
-                <offer id="1207">
+                <offer id="1210">
                 <name>Синтепон</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon</url>
                 <price>160</price>
@@ -2925,7 +2953,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon-01.jpg</picture>
                 <param name="Плотность">200</param>
             </offer>
-                <offer id="1208">
+                <offer id="1211">
                 <name>Синтепон</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon</url>
                 <price>240</price>
@@ -2939,63 +2967,63 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepon-01.jpg</picture>
                 <param name="Плотность">300</param>
             </offer>
-                <offer id="1209">
-                <name>Синтепух</name>
-                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh</url>
-                <price>480</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>3</categoryId>
-                <delivery>true</delivery>
-                <delivery-options>
-                    <option cost="700" days="1" />
-                </delivery-options>
-                <description><b>Синтепух</b> - это синтетический аналог натурального пуха. Мягкий, эластичный, гипоаллергенный материал, максимально близкий по свойствам к натуральному пуху водоплавающих птиц. Применяется в качестве наполнителя для подушек, одеял, мягкой мебели и детских игрушек, а также в качестве утеплителя при производстве верхней одежды.</br>Синтепух продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
-                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh-01.jpg</picture>
-                <param name="Сорт">1-й сорт</param>
-            </offer>
-                <offer id="1210">
-                <name>Синтепух</name>
-                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh</url>
-                <price>380</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>3</categoryId>
-                <delivery>true</delivery>
-                <delivery-options>
-                    <option cost="700" days="1" />
-                </delivery-options>
-                <description><b>Синтепух</b> - это синтетический аналог натурального пуха. Мягкий, эластичный, гипоаллергенный материал, максимально близкий по свойствам к натуральному пуху водоплавающих птиц. Применяется в качестве наполнителя для подушек, одеял, мягкой мебели и детских игрушек, а также в качестве утеплителя при производстве верхней одежды.</br>Синтепух продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
-                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh-01.jpg</picture>
-                <param name="Сорт">2-й сорт</param>
-            </offer>
-                <offer id="1211">
-                <name>Синтешар</name>
-                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar</url>
-                <price>480</price>
-                <currencyId>RUR</currencyId>
-                <categoryId>3</categoryId>
-                <delivery>true</delivery>
-                <delivery-options>
-                    <option cost="700" days="1" />
-                </delivery-options>
-                <description><b>Синтешар</b> это синтетический наполнитель из силиконизированного полиэфирного волокна сферической формы. Служит в качестве наполнителя для подушек, игрушек, элементов мягкой мебели и т.д. Из-за отсутствия натуральных компонентов волоконные шары не вызывают аллергии. Хорошо восстанавливается после деформации, покрытие силиконом уменьшает трение между волокнами при сжатии и восстановлении, что увеличивает долговечность наполнителя.</br>Синтешар продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
-                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar-01.jpg</picture>
-                <param name="Сорт">1-й сорт</param>
-            </offer>
                 <offer id="1212">
-                <name>Синтешар</name>
-                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar</url>
-                <price>380</price>
+                <name>Синтепух</name>
+                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh</url>
+                <price>480</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>3</categoryId>
                 <delivery>true</delivery>
                 <delivery-options>
                     <option cost="700" days="1" />
                 </delivery-options>
-                <description><b>Синтешар</b> это синтетический наполнитель из силиконизированного полиэфирного волокна сферической формы. Служит в качестве наполнителя для подушек, игрушек, элементов мягкой мебели и т.д. Из-за отсутствия натуральных компонентов волоконные шары не вызывают аллергии. Хорошо восстанавливается после деформации, покрытие силиконом уменьшает трение между волокнами при сжатии и восстановлении, что увеличивает долговечность наполнителя.</br>Синтешар продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
-                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar-01.jpg</picture>
-                <param name="Сорт">2-й сорт</param>
+                <description><b>Синтепух</b> - это синтетический аналог натурального пуха. Мягкий, эластичный, гипоаллергенный материал, максимально близкий по свойствам к натуральному пуху водоплавающих птиц. Применяется в качестве наполнителя для подушек, одеял, мягкой мебели и детских игрушек, а также в качестве утеплителя при производстве верхней одежды.</br>Синтепух продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
+                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh-01.jpg</picture>
+                <param name="Сорт">1-й сорт</param>
             </offer>
                 <offer id="1213">
+                <name>Синтепух</name>
+                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh</url>
+                <price>380</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <delivery>true</delivery>
+                <delivery-options>
+                    <option cost="700" days="1" />
+                </delivery-options>
+                <description><b>Синтепух</b> - это синтетический аналог натурального пуха. Мягкий, эластичный, гипоаллергенный материал, максимально близкий по свойствам к натуральному пуху водоплавающих птиц. Применяется в качестве наполнителя для подушек, одеял, мягкой мебели и детских игрушек, а также в качестве утеплителя при производстве верхней одежды.</br>Синтепух продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
+                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sintepuh-01.jpg</picture>
+                <param name="Сорт">2-й сорт</param>
+            </offer>
+                <offer id="1214">
+                <name>Синтешар</name>
+                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar</url>
+                <price>480</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <delivery>true</delivery>
+                <delivery-options>
+                    <option cost="700" days="1" />
+                </delivery-options>
+                <description><b>Синтешар</b> это синтетический наполнитель из силиконизированного полиэфирного волокна сферической формы. Служит в качестве наполнителя для подушек, игрушек, элементов мягкой мебели и т.д. Из-за отсутствия натуральных компонентов волоконные шары не вызывают аллергии. Хорошо восстанавливается после деформации, покрытие силиконом уменьшает трение между волокнами при сжатии и восстановлении, что увеличивает долговечность наполнителя.</br>Синтешар продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
+                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar-01.jpg</picture>
+                <param name="Сорт">1-й сорт</param>
+            </offer>
+                <offer id="1215">
+                <name>Синтешар</name>
+                <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar</url>
+                <price>380</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>3</categoryId>
+                <delivery>true</delivery>
+                <delivery-options>
+                    <option cost="700" days="1" />
+                </delivery-options>
+                <description><b>Синтешар</b> это синтетический наполнитель из силиконизированного полиэфирного волокна сферической формы. Служит в качестве наполнителя для подушек, игрушек, элементов мягкой мебели и т.д. Из-за отсутствия натуральных компонентов волоконные шары не вызывают аллергии. Хорошо восстанавливается после деформации, покрытие силиконом уменьшает трение между волокнами при сжатии и восстановлении, что увеличивает долговечность наполнителя.</br>Синтешар продаётся ТОЛЬКО целыми упаковками по 10-15 кг.</description>
+                <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/sinteshar-01.jpg</picture>
+                <param name="Сорт">2-й сорт</param>
+            </offer>
+                <offer id="1216">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>25</price>
@@ -3009,7 +3037,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">17</param>
             </offer>
-                <offer id="1214">
+                <offer id="1217">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>60</price>
@@ -3023,7 +3051,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">40</param>
             </offer>
-                <offer id="1215">
+                <offer id="1218">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>90</price>
@@ -3037,7 +3065,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">60</param>
             </offer>
-                <offer id="1216">
+                <offer id="1219">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>120</price>
@@ -3051,7 +3079,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">80</param>
             </offer>
-                <offer id="1217">
+                <offer id="1220">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>150</price>
@@ -3065,7 +3093,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">100</param>
             </offer>
-                <offer id="1218">
+                <offer id="1221">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>180</price>
@@ -3079,7 +3107,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">120</param>
             </offer>
-                <offer id="1219">
+                <offer id="1222">
                 <name>Спанбонд</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond</url>
                 <price>225</price>
@@ -3093,7 +3121,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/spanbond-01.jpg</picture>
                 <param name="Плотность">150</param>
             </offer>
-                <offer id="1220">
+                <offer id="1223">
                 <name>Ватин нитепрошивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin</url>
                 <price>70</price>
@@ -3107,7 +3135,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-01.jpg</picture>
                 <param name="Плотность">260</param>
             </offer>
-                <offer id="1221">
+                <offer id="1224">
                 <name>Ватин нитепрошивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin</url>
                 <price>90</price>
@@ -3121,7 +3149,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-01.jpg</picture>
                 <param name="Плотность">300</param>
             </offer>
-                <offer id="1222">
+                <offer id="1225">
                 <name>Ватин иглопробивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy</url>
                 <price>60</price>
@@ -3135,7 +3163,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy-01.jpg</picture>
                 <param name="Плотность">260</param>
             </offer>
-                <offer id="1223">
+                <offer id="1226">
                 <name>Ватин иглопробивной</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy</url>
                 <price>80</price>
@@ -3149,7 +3177,7 @@
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/vatin-igloprobivnoy-01.jpg</picture>
                 <param name="Плотность">300</param>
             </offer>
-                <offer id="1224">
+                <offer id="1227">
                 <name>Брезент</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/brezent</url>
                 <price>150</price>
@@ -3162,7 +3190,7 @@
                 <description><b>Брезент</b> - полотно из натурального льна, пропитанное специальным составом, который обеспечивает огнеупорные и водоотталкивающие свойства.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/brezent-01.jpg</picture>
                 </offer>
-                <offer id="1225">
+                <offer id="1228">
                 <name>Мешковина</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/meshkovina</url>
                 <price>60</price>
@@ -3175,7 +3203,7 @@
                 <description>Плотная, грубая ткань и толстых льняных нитей.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/meshkovina-01.jpg</picture>
                 </offer>
-                <offer id="1226">
+                <offer id="1229">
                 <name>Неткол</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/netkol</url>
                 <price>30</price>
@@ -3188,7 +3216,7 @@
                 <description>Неткол используется в качестве обтирочной ткани, для мытья и протирания поверхностей.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/netkol-01.jpg</picture>
                 </offer>
-                <offer id="1227">
+                <offer id="1230">
                 <name>Москитная сетка</name>
                 <url>https://porolonych.ru/catalog/napolniteli-dlya-myagkoj-mebeli/moskitnaya-setka</url>
                 <price>160</price>
@@ -3201,7 +3229,7 @@
                 <description>Также в продаже имеются готовые комплекты москитных сеток в алюминиевых рамках на окна - 800 рублей/шт.</description>
                 <picture>https://porolonych.ru/images/catalog/napolniteli-dlya-myagkoj-mebeli/moskitnaya-setka-01.jpg</picture>
                 </offer>
-                <offer id="1228">
+                <offer id="1231">
                 <name>Гвозди мебельные кожаные Ø13мм (разноцветные)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-kozhanye-13-mm-raznocvetnye</url>
                 <price>20</price>
@@ -3214,7 +3242,7 @@
                 <description>Мебельные гвозди, обтянутые кожей обычно применяются при перетяжке кожаной мебели и дверей. Цвет шляпки, как правило, подбирается под основной цвет материала.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-kozhanye-13-mm-raznocvetnye-01.jpg</picture>
                 </offer>
-                <offer id="1229">
+                <offer id="1232">
                 <name>Гвозди мебельные кожаные Ø23мм (разноцветные)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-kozhanye-23-mm-raznocvetnye</url>
                 <price>30</price>
@@ -3227,7 +3255,7 @@
                 <description>Мебельные гвозди, обтянутые кожей обычно применяются при перетяжке кожаной мебели и дверей. Цвет шляпки, как правило, подбирается под основной цвет материала.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-kozhanye-23-mm-raznocvetnye-01.jpg</picture>
                 </offer>
-                <offer id="1230">
+                <offer id="1233">
                 <name>Гвозди мебельные классические Ø10мм (латунь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-latun</url>
                 <price>130</price>
@@ -3240,7 +3268,7 @@
                 <description>Классические декоративные мебельные гвозди с рифлёной поверхностью. Цвет - латунь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-latun-01.jpg</picture>
                 </offer>
-                <offer id="1231">
+                <offer id="1234">
                 <name>Гвозди мебельные классические Ø10мм (медь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-med</url>
                 <price>130</price>
@@ -3253,7 +3281,7 @@
                 <description>Классические декоративные мебельные гвозди с рифлёной поверхностью. Цвет - медь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-med-01.jpg</picture>
                 </offer>
-                <offer id="1232">
+                <offer id="1235">
                 <name>Гвозди мебельные классические Ø10мм (серебро)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-serebro</url>
                 <price>130</price>
@@ -3266,7 +3294,7 @@
                 <description>Классические декоративные мебельные гвозди с рифлёной поверхностью. Цвет - серебро.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-serebro-01.jpg</picture>
                 </offer>
-                <offer id="1233">
+                <offer id="1236">
                 <name>Гвозди мебельные классические Ø10мм (золото)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-zoloto</url>
                 <price>130</price>
@@ -3279,7 +3307,7 @@
                 <description>Классические декоративные мебельные гвозди с рифлёной поверхностью. Цвет - золото.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-klassicheskie-10-mm-zoloto-01.jpg</picture>
                 </offer>
-                <offer id="1234">
+                <offer id="1237">
                 <name>Гвозди мебельные обивочные Ø20мм (латунь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-latun</url>
                 <price>8</price>
@@ -3292,7 +3320,7 @@
                 <description>Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - латунь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-latun-01.jpg</picture>
                 </offer>
-                <offer id="1235">
+                <offer id="1238">
                 <name>Гвозди мебельные обивочные Ø20мм (медь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-med</url>
                 <price>8</price>
@@ -3305,7 +3333,7 @@
                 <description>Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - медь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-med-01.jpg</picture>
                 </offer>
-                <offer id="1236">
+                <offer id="1239">
                 <name>Гвозди мебельные обивочные Ø20мм (серебро)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-serebro</url>
                 <price>8</price>
@@ -3318,7 +3346,7 @@
                 <description>Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - серебро.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-serebro-01.jpg</picture>
                 </offer>
-                <offer id="1237">
+                <offer id="1240">
                 <name>Гвозди мебельные обивочные Ø20мм (золото)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-zoloto</url>
                 <price>8</price>
@@ -3331,7 +3359,7 @@
                 <description>Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - золото.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-20-mm-zoloto-01.jpg</picture>
                 </offer>
-                <offer id="1238">
+                <offer id="1241">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (бронза)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-bronza</url>
                 <price>140</price>
@@ -3344,7 +3372,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - бронза.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-bronza-01.jpg</picture>
                 </offer>
-                <offer id="1239">
+                <offer id="1242">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (латунь темная)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-latun-temnaya</url>
                 <price>140</price>
@@ -3357,7 +3385,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - латунь темная.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-latun-temnaya-01.jpg</picture>
                 </offer>
-                <offer id="1240">
+                <offer id="1243">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (латунь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-latun</url>
                 <price>140</price>
@@ -3370,7 +3398,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - латунь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-latun-01.jpg</picture>
                 </offer>
-                <offer id="1241">
+                <offer id="1244">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (медь)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-med</url>
                 <price>140</price>
@@ -3383,7 +3411,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - медь.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-med-01.jpg</picture>
                 </offer>
-                <offer id="1242">
+                <offer id="1245">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (серебро)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-serebro</url>
                 <price>140</price>
@@ -3396,7 +3424,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - серебро.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-serebro-01.jpg</picture>
                 </offer>
-                <offer id="1243">
+                <offer id="1246">
                 <name>Гвозди мебельные обивочные Ø8, 11мм (золото)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-zoloto</url>
                 <price>140</price>
@@ -3409,7 +3437,7 @@
                 <description>Обивочные декоративные мебельные гвозди с гладкой поверхностью. Цвет - золото.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-obivochnye-8-11-mm-zoloto-01.jpg</picture>
                 </offer>
-                <offer id="1244">
+                <offer id="1247">
                 <name>Гвозди мебельные крашенные Ø10мм (бордовые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-bardovye</url>
                 <price>250</price>
@@ -3422,7 +3450,7 @@
                 <description>Крашенные декоративные мебельные гвозди (бордовые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-bardovye-01.jpg</picture>
                 </offer>
-                <offer id="1245">
+                <offer id="1248">
                 <name>Гвозди мебельные крашенные Ø10мм (бежевые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-bezhevye</url>
                 <price>250</price>
@@ -3435,7 +3463,7 @@
                 <description>Крашенные декоративные мебельные гвозди (бежевые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-bezhevye-01.jpg</picture>
                 </offer>
-                <offer id="1246">
+                <offer id="1249">
                 <name>Гвозди мебельные крашенные Ø10мм (черные)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-chernye</url>
                 <price>250</price>
@@ -3448,7 +3476,7 @@
                 <description>Крашенные декоративные мебельные гвозди (черные). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-chernye-01.jpg</picture>
                 </offer>
-                <offer id="1247">
+                <offer id="1250">
                 <name>Гвозди мебельные крашенные Ø10мм (коричневые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-korichnevye</url>
                 <price>250</price>
@@ -3461,7 +3489,7 @@
                 <description>Крашенные декоративные мебельные гвозди (коричневые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-korichnevye-01.jpg</picture>
                 </offer>
-                <offer id="1248">
+                <offer id="1251">
                 <name>Гвозди мебельные крашенные Ø10мм (оранжевые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-oranzhevye</url>
                 <price>250</price>
@@ -3474,7 +3502,7 @@
                 <description>Крашенные декоративные мебельные гвозди (оранжевые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-oranzhevye-01.jpg</picture>
                 </offer>
-                <offer id="1249">
+                <offer id="1252">
                 <name>Гвозди мебельные крашенные Ø10мм (шампань)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-shampan</url>
                 <price>250</price>
@@ -3487,7 +3515,7 @@
                 <description>Крашенные декоративные мебельные гвозди (шампань). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-shampan-01.jpg</picture>
                 </offer>
-                <offer id="1250">
+                <offer id="1253">
                 <name>Гвозди мебельные крашенные Ø10мм (светло-коричневые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-svetlo-korichnevye</url>
                 <price>250</price>
@@ -3500,7 +3528,7 @@
                 <description>Крашенные декоративные мебельные гвозди (светло-коричневые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-svetlo-korichnevye-01.jpg</picture>
                 </offer>
-                <offer id="1251">
+                <offer id="1254">
                 <name>Гвозди мебельные крашенные Ø10мм (светло-зеленые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-svetlo-zelenye</url>
                 <price>250</price>
@@ -3513,7 +3541,7 @@
                 <description>Крашенные декоративные мебельные гвозди (светло-зеленые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-svetlo-zelenye-01.jpg</picture>
                 </offer>
-                <offer id="1252">
+                <offer id="1255">
                 <name>Гвозди мебельные крашенные Ø10мм (темно-коричневые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-temno-korichnevye</url>
                 <price>250</price>
@@ -3526,7 +3554,7 @@
                 <description>Крашенные декоративные мебельные гвозди (темно-коричневые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-temno-korichnevye-01.jpg</picture>
                 </offer>
-                <offer id="1253">
+                <offer id="1256">
                 <name>Гвозди мебельные крашенные Ø10мм (темно-зеленые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-temno-zelenye</url>
                 <price>250</price>
@@ -3539,7 +3567,7 @@
                 <description>Крашенные декоративные мебельные гвозди (темно-зеленые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-temno-zelenye-01.jpg</picture>
                 </offer>
-                <offer id="1254">
+                <offer id="1257">
                 <name>Гвозди мебельные крашенные Ø10мм (зеленые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-zelenye</url>
                 <price>250</price>
@@ -3552,7 +3580,7 @@
                 <description>Крашенные декоративные мебельные гвозди (зеленые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-zelenye-01.jpg</picture>
                 </offer>
-                <offer id="1255">
+                <offer id="1258">
                 <name>Гвозди мебельные крашенные Ø10мм (желтые)</name>
                 <url>https://porolonych.ru/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-zheltye</url>
                 <price>250</price>
@@ -3565,7 +3593,7 @@
                 <description>Крашенные декоративные мебельные гвозди (желтые). Диаметр шляпки 10 мм, длина ножки 20 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/mebelnye-gvozdi/gvozdi-krashennye-10-mm-zheltye-01.jpg</picture>
                 </offer>
-                <offer id="1256">
+                <offer id="1259">
                 <name>Кожа обивочная</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-obivochnaya</url>
                 <price>500</price>
@@ -3578,7 +3606,7 @@
                 <description>Обладает приятным дизайном и слабовыраженным тиснением. Высокая прочность и износостойкость.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-obivochnaya-01.jpg</picture>
                 </offer>
-                <offer id="1257">
+                <offer id="1260">
                 <name>Кожа эконом</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-ekonom</url>
                 <price>350</price>
@@ -3591,7 +3619,7 @@
                 <description>Ярко выраженная фактура и множество классических цветов. Отличное сочетание цены и качества.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-ekonom-01.jpg</picture>
                 </offer>
-                <offer id="1258">
+                <offer id="1261">
                 <name>Кожа дверная</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-dvernaya</url>
                 <price>350</price>
@@ -3604,7 +3632,7 @@
                 <description>Отличается элегантным дизайном и слабовыраженным тиснением. Приятная фактура. Прочная на разрыв.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-dvernaya-01.jpg</picture>
                 </offer>
-                <offer id="1259">
+                <offer id="1262">
                 <name>Кожа GS</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-GS</url>
                 <price>800</price>
@@ -3617,7 +3645,7 @@
                 <description>Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-GS-01.jpg</picture>
                 </offer>
-                <offer id="1260">
+                <offer id="1263">
                 <name>Кожа RUV</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-RUV</url>
                 <price>850</price>
@@ -3630,7 +3658,7 @@
                 <description>Коллекция искусственной кожи, которая выделяется среди других элегантным тиснением и естественными цветами.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-RUV-01.jpg</picture>
                 </offer>
-                <offer id="1261">
+                <offer id="1264">
                 <name>Кожа Eco</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-eco</url>
                 <price>900</price>
@@ -3643,7 +3671,7 @@
                 <description>Eco – коллекция искусственной кожи с классическим рисунком. Легкая, прочная и износостойкая, удобна в работе и хорошо драпируется.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-eco-01.jpg</picture>
                 </offer>
-                <offer id="1262">
+                <offer id="1265">
                 <name>Кожа Croco</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-croco</url>
                 <price>1000</price>
@@ -3656,7 +3684,7 @@
                 <description>Кожзаменитель, имитирующий натуральную крокодиловую кожу. Подходит для пошива галантереи, декоративной отделки и обивки мебели.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-croco-01.jpg</picture>
                 </offer>
-                <offer id="1263">
+                <offer id="1266">
                 <name>Кожа автомобильная перфорированная</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-avto-perfo</url>
                 <price>1200</price>
@@ -3669,7 +3697,7 @@
                 <description>Материал отличается мягкой фактурой, хорошей степенью износостойкости и морозостойкости.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-avto-perfo-01.jpg</picture>
                 </offer>
-                <offer id="1264">
+                <offer id="1267">
                 <name>Кожа Fortuna</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-fortuna</url>
                 <price>1200</price>
@@ -3682,7 +3710,7 @@
                 <description>Серия искусственной кожи с элегантным тиснением. Рекомендуется использовать для оформления несущих нагрузку мягких деталей мебели и обивки мебельных конструкций.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-fortuna-01.jpg</picture>
                 </offer>
-                <offer id="1265">
+                <offer id="1268">
                 <name>Кожа Orfey</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-orfey</url>
                 <price>1200</price>
@@ -3695,7 +3723,7 @@
                 <description>Искусственная кожа, которую изготавливают на трикотажной основе с качественным покрытием из полиэстера и полиуретана. Прочный, приятный на ощупь и внешне привлекательный материал.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-orfey-01.jpg</picture>
                 </offer>
-                <offer id="1266">
+                <offer id="1269">
                 <name>Кожа Caribu</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-caribu</url>
                 <price>1200</price>
@@ -3708,7 +3736,7 @@
                 <description>Коллекция искусственной кожи с полиуретановой отделкой на основе из нетканого полотна или полиэстера. Подчеркивает оригинальный дизайн мебели и хорошо держит форму.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-caribu-01.jpg</picture>
                 </offer>
-                <offer id="1267">
+                <offer id="1270">
                 <name>Кожа Ajax</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-ajax</url>
                 <price>1200</price>
@@ -3721,7 +3749,7 @@
                 <description>Искусственная кожа с отделкой из полиуретана на нетканой, полиэфирной основе. Различные варианты дизайнерского исполнения материала в натуральных цветовых оттенках, с изящным тиснением.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-ajax-01.jpg</picture>
                 </offer>
-                <offer id="1268">
+                <offer id="1271">
                 <name>Кожа Mercury</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-mercury</url>
                 <price>1200</price>
@@ -3734,7 +3762,7 @@
                 <description>Искусственная кожа с элегантным тиснением в классическом стиле. Качественно имитирует внешний вид натуральной кожи.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-mercury-01.jpg</picture>
                 </offer>
-                <offer id="1269">
+                <offer id="1272">
                 <name>Кожа Reptile</name>
                 <url>https://porolonych.ru/catalog/iskusstvennaya-kozha/kozha-reptile</url>
                 <price>1500</price>
@@ -3747,7 +3775,7 @@
                 <description>Материал, имитирующий экзотическую кожу рептилий.</description>
                 <picture>https://porolonych.ru/images/catalog/iskusstvennaya-kozha/kozha-reptile-01.jpg</picture>
                 </offer>
-                <offer id="1270">
+                <offer id="1273">
                 <name>Комплект для обивки дверей</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/komplekt-dlya-obivki-dverey</url>
                 <price>950</price>
@@ -3760,7 +3788,7 @@
                 <description>Комплект для обивки деревянных и металлических дверей на базе искусственной кожи. В нём Вы найдёте всё необходимое для реставрации старой обивки. Готовые комплекты для обивки двери с одной стороны включают в себя:<br /><br />- полотно винилискожи 2,1х0,93м<br />- поролон 10 мм<br />- валики<br />- гвозди декоративные<br />- гвозди металлические.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/komplekt-dlya-obivki-dverey-01.jpg</picture>
                 </offer>
-                <offer id="1271">
+                <offer id="1274">
                 <name>Клей мебельный Poling</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-poling</url>
                 <price>580</price>
@@ -3773,7 +3801,7 @@
                 <description>Применяется для склеивания поролона как между собой, так и для склеивания с деревом, тканью, кожей и т.д.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-poling-01.jpg</picture>
                 </offer>
-                <offer id="1272">
+                <offer id="1275">
                 <name>Клей мебельный LAKOL</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-lakol</url>
                 <price>650</price>
@@ -3786,7 +3814,7 @@
                 <description>Применяется для склеивания поролона как между собой так и для склеивания с деревом, фанерой, ДСП, тканью, кожей.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-lakol-01.jpg</picture>
                 </offer>
-                <offer id="1273">
+                <offer id="1276">
                 <name>Клей поролоновый Спрей</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-sprey</url>
                 <price>800</price>
@@ -3799,7 +3827,7 @@
                 <description>Применяется для склеивания поролона, текстиля, пластика как между собой так и к деревянным и металлическим конструкциям.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-sprey-01.jpg</picture>
                 </offer>
-                <offer id="1274">
+                <offer id="1277">
                 <name>Степлер мебельный обивочный «Профессионал»</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/stepler-mebelniy-obivochniy</url>
                 <price>850</price>
@@ -3812,7 +3840,7 @@
                 <description>Применяется для крепления кожи, ткани, брезента, войлока к деревянным поверхностям (ДСП, ДВП, фанере). Длина используемой скобы от 6 до 14 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/stepler-mebelniy-obivochniy-01.jpg</picture>
                 </offer>
-                <offer id="1275">
+                <offer id="1278">
                 <name>Войлочные подпятники для мебели</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/voylochnie-podpyatniki-dlya-mebeli</url>
                 <price>80</price>
@@ -3825,7 +3853,7 @@
                 <description>Способствуют предотвращению образования повреждений пола во время передвижения мебели.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/voylochnie-podpyatniki-dlya-mebeli-01.jpg</picture>
                 </offer>
-                <offer id="1276">
+                <offer id="1279">
                 <name>Скобы мебельные 12мм</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-12-mm</url>
                 <price>85</price>
@@ -3838,7 +3866,7 @@
                 <description>Используются в мебельном производстве для крепежа. Длина скобы 12 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-12-mm-01.jpg</picture>
                 </offer>
-                <offer id="1277">
+                <offer id="1280">
                 <name>Скобы мебельные 14мм</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-14-mm</url>
                 <price>100</price>
@@ -3851,7 +3879,7 @@
                 <description>Используются в мебельном производстве для крепежа. Длина скобы 14 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-14-mm-01.jpg</picture>
                 </offer>
-                <offer id="1278">
+                <offer id="1281">
                 <name>Скобы мебельные 8мм</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-8-mm</url>
                 <price>70</price>
@@ -3864,7 +3892,7 @@
                 <description>Используются в мебельном производстве для крепежа. Длина скобы 8 мм.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-8-mm-01.jpg</picture>
                 </offer>
-                <offer id="1279">
+                <offer id="1282">
                 <name>Уплотнитель самоклеющийся профиль D 12х10мм двойной</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-12x10</url>
                 <price>100</price>
@@ -3877,7 +3905,7 @@
                 <description>Применяется для устранения зазоров и щелей на дверях.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-12x10-01.jpg</picture>
                 </offer>
-                <offer id="1280">
+                <offer id="1283">
                 <name>Уплотнитель самоклеющийся профиль D 14х12мм двойной</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-14x12</url>
                 <price>100</price>
@@ -3890,7 +3918,7 @@
                 <description>Применяется для устранения зазоров средних размеров преимущественно на металлических дверях.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-14x12-01.jpg</picture>
                 </offer>
-                <offer id="1281">
+                <offer id="1284">
                 <name>Уплотнитель самоклеющийся профиль D 9х8мм двойной</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-9x8</url>
                 <price>50</price>
@@ -3903,7 +3931,7 @@
                 <description>Уплотнитель отличается превосходным качеством, износоустойчивостью, способен выдерживать широкий диапазон колебания температуры.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-9x8-01.jpg</picture>
                 </offer>
-                <offer id="1282">
+                <offer id="1285">
                 <name>Уплотнитель самоклеющийся профиль Е 9х4 мм белый, коричневый</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uplotnitel-e-9x4</url>
                 <price>50</price>
@@ -3916,7 +3944,7 @@
                 <description>Применяется для устранения малых щелей на окнах и дверях.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uplotnitel-e-9x4-01.jpg</picture>
                 </offer>
-                <offer id="1283">
+                <offer id="1286">
                 <name>Уплотнитель самоклеющийся профиль D 21х15мм одинарный</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-21x15</url>
                 <price>150</price>
@@ -3929,7 +3957,7 @@
                 <description>Высококачественный уплотнитель самоклеющийся профиля D черного цвета предназначен для устранения больших щелей на дверях и гаражных воротах. Улучшает тепло- и звукоизоляцию.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-21x15-01.jpg</picture>
                 </offer>
-                <offer id="1284">
+                <offer id="1287">
                 <name>Утеплитель самоклеющийся для окон и дверей</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/uteplitel-dlya-okon-i-dverey</url>
                 <price>100</price>
@@ -3942,7 +3970,7 @@
                 <description>Сечение 8х8 мм, длина - 14 метров.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/uteplitel-dlya-okon-i-dverey-01.jpg</picture>
                 </offer>
-                <offer id="1285">
+                <offer id="1288">
                 <name>Лента самоклеющаяся для окон</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/lenta-dlya-okon</url>
                 <price>150</price>
@@ -3955,7 +3983,7 @@
                 <description>Ширина 50 мм, длина 10 метров.</description>
                 <picture>https://porolonych.ru/images/catalog/furnitura-dlya-obivki-klej/lenta-dlya-okon-01.jpg</picture>
                 </offer>
-                <offer id="1286">
+                <offer id="1289">
                 <name>Дюбель для обивки металлических дверей</name>
                 <url>https://porolonych.ru/catalog/furnitura-dlya-obivki-klej/dubel-dlya-obivki-dverey</url>
                 <price>5</price>

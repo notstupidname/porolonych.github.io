@@ -16,7 +16,7 @@ product_full_desc: Применяется для крепления кожи, т
         
 price_after: "шт."
 products:
-- id: 1274
+- id: 1277
   price: 850
 
 ---

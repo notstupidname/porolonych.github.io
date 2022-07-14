@@ -16,7 +16,7 @@ product_full_desc: Используются в мебельном произво
         
 price_after: "упаковка"
 products:
-- id: 1278
+- id: 1281
   price: 70
 
 ---
