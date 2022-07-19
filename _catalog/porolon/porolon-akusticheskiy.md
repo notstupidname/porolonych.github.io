@@ -32,21 +32,21 @@ param_mes: 'мм'
 products:
 - id: 1160
   param: Волна/15
-  price: 1060
+  price: 960
 - id: 1161
   param: Волна/30
-  price: 1410
+  price: 1270
 - id: 1162
   param: Волна/40
-  price: 2100
+  price: 1890
 - id: 1163
   param: Волна/60
-  price: 3130
+  price: 2820
 - id: 1164
   param: Пирамида/30х30
-  price: 3870
+  price: 3490
 - id: 1165
   param: Пирамида/50х50
-  price: 4830
+  price: 4350
 
 ---

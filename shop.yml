@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-07-14 11:42">
+<yml_catalog date="2022-07-19 09:02">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -23,7 +23,7 @@
             <offer id="1001">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>280</price>
+                <price>260</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -37,7 +37,7 @@
                 <offer id="1002">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>340</price>
+                <price>310</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -51,7 +51,7 @@
                 <offer id="1003">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>430</price>
+                <price>390</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -65,7 +65,7 @@
                 <offer id="1004">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>850</price>
+                <price>770</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -79,7 +79,7 @@
                 <offer id="1005">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>1280</price>
+                <price>1160</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -93,7 +93,7 @@
                 <offer id="1006">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>1700</price>
+                <price>1530</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -107,7 +107,7 @@
                 <offer id="1007">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>2130</price>
+                <price>1920</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -121,7 +121,7 @@
                 <offer id="1008">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>2550</price>
+                <price>2300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -135,7 +135,7 @@
                 <offer id="1009">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>3400</price>
+                <price>3060</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -149,7 +149,7 @@
                 <offer id="1010">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>4250</price>
+                <price>3830</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -163,7 +163,7 @@
                 <offer id="1011">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>5100</price>
+                <price>4590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -177,7 +177,7 @@
                 <offer id="1012">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>6370</price>
+                <price>5740</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -191,7 +191,7 @@
                 <offer id="1013">
                 <name>Поролон EL2040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040</url>
-                <price>8490</price>
+                <price>7650</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -205,7 +205,7 @@
                 <offer id="1014">
                 <name>Поролон EL2040 1200x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1200-2000</url>
-                <price>2550</price>
+                <price>2300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -219,7 +219,7 @@
                 <offer id="1015">
                 <name>Поролон EL2040 1200x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1200-2000</url>
-                <price>4080</price>
+                <price>3680</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -233,7 +233,7 @@
                 <offer id="1016">
                 <name>Поролон EL2040 1200x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1200-2000</url>
-                <price>5100</price>
+                <price>4590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -247,7 +247,7 @@
                 <offer id="1017">
                 <name>Поролон EL2040 1500x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1500-2000</url>
-                <price>3190</price>
+                <price>2880</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -261,7 +261,7 @@
                 <offer id="1018">
                 <name>Поролон EL2040 1500x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1500-2000</url>
-                <price>5100</price>
+                <price>4590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -275,7 +275,7 @@
                 <offer id="1019">
                 <name>Поролон EL2040 1500x2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-2040-1500-2000</url>
-                <price>6370</price>
+                <price>5740</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -289,7 +289,7 @@
                 <offer id="1020">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>630</price>
+                <price>570</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -303,7 +303,7 @@
                 <offer id="1021">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>1260</price>
+                <price>1140</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -317,7 +317,7 @@
                 <offer id="1022">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>1880</price>
+                <price>1700</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -331,7 +331,7 @@
                 <offer id="1023">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>2510</price>
+                <price>2260</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -345,7 +345,7 @@
                 <offer id="1024">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>3130</price>
+                <price>2820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -359,7 +359,7 @@
                 <offer id="1025">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>3760</price>
+                <price>3390</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -373,7 +373,7 @@
                 <offer id="1026">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>5010</price>
+                <price>4510</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -387,7 +387,7 @@
                 <offer id="1027">
                 <name>Поролон ST3040 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040</url>
-                <price>6260</price>
+                <price>5640</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -401,7 +401,7 @@
                 <offer id="1028">
                 <name>Поролон ST3040 1500х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1500-2000</url>
-                <price>2820</price>
+                <price>2540</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -415,7 +415,7 @@
                 <offer id="1029">
                 <name>Поролон ST3040 1500х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1500-2000</url>
-                <price>4700</price>
+                <price>4230</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -429,7 +429,7 @@
                 <offer id="1030">
                 <name>Поролон ST3040 1500х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1500-2000</url>
-                <price>9390</price>
+                <price>8460</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -443,7 +443,7 @@
                 <offer id="1031">
                 <name>Поролон ST3040 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1600-2000</url>
-                <price>2010</price>
+                <price>1810</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -457,7 +457,7 @@
                 <offer id="1032">
                 <name>Поролон ST3040 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1600-2000</url>
-                <price>4010</price>
+                <price>3610</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -471,7 +471,7 @@
                 <offer id="1033">
                 <name>Поролон ST3040 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1600-2000</url>
-                <price>8020</price>
+                <price>7220</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -485,7 +485,7 @@
                 <offer id="1034">
                 <name>Поролон ST3040 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3040-1600-2000</url>
-                <price>10020</price>
+                <price>9020</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -499,7 +499,7 @@
                 <offer id="1035">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>850</price>
+                <price>770</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -513,7 +513,7 @@
                 <offer id="1036">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>1700</price>
+                <price>1530</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -527,7 +527,7 @@
                 <offer id="1037">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>2540</price>
+                <price>2290</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -541,7 +541,7 @@
                 <offer id="1038">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>3390</price>
+                <price>3060</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -555,7 +555,7 @@
                 <offer id="1039">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>4240</price>
+                <price>3820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -569,7 +569,7 @@
                 <offer id="1040">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>5080</price>
+                <price>4580</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -583,7 +583,7 @@
                 <offer id="1041">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>6780</price>
+                <price>6110</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -597,7 +597,7 @@
                 <offer id="1042">
                 <name>Поролон EL4060 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060</url>
-                <price>8470</price>
+                <price>7630</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -611,7 +611,7 @@
                 <offer id="1043">
                 <name>Поролон EL4060 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1400-2000</url>
-                <price>4740</price>
+                <price>4270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -625,7 +625,7 @@
                 <offer id="1044">
                 <name>Поролон EL4060 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1400-2000</url>
-                <price>5930</price>
+                <price>5340</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -639,7 +639,7 @@
                 <offer id="1045">
                 <name>Поролон EL4060 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1400-2000</url>
-                <price>11850</price>
+                <price>10670</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -653,7 +653,7 @@
                 <offer id="1046">
                 <name>Поролон EL4060 1500х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1500-2000</url>
-                <price>6350</price>
+                <price>5720</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -667,7 +667,7 @@
                 <offer id="1047">
                 <name>Поролон EL4060 1500х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1500-2000</url>
-                <price>12700</price>
+                <price>11430</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -681,7 +681,7 @@
                 <offer id="1048">
                 <name>Поролон EL4060 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1600-2000</url>
-                <price>6780</price>
+                <price>6110</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -695,7 +695,7 @@
                 <offer id="1049">
                 <name>Поролон EL4060 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-el-4060-1600-2000</url>
-                <price>13550</price>
+                <price>12200</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -709,7 +709,7 @@
                 <offer id="1050">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>1700</price>
+                <price>1530</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -723,7 +723,7 @@
                 <offer id="1051">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>2550</price>
+                <price>2300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -737,7 +737,7 @@
                 <offer id="1052">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>3400</price>
+                <price>3060</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -751,7 +751,7 @@
                 <offer id="1053">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>4250</price>
+                <price>3830</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -765,7 +765,7 @@
                 <offer id="1054">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>5100</price>
+                <price>4590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -779,7 +779,7 @@
                 <offer id="1055">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>6790</price>
+                <price>6120</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -793,7 +793,7 @@
                 <offer id="1056">
                 <name>Поролон HL4065 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hl-4065</url>
-                <price>8490</price>
+                <price>7650</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -807,7 +807,7 @@
                 <offer id="1057">
                 <name>Поролон SPG2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-spg-2236</url>
-                <price>510</price>
+                <price>460</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -821,7 +821,7 @@
                 <offer id="1058">
                 <name>Поролон SPG2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-spg-2236</url>
-                <price>1010</price>
+                <price>910</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -835,7 +835,7 @@
                 <offer id="1059">
                 <name>Поролон SPG2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-spg-2236</url>
-                <price>1520</price>
+                <price>1370</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -849,7 +849,7 @@
                 <offer id="1060">
                 <name>Поролон SPG2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-spg-2236</url>
-                <price>2020</price>
+                <price>1820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -863,7 +863,7 @@
                 <offer id="1061">
                 <name>Поролон SPG2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-spg-2236</url>
-                <price>2520</price>
+                <price>2270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -877,7 +877,7 @@
                 <offer id="1062">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>380</price>
+                <price>350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -891,7 +891,7 @@
                 <offer id="1063">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>760</price>
+                <price>690</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -905,7 +905,7 @@
                 <offer id="1064">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>1140</price>
+                <price>1030</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -919,7 +919,7 @@
                 <offer id="1065">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>1520</price>
+                <price>1370</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -933,7 +933,7 @@
                 <offer id="1066">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>1890</price>
+                <price>1710</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -947,7 +947,7 @@
                 <offer id="1067">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>2270</price>
+                <price>2050</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -961,7 +961,7 @@
                 <offer id="1068">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>3030</price>
+                <price>2730</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -975,7 +975,7 @@
                 <offer id="1069">
                 <name>Поролон ST1825 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-1825</url>
-                <price>3780</price>
+                <price>3410</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -989,7 +989,7 @@
                 <offer id="1070">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>460</price>
+                <price>420</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1003,7 +1003,7 @@
                 <offer id="1071">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>920</price>
+                <price>830</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1017,7 +1017,7 @@
                 <offer id="1072">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>1380</price>
+                <price>1250</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1031,7 +1031,7 @@
                 <offer id="1073">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>1840</price>
+                <price>1660</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1045,7 +1045,7 @@
                 <offer id="1074">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>2300</price>
+                <price>2070</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1059,7 +1059,7 @@
                 <offer id="1075">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>2760</price>
+                <price>2490</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1073,7 +1073,7 @@
                 <offer id="1076">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>3680</price>
+                <price>3320</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1087,7 +1087,7 @@
                 <offer id="1077">
                 <name>Поролон ST2236 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2236</url>
-                <price>4600</price>
+                <price>4140</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1101,7 +1101,7 @@
                 <offer id="1078">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>530</price>
+                <price>480</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1115,7 +1115,7 @@
                 <offer id="1079">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>1050</price>
+                <price>950</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1129,7 +1129,7 @@
                 <offer id="1080">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>1570</price>
+                <price>1420</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1143,7 +1143,7 @@
                 <offer id="1081">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>2090</price>
+                <price>1890</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1157,7 +1157,7 @@
                 <offer id="1082">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>2610</price>
+                <price>2350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1171,7 +1171,7 @@
                 <offer id="1083">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>3130</price>
+                <price>2820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1185,7 +1185,7 @@
                 <offer id="1084">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>4170</price>
+                <price>3760</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1199,7 +1199,7 @@
                 <offer id="1085">
                 <name>Поролон ST2536 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-2536</url>
-                <price>5210</price>
+                <price>4690</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1213,7 +1213,7 @@
                 <offer id="1086">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>1470</price>
+                <price>1330</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1227,7 +1227,7 @@
                 <offer id="1087">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>2200</price>
+                <price>1980</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1241,7 +1241,7 @@
                 <offer id="1088">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>2930</price>
+                <price>2640</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1255,7 +1255,7 @@
                 <offer id="1089">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>3660</price>
+                <price>3300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1269,7 +1269,7 @@
                 <offer id="1090">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>5850</price>
+                <price>5270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1283,7 +1283,7 @@
                 <offer id="1091">
                 <name>Поролон ST3542 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542</url>
-                <price>7310</price>
+                <price>6580</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1297,7 +1297,7 @@
                 <offer id="1092">
                 <name>Поролон ST3542 1200х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1200-2000</url>
-                <price>4390</price>
+                <price>3960</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1311,7 +1311,7 @@
                 <offer id="1093">
                 <name>Поролон ST3542 1200х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1200-2000</url>
-                <price>8770</price>
+                <price>7900</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1325,7 +1325,7 @@
                 <offer id="1094">
                 <name>Поролон ST3542 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1400-2000</url>
-                <price>5120</price>
+                <price>4610</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1339,7 +1339,7 @@
                 <offer id="1095">
                 <name>Поролон ST3542 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1400-2000</url>
-                <price>10240</price>
+                <price>9220</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1353,7 +1353,7 @@
                 <offer id="1096">
                 <name>Поролон ST3542 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1600-2000</url>
-                <price>5850</price>
+                <price>5270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1367,7 +1367,7 @@
                 <offer id="1097">
                 <name>Поролон ST3542 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1600-2000</url>
-                <price>11700</price>
+                <price>10530</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1381,7 +1381,7 @@
                 <offer id="1098">
                 <name>Поролон ST3542 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1800-2000</url>
-                <price>6580</price>
+                <price>5930</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1395,7 +1395,7 @@
                 <offer id="1099">
                 <name>Поролон ST3542 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-st-3542-1800-2000</url>
-                <price>13160</price>
+                <price>11850</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1409,7 +1409,7 @@
                 <offer id="1100">
                 <name>Поролон S2520 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-s-2520</url>
-                <price>2200</price>
+                <price>1980</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1423,7 +1423,7 @@
                 <offer id="1101">
                 <name>Поролон S2520 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-s-2520</url>
-                <price>3290</price>
+                <price>2970</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1437,7 +1437,7 @@
                 <offer id="1102">
                 <name>Поролон S2520 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-s-2520</url>
-                <price>4390</price>
+                <price>3960</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1451,7 +1451,7 @@
                 <offer id="1103">
                 <name>Поролон S2520 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-s-2520</url>
-                <price>5490</price>
+                <price>4950</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1465,7 +1465,7 @@
                 <offer id="1104">
                 <name>Поролон HR3025 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1400-2000</url>
-                <price>4770</price>
+                <price>4300</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1479,7 +1479,7 @@
                 <offer id="1105">
                 <name>Поролон HR3025 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1400-2000</url>
-                <price>9540</price>
+                <price>8590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1493,7 +1493,7 @@
                 <offer id="1106">
                 <name>Поролон HR3025 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1600-2000</url>
-                <price>4360</price>
+                <price>3930</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1507,7 +1507,7 @@
                 <offer id="1107">
                 <name>Поролон HR3025 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1600-2000</url>
-                <price>5450</price>
+                <price>4910</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1521,7 +1521,7 @@
                 <offer id="1108">
                 <name>Поролон HR3025 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1600-2000</url>
-                <price>8720</price>
+                <price>7850</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1535,7 +1535,7 @@
                 <offer id="1109">
                 <name>Поролон HR3025 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3025-1600-2000</url>
-                <price>10900</price>
+                <price>9810</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1549,7 +1549,7 @@
                 <offer id="1110">
                 <name>Поролон HR3535 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535</url>
-                <price>2390</price>
+                <price>2160</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1563,7 +1563,7 @@
                 <offer id="1111">
                 <name>Поролон HR3535 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535</url>
-                <price>3980</price>
+                <price>3590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1577,7 +1577,7 @@
                 <offer id="1112">
                 <name>Поролон HR3535 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535</url>
-                <price>7950</price>
+                <price>7160</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1591,7 +1591,7 @@
                 <offer id="1113">
                 <name>Поролон HR3535 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1400-2000</url>
-                <price>4450</price>
+                <price>4010</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1605,7 +1605,7 @@
                 <offer id="1114">
                 <name>Поролон HR3535 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1400-2000</url>
-                <price>5570</price>
+                <price>5020</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1619,7 +1619,7 @@
                 <offer id="1115">
                 <name>Поролон HR3535 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1400-2000</url>
-                <price>11130</price>
+                <price>10020</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1633,7 +1633,7 @@
                 <offer id="1116">
                 <name>Поролон HR3535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1600-2000</url>
-                <price>5090</price>
+                <price>4590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1647,7 +1647,7 @@
                 <offer id="1117">
                 <name>Поролон HR3535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1600-2000</url>
-                <price>6360</price>
+                <price>5730</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1661,7 +1661,7 @@
                 <offer id="1118">
                 <name>Поролон HR3535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1600-2000</url>
-                <price>10180</price>
+                <price>9170</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1675,7 +1675,7 @@
                 <offer id="1119">
                 <name>Поролон HR3535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1600-2000</url>
-                <price>12720</price>
+                <price>11450</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1689,7 +1689,7 @@
                 <offer id="1120">
                 <name>Поролон HR3535 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1800-2000</url>
-                <price>7160</price>
+                <price>6450</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1703,7 +1703,7 @@
                 <offer id="1121">
                 <name>Поролон HR3535 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-3535-1800-2000</url>
-                <price>14310</price>
+                <price>12880</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1717,7 +1717,7 @@
                 <offer id="1122">
                 <name>Поролон HR5535 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535</url>
-                <price>10000</price>
+                <price>9000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1731,7 +1731,7 @@
                 <offer id="1123">
                 <name>Поролон HR5535 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535</url>
-                <price>12490</price>
+                <price>11250</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1745,7 +1745,7 @@
                 <offer id="1124">
                 <name>Поролон HR5535 1400х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535-1400-2000</url>
-                <price>8750</price>
+                <price>7880</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1759,7 +1759,7 @@
                 <offer id="1125">
                 <name>Поролон HR5535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535-1600-2000</url>
-                <price>10000</price>
+                <price>9000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1773,7 +1773,7 @@
                 <offer id="1126">
                 <name>Поролон HR5535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535-1600-2000</url>
-                <price>11990</price>
+                <price>10800</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1787,7 +1787,7 @@
                 <offer id="1127">
                 <name>Поролон HR5535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535-1600-2000</url>
-                <price>15990</price>
+                <price>14400</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1801,7 +1801,7 @@
                 <offer id="1128">
                 <name>Поролон HR5535 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-hr-5535-1600-2000</url>
-                <price>19990</price>
+                <price>18000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1815,7 +1815,7 @@
                 <offer id="1129">
                 <name>Поролон LR5014 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014</url>
-                <price>2470</price>
+                <price>2230</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1829,7 +1829,7 @@
                 <offer id="1130">
                 <name>Поролон LR5014 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014</url>
-                <price>4940</price>
+                <price>4450</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1843,7 +1843,7 @@
                 <offer id="1131">
                 <name>Поролон LR5014 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014</url>
-                <price>6180</price>
+                <price>5570</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1857,7 +1857,7 @@
                 <offer id="1132">
                 <name>Поролон LR5014 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014-1600-2000</url>
-                <price>7910</price>
+                <price>7120</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1871,7 +1871,7 @@
                 <offer id="1133">
                 <name>Поролон LR5014 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014-1600-2000</url>
-                <price>9880</price>
+                <price>8900</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1885,7 +1885,7 @@
                 <offer id="1134">
                 <name>Поролон LR5014 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014-1800-2000</url>
-                <price>7910</price>
+                <price>7120</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1899,7 +1899,7 @@
                 <offer id="1135">
                 <name>Поролон LL5020 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-ll-5020</url>
-                <price>6350</price>
+                <price>5720</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1913,7 +1913,7 @@
                 <offer id="1136">
                 <name>Поролон LL5020 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-ll-5020-1600-2000</url>
-                <price>6090</price>
+                <price>5490</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1927,7 +1927,7 @@
                 <offer id="1137">
                 <name>Поролон LL5020 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-ll-5020-1600-2000</url>
-                <price>8120</price>
+                <price>7310</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1941,7 +1941,7 @@
                 <offer id="1138">
                 <name>Поролон LL5020 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-ll-5020-1600-2000</url>
-                <price>10150</price>
+                <price>9140</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1955,7 +1955,7 @@
                 <offer id="1139">
                 <name>Поролон LL5020 1600х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-ll-5020-1600-2000</url>
-                <price>16240</price>
+                <price>14620</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1969,7 +1969,7 @@
                 <offer id="1140">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>1570</price>
+                <price>1420</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1983,7 +1983,7 @@
                 <offer id="1141">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>2350</price>
+                <price>2120</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -1997,7 +1997,7 @@
                 <offer id="1142">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>3130</price>
+                <price>2820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2011,7 +2011,7 @@
                 <offer id="1143">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>3910</price>
+                <price>3520</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2025,7 +2025,7 @@
                 <offer id="1144">
                 <name>Поролон ПВВ-60 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-60</url>
-                <price>6250</price>
+                <price>5630</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2039,7 +2039,7 @@
                 <offer id="1145">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>960</price>
+                <price>870</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2053,7 +2053,7 @@
                 <offer id="1146">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>1920</price>
+                <price>1730</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2067,7 +2067,7 @@
                 <offer id="1147">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>2870</price>
+                <price>2590</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2081,7 +2081,7 @@
                 <offer id="1148">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>3830</price>
+                <price>3450</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2095,7 +2095,7 @@
                 <offer id="1149">
                 <name>Поролон ПВВ-80 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-80</url>
-                <price>4780</price>
+                <price>4310</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2109,7 +2109,7 @@
                 <offer id="1150">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>1080</price>
+                <price>980</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2123,7 +2123,7 @@
                 <offer id="1151">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>2150</price>
+                <price>1940</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2137,7 +2137,7 @@
                 <offer id="1152">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>3220</price>
+                <price>2900</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2151,7 +2151,7 @@
                 <offer id="1153">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>4300</price>
+                <price>3870</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2165,7 +2165,7 @@
                 <offer id="1154">
                 <name>Поролон ПВВ-100 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-100</url>
-                <price>5370</price>
+                <price>4840</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2179,7 +2179,7 @@
                 <offer id="1155">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>1210</price>
+                <price>1090</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2193,7 +2193,7 @@
                 <offer id="1156">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>2420</price>
+                <price>2180</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2207,7 +2207,7 @@
                 <offer id="1157">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>3630</price>
+                <price>3270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2221,7 +2221,7 @@
                 <offer id="1158">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>4830</price>
+                <price>4350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2235,7 +2235,7 @@
                 <offer id="1159">
                 <name>Поролон ПВВ-120 1000х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-pvv-120</url>
-                <price>6040</price>
+                <price>5440</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2249,7 +2249,7 @@
                 <offer id="1160">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>1060</price>
+                <price>960</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2263,7 +2263,7 @@
                 <offer id="1161">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>1410</price>
+                <price>1270</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2277,7 +2277,7 @@
                 <offer id="1162">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>2100</price>
+                <price>1890</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2291,7 +2291,7 @@
                 <offer id="1163">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>3130</price>
+                <price>2820</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2305,7 +2305,7 @@
                 <offer id="1164">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>3870</price>
+                <price>3490</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2319,7 +2319,7 @@
                 <offer id="1165">
                 <name>Поролон акустический</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-akusticheskiy</url>
-                <price>4830</price>
+                <price>4350</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
