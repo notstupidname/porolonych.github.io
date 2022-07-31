@@ -1078,6 +1078,10 @@ header.mobile {
 		opacity: 0.25;
 	}
 
+	.cart.float svg {
+		fill: var(--button-text-color);
+	}
+
 @media screen and (max-width: 1280px) {
 	
 	.cart.float {
