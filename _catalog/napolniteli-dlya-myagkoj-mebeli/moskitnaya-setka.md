@@ -22,7 +22,7 @@ properties:
   value: 1,6 м
 
 products:
-- id: 1230
+- id: 1231
   price: 160
 
 ---

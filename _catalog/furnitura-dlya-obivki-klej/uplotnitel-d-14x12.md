@@ -16,7 +16,7 @@ product_full_desc: Применяется для устранения зазор
         
 price_after: "м.п."
 products:
-- id: 1283
+- id: 1284
   price: 100
 
 ---
