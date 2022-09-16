@@ -16,7 +16,7 @@ product_full_desc: Искусственный войлок это нетканн
         
 price_after: "м.п."
 properties:
-- name: Тощина
+- name: Толщина
   value: 3 мм
 - name: Ширина - длина рулона
   value: 1,2 м - 110 м.п., 1,35 м.п. - 44 м.п., 1,6 м - 50 м.п., 1,65 м - 25 м
@@ -33,16 +33,16 @@ param_name: 'Ширина'
 param_mes: 'м'
 products:
 - id: 1184
-  param: 1,2
+  param: 1.2
   price: 130
 - id: 1185
-  param: 1,35
+  param: 1.35
   price: 150
 - id: 1186
-  param: 1,6
+  param: 1.6
   price: 170
 - id: 1187
-  param: 1,65
+  param: 1.65
   price: 180
 
 ---
