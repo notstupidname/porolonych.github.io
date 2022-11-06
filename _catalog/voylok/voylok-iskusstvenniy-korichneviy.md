@@ -27,7 +27,7 @@ properties:
 
 related:
 - voylok-iskusstvenniy-seriy
-- voylok-iskusstvenniy-beliy-5mm
+- voylok-iskusstvenniy-beliy-3mm
 - voylochniy-uteplitel-cherniy
 - termovoylok
 

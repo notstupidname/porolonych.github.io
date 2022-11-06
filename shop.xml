@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-09-16 12:00">
+<yml_catalog date="2022-11-06 13:17">
     <shop>
         <name>Поролоныч</name>
         <company>Поролоныч</company>
@@ -1885,7 +1885,7 @@
                 <offer id="1134">
                 <name>Поролон LR5014 1800х2000мм</name>
                 <url>https://porolonych.ru/catalog/porolon/porolon-lr-5014-1800-2000</url>
-                <price>7120</price>
+                <price>8010</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <delivery>true</delivery>
@@ -2590,7 +2590,7 @@
                 </delivery-options>
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-3mm-01.jpg</picture>
-                <param name="Ширина">1,2</param>
+                <param name="Ширина">1.2</param>
             </offer>
                 <offer id="1185">
                 <name>Войлок искусственный белый 3мм (фетр)</name>
@@ -2604,7 +2604,7 @@
                 </delivery-options>
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-3mm-01.jpg</picture>
-                <param name="Ширина">1,35</param>
+                <param name="Ширина">1.35</param>
             </offer>
                 <offer id="1186">
                 <name>Войлок искусственный белый 3мм (фетр)</name>
@@ -2618,7 +2618,7 @@
                 </delivery-options>
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-3mm-01.jpg</picture>
-                <param name="Ширина">1,6</param>
+                <param name="Ширина">1.6</param>
             </offer>
                 <offer id="1187">
                 <name>Войлок искусственный белый 3мм (фетр)</name>
@@ -2632,7 +2632,7 @@
                 </delivery-options>
                 <description>Искусственный войлок это нетканное полотно из искусственной шерсти, применяется для изготовления деталей интерьера автомобилей (обивка дверей, стенок, крыши), а также применяется в качестве утеплителя. Обладает хорошими звукоизолирующими свойствами и может использоваться в качестве шумоизоляции.</description>
                 <picture>https://porolonych.ru/images/catalog/voylok/voylok-iskusstvenniy-beliy-3mm-01.jpg</picture>
-                <param name="Ширина">1,65</param>
+                <param name="Ширина">1.65</param>
             </offer>
                 <offer id="1188">
                 <name>Войлок искусственный коричневый</name>
