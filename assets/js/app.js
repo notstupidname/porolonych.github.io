@@ -285,7 +285,8 @@ var cartApi = (function() {
         let img = document.createElement('img');
         img.classList.add('image');
         img.src = "/images" + item.url + "-01_400w.jpg";
-        // img.src = "/images/catalog/porolon/porolon-el-4060.jpg";
+        img.width = "400";
+        img.height = "400";
         a_img.appendChild(img);
         let cart_text = document.createElement('div');
         cart_text.classList.add('cart-text');
