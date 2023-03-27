@@ -82,9 +82,12 @@
 							srcset="{{img_path}}-01_1600w.jpg 1600w, {{img_path}}-01_1400w.jpg 1400w, {{img_path}}-01_1000w.jpg 1000w, {{img_path}}-01_800w.jpg 800w, {{img_path}}-01_600w.jpg 600w, {{img_path}}-01_400w.jpg 400w"
 							sizes="(max-width: 480px) 100vw, (max-width: 980px) 33vw, 25vw"/>
 							<div>
-								<p>{{page.product_full_desc}}</p>
+								<p>{{ page.product_full_desc }}</p>
 								{%-if product_name contains "porolon-"-%}
-								<p><b>РЕЗКА ПОРОЛОНА: </b>Можем порезать поролон в любой размер.</br>Стоимость резки поролона - <b>15% от стоимости листа.</b></br>Для заказа резки укажите требуемые размеры в комментарии к заказу.</p>
+								<div class="rezka">
+									<h3>Резка поролона</h3>
+									<p>Можем порезать поролон в любой размер.</br>Стоимость резки поролона - <b>15% от стоимости листа.</b></br>Для заказа резки укажите требуемые размеры в комментарии к заказу.</p>
+								</div>
 								{%-endif-%}
 								{%-if page.properties-%}
 								<ul>
@@ -142,7 +145,7 @@
 							</div>
 						</section>
 						{%-endif-%}
-						{%-if content.size > 4-%}
+						{%- if product_name contains "kozha-obivochnaya" -%}
 						<section>
 							<header>
 								<h2>Варианты товара:</h2>
@@ -189,6 +192,17 @@
 							</div>
 						</section>
 					</div>
+					{%- if content.size > 4 -%}
+					{%- unless product_name contains "kozha-obivochnaya" -%}
+					<hr class="major"/>
+					<section>
+						<header>
+							<h2>Описание товара:</h2>
+						</header>
+						{{content}}
+					</section>
+					{%- endunless -%}
+					{%- endif -%}
 					{%-if page.related -%}
 					<hr class="major"/>
 					<h2>Смотрите также:</h2>
