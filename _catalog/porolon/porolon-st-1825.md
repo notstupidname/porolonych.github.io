@@ -25,6 +25,12 @@ properties:
 - name: Рекомендуемая нагрузка
   value: до 40 кг
 
+related:
+- porolon-el-2040
+- porolon-st-3040
+- porolon-el-4060-1600-2000
+- kley-mebelniy-poling
+
 param_name: 'Толщина'
 param_mes: 'мм'
 products:

@@ -23,6 +23,12 @@ properties:
 - name: Жесткость
   value: 36 КПа
 
+related:
+- porolon-akusticheskiy
+- porolon-st-1825
+- porolon-st-3040-1500-2000
+- kley-mebelniy-poling
+
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
