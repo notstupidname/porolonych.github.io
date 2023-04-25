@@ -515,7 +515,8 @@ var cartApi = (function() {
 
     form.addEventListener('submit', function(e) {
         e.preventDefault();
-        const url = "https://notstupidapp.ew.r.appspot.com/shopapi/v2/porolonych"
+        // const url = "https://notstupidapp.ew.r.appspot.com/shopapi/v2/porolonych"
+        const url = "https://worker-shop.notstupid.workers.dev/"
 
         const form_loading = this.parentNode.querySelector('.form-loading');
         const form_success = this.parentNode.querySelector('.form-success');
