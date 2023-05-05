@@ -36,6 +36,10 @@
 								"name": "{{page.product_title | remove: '"'}}",
 								"image": "https://porolonych.ru/images/catalog{{page.url}}-01_1600w.jpg",
 								"description": "{{page.product_full_desc}}",
+								"brand": {
+									"@type": "Brand",
+									"name": "Porolonych"
+									},
 								"aggregateRating": {
 								"@type": "AggregateRating",
 								"ratingValue": "{{rating_array | sample}}",
@@ -47,6 +51,33 @@
 								"price": "{{page.products[0].price}}",
 								"priceValidUntil": "2023-11-05",
 								"availability": "http://schema.org/InStock",
+								"shippingDetails": {
+									"@type": "OfferShippingDetails",
+									"shippingRate": {
+										"@type": "MonetaryAmount",
+										"value": 1000,
+										"currency": "RUB"
+										  },
+									"shippingDestination": {
+										"@type": "DefinedRegion",
+										"addressCountry": "RU"
+										  },
+									"deliveryTime": {
+										"@type": "ShippingDeliveryTime",
+										"handlingTime": {
+										  "@type": "QuantitativeValue",
+										  "minValue": 0,
+										  "maxValue": 1,
+										  "unitCode": "DAY"
+										},
+										"transitTime": {
+										  "@type": "QuantitativeValue",
+										  "minValue": 1,
+										  "maxValue": 5,
+										  "unitCode": "DAY"
+										}
+									}
+								},
 								"seller": {
 									"@type": "Organization",
 									"name": "Porolonych"
