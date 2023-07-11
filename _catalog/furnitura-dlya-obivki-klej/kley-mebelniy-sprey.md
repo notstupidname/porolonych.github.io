@@ -24,7 +24,7 @@ properties:
   value: 270 г
 
 products:
-- id: 1277
+- id: 1270
   price: 800
 
 ---

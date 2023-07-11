@@ -22,7 +22,7 @@ properties:
   value: 5, 10, 15 кг
 
 products:
-- id: 1276
+- id: 1269
   price: 650
 
 ---

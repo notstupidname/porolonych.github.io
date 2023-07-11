@@ -16,7 +16,7 @@ product_full_desc: Применяется для склеивания порол
         
 price_after: "шт."
 products:
-- id: 1275
+- id: 1268
   price: 580
 
 ---
