@@ -13,7 +13,7 @@ add_category:
 product_title: Гвозди мебельные обивочные Ø20мм (медь)
 product_short_desc: Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - медь.
 product_full_desc: Декоративные обивочные мебельные гвозди с гладкой поверхностью. Цвет - медь.
-        
+
 price_after: "шт."
 properties:
 - name: Длина ножки
@@ -24,7 +24,7 @@ properties:
   value: 80 шт
 
 products:
-- id: 1232
+- id: 1229
   price: 8
 
 ---

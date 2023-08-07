@@ -13,7 +13,7 @@ add_category:
 product_title: Кожа GS
 product_short_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
 product_full_desc: Серия искусственной кожи в широкой цветовой гамме ярких и насыщенных оттенков.
-        
+
 price_after: "м.п."
 properties:
 - name: Материал основы
@@ -24,7 +24,7 @@ properties:
   value: 1,4 м
 
 products:
-- id: 1256
+- id: 1253
   price: 800
 
 ---

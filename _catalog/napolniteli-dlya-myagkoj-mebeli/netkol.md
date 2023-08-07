@@ -13,7 +13,7 @@ add_category:
 product_title: Неткол
 product_short_desc: Хлопковая мешковина.
 product_full_desc: Неткол используется в качестве обтирочной ткани, для мытья и протирания поверхностей.
-        
+
 price_after: "м.п."
 properties:
 - name: Длина рулона
@@ -22,7 +22,7 @@ properties:
   value: 0,75 м
 
 products:
-- id: 1223
+- id: 1220
   price: 30
 
 ---

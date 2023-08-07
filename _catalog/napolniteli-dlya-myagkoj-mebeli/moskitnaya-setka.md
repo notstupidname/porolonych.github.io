@@ -13,7 +13,7 @@ add_category:
 product_title: Москитная сетка
 product_short_desc: Сетка против насекомых.
 product_full_desc: Также в продаже имеются готовые комплекты москитных сеток в алюминиевых рамках на окна - 800 рублей/шт.
-        
+
 price_after: "м.п."
 properties:
 - name: Длина рулона
@@ -22,7 +22,7 @@ properties:
   value: 1,6 м
 
 products:
-- id: 1224
+- id: 1221
   price: 160
 
 ---

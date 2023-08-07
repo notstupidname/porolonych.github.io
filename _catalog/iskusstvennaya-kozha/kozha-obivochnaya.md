@@ -13,7 +13,7 @@ add_category:
 product_title: Кожа обивочная
 product_short_desc: Обладает приятным дизайном и слабовыраженным тиснением. Высокая прочность и износостойкость.
 product_full_desc: Обладает приятным дизайном и слабовыраженным тиснением. Высокая прочность и износостойкость.
-        
+
 price_after: "м.п."
 properties:
 - name: Материал основы
@@ -30,7 +30,7 @@ related:
 - porolon-el-2040
 
 products:
-- id: 1253
+- id: 1250
   price: 500
 colors:
 - image: 27

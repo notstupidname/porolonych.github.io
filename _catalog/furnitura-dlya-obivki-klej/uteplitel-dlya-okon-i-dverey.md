@@ -13,10 +13,10 @@ add_category:
 product_title: Утеплитель самоклеющийся для окон и дверей
 product_short_desc: Сечение 8х8 мм, длина - 14 метров.
 product_full_desc: Сечение 8х8 мм, длина - 14 метров.
-        
+
 price_after: "шт."
 products:
-- id: 1281
+- id: 1278
   price: 100
 
 ---

@@ -13,7 +13,7 @@ add_category:
 product_title: Брезент
 product_short_desc: Полотно из натурального льна.
 product_full_desc: Брезент - полотно из натурального льна, пропитанное специальным составом, который обеспечивает огнеупорные и водоотталкивающие свойства.
-        
+
 price_after: "м.п."
 properties:
 - name: Длина рулона
@@ -22,7 +22,7 @@ properties:
   value: 1 м
 
 products:
-- id: 1221
+- id: 1218
   price: 150
 
 ---

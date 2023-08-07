@@ -13,7 +13,7 @@ add_category:
 product_title: Поролон LL5020 1000х2000мм
 product_short_desc: Сверхмягкий латексный поролон.
 product_full_desc: Верхний комфортный слой для матрасов и мебели.
-        
+
 price_after: "лист"
 properties:
 - name: Размер листа

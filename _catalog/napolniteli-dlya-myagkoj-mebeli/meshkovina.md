@@ -13,7 +13,7 @@ add_category:
 product_title: Мешковина
 product_short_desc: Полотно льняное.
 product_full_desc: Плотная, грубая ткань и толстых льняных нитей.
-        
+
 price_after: "м.п."
 properties:
 - name: Длина рулона
@@ -22,7 +22,7 @@ properties:
   value: 1 м
 
 products:
-- id: 1222
+- id: 1219
   price: 60
 
 ---

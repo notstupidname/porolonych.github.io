@@ -13,7 +13,7 @@ add_category:
 product_title: Кожа Reptile
 product_short_desc: Материал, имитирующий экзотическую кожу рептилий.
 product_full_desc: Материал, имитирующий экзотическую кожу рептилий.
-        
+
 price_after: "м.п."
 properties:
 - name: Материал основы
@@ -24,7 +24,7 @@ properties:
   value: 1,4 м
 
 products:
-- id: 1266
+- id: 1263
   price: 1500
 
 ---
