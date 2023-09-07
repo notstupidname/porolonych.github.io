@@ -27,22 +27,22 @@ properties:
 
 related:
 - porolon-st-3040
-- porolon-el-4060
+- porolon-hl-4065
 - porolon-el-2040
 - kley-mebelniy-poling
 
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1110
+- id: 1123
   param: 30
-  price: 2270
-- id: 1111
+  price: 2640
+- id: 1124
   param: 50
-  price: 3770
-- id: 1112
+  price: 4400
+- id: 1125
   param: 100
-  price: 7520
+  price: 8800
 
 ---
 Поролон HR3535 — это высокоэластичный материал из пенополиуретана, который обладает повышенной плотностью и жесткостью. Этот поролон относится к классу искусственного латекса и имеет множество преимуществ перед обычным поролоном.

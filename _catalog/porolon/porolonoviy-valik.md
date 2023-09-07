@@ -24,10 +24,10 @@ properties:
 param_name: 'Диаметр'
 param_mes: 'мм'
 products:
-- id: 1166
+- id: 1179
   param: 180
   price: 3500
-- id: 1167
+- id: 1180
   param: 200
   price: 3700
 

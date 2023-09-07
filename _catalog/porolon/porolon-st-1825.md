@@ -28,36 +28,36 @@ properties:
 related:
 - porolon-el-2040
 - porolon-st-3040
-- porolon-el-4060-1600-2000
+- porolon-hl-4065-1600-2000
 - kley-mebelniy-poling
 
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1062
+- id: 1075
   param: 10
   price: 370
-- id: 1063
+- id: 1076
   param: 20
-  price: 730
-- id: 1064
+  price: 740
+- id: 1077
   param: 30
-  price: 1090
-- id: 1065
+  price: 1110
+- id: 1078
   param: 40
-  price: 1440
-- id: 1066
+  price: 1480
+- id: 1079
   param: 50
-  price: 1800
-- id: 1067
+  price: 1850
+- id: 1080
   param: 60
-  price: 2160
-- id: 1068
+  price: 2220
+- id: 1081
   param: 80
-  price: 2870
-- id: 1069
+  price: 2960
+- id: 1082
   param: 100
-  price: 3590
+  price: 3700
 
 ---
 Поролон ST1825 - это мягкий и легкий материал из пенополиуретана, который имеет низкую плотность и жесткость. Он обладает хорошей эластичностью и восстанавливаемостью, а также устойчив к низким температурам и влаге. Не вызывает аллергии и безопасен для здоровья.

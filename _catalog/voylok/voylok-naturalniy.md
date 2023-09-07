@@ -28,7 +28,7 @@ related:
 - voylok-iskusstvenniy-seriy
 
 products:
-- id: 1173
+- id: 1186
   price: 400
 
 ---

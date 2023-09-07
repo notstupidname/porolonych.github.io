@@ -24,16 +24,16 @@ properties:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1195
+- id: 1208
   param: 2
   price: 50
-- id: 1196
+- id: 1209
   param: 3
   price: 60
-- id: 1197
+- id: 1210
   param: 5
   price: 80
-- id: 1198
+- id: 1211
   param: 10
   price: 110
 

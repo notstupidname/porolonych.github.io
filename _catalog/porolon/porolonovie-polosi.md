@@ -22,7 +22,7 @@ related:
 - voylochniy-uteplitel-beliy
 
 products:
-- id: 1172
+- id: 1185
   price: 680
 
 ---

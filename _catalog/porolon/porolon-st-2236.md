@@ -28,36 +28,36 @@ properties:
 related:
 - porolon-el-2040
 - porolon-st-3040
-- porolon-el-4060-1600-2000
+- porolon-hl-4065-1600-2000
 - kley-mebelniy-poling
 
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1070
+- id: 1083
   param: 10
   price: 450
-- id: 1071
+- id: 1084
   param: 20
-  price: 880
-- id: 1072
+  price: 900
+- id: 1085
   param: 30
-  price: 1320
-- id: 1073
+  price: 1340
+- id: 1086
   param: 40
-  price: 1750
-- id: 1074
+  price: 1790
+- id: 1087
   param: 50
-  price: 2180
-- id: 1075
+  price: 2230
+- id: 1088
   param: 60
-  price: 2620
-- id: 1076
+  price: 2680
+- id: 1089
   param: 80
-  price: 3490
-- id: 1077
+  price: 3570
+- id: 1090
   param: 100
-  price: 4350
+  price: 4460
 
 ---
 Поролон ST2236 - это мебельный поролон стандартной жесткости, который используется для изготовления различных элементов мягкой мебели. Он обладает хорошей эластичностью, воздухопроницаемостью и долговечностью. 

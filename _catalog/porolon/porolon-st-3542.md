@@ -27,31 +27,31 @@ properties:
 
 related:
 - porolon-st-3040
-- porolon-el-4060
+- porolon-hl-4065
 - porolon-el-2040
 - kley-mebelniy-poling
 
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1086
+- id: 1099
   param: 20
-  price: 1400
-- id: 1087
+  price: 1420
+- id: 1100
   param: 30
-  price: 2080
-- id: 1088
+  price: 2130
+- id: 1101
   param: 40
-  price: 2780
-- id: 1089
+  price: 2840
+- id: 1102
   param: 50
-  price: 3470
-- id: 1090
+  price: 3540
+- id: 1103
   param: 80
-  price: 5540
-- id: 1091
+  price: 5670
+- id: 1104
   param: 100
-  price: 6910
+  price: 7080
 
 ---
 Поролон ST3542 — это базовый и надежный материал, который используется для изготовления мебели различного назначения. Он обладает стандартной жесткостью, которая обеспечивает хорошую поддержку и комфорт при сидении или лежании. Поролон ST3542 имеет высокую прочность и долгий срок службы.

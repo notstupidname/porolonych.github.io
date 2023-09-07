@@ -30,20 +30,20 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1150
+- id: 1163
   param: 10
-  price: 980
-- id: 1151
+  price: 850
+- id: 1164
   param: 20
-  price: 1940
-- id: 1152
+  price: 1690
+- id: 1165
   param: 30
-  price: 2900
-- id: 1153
+  price: 2520
+- id: 1166
   param: 40
-  price: 3870
-- id: 1154
+  price: 3360
+- id: 1167
   param: 50
-  price: 4840
+  price: 4210
 
 ---

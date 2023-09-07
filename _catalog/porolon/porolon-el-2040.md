@@ -27,7 +27,7 @@ properties:
 
 related:
 - porolon-st-3040
-- porolon-el-4060
+- porolon-hl-4065
 - porolon-el-2040-1500-2000
 - kley-mebelniy-poling
 
@@ -39,39 +39,39 @@ products:
   price: 280
 - id: 1002
   param: 5
-  price: 330
+  price: 340
 - id: 1003
   param: 10
-  price: 410
+  price: 420
 - id: 1004
   param: 20
-  price: 810
+  price: 830
 - id: 1005
   param: 30
-  price: 1220
+  price: 1250
 - id: 1006
   param: 40
-  price: 1610
+  price: 1660
 - id: 1007
   param: 50
-  price: 2020
+  price: 2070
 - id: 1008
   param: 60
-  price: 2420
+  price: 2490
 - id: 1009
   param: 80
-  price: 3220
+  price: 3310
 - id: 1010
   param: 100
-  price: 4030
+  price: 4140
 - id: 1011
   param: 120
-  price: 4820
+  price: 4970
 - id: 1012
   param: 150
-  price: 6030
+  price: 6210
 - id: 1013
   param: 200
-  price: 8040
+  price: 8280
 
 ---
