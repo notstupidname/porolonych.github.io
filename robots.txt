@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /test2
+Clean-param: __cf_chl_tk&__cf_chl_rt_tk
 Host: https://porolonych.ru
 Sitemap: https://porolonych.ru/sitemap.xml
