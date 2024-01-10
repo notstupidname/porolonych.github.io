@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/kley-mebelniy-lakol-01_1600w.jpg
 type: product
 
-weight: 3
+weight: 2
 add_category: 
 
 product_title: Клей мебельный LAKOL

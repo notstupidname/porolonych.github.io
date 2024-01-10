@@ -32,10 +32,10 @@ related:
 param_name: 'Толщина'
 param_mes: 'мм'
 products:
-- id: 1199
+- id: 1200
   param: 4
   price: 400
-- id: 1200
+- id: 1201
   param: 5
   price: 500
 

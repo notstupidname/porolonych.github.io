@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/lenta-dlya-okon-01_1600w.jpg
 type: product
 
-weight: 16
+weight: 15
 add_category: 
 
 product_title: Лента самоклеющаяся для окон

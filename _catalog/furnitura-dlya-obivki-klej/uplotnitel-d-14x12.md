@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-14x12-01_1600w.jpg
 type: product
 
-weight: 11
+weight: 10
 add_category: 
 
 product_title: Уплотнитель самоклеющийся профиль D 14х12мм двойной

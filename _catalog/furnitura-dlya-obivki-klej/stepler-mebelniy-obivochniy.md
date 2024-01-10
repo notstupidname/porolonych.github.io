@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/stepler-mebelniy-obivochniy-01_1600w.jpg
 type: product
 
-weight: 5
+weight: 4
 add_category: 
 
 product_title: Степлер мебельный обивочный «Профессионал»

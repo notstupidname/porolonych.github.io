@@ -21,7 +21,7 @@ properties:
 - name: Длина рулона
   value: 30 м
 - name: Ширина
-  value: 2,2 м
+  value: 2,1 м
 - name: Плотность
   value: 500 г/м2
 
@@ -32,7 +32,7 @@ related:
 - voylok-iskusstvenniy-cherniy
 
 products:
-- id: 1207
-  price: 230
+- id: 1208
+  price: 300
 
 ---

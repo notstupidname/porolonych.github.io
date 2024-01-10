@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uplotnitel-e-9x4-01_1600w.jpg
 type: product
 
-weight: 13
+weight: 12
 add_category: 
 
 product_title: Уплотнитель самоклеющийся профиль Е 9х4 мм белый, коричневый

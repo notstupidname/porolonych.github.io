@@ -42,12 +42,12 @@ param_mes: 'мм'
 products:
 - id: 1189
   param: 2
-  price: 230
+  price: 350
 - id: 1190
   param: 4
-  price: 400
+  price: 450
 - id: 1191
-  param: 5
-  price: 500
+  param: 5,5
+  price: 600
 
 ---

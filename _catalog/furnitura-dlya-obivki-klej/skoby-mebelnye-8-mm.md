@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/skoby-mebelnye-8-mm-01_1600w.jpg
 type: product
 
-weight: 9
+weight: 8
 add_category: 
 
 product_title: Скобы мебельные 8мм

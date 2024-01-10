@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uteplitel-dlya-okon-i-dverey-01_1600w.jpg
 type: product
 
-weight: 15
+weight: 14
 add_category: 
 
 product_title: Утеплитель самоклеющийся для окон и дверей

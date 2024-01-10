@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-21x15-01_1600w.jpg
 type: product
 
-weight: 14
+weight: 13
 add_category: 
 
 product_title: Уплотнитель самоклеющийся профиль D 21х15мм одинарный

@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/voylochnie-podpyatniki-dlya-mebeli-01_1600w.jpg
 type: product
 
-weight: 6
+weight: 5
 add_category: 
 
 product_title: Войлочные подпятники для мебели
