@@ -47,7 +47,7 @@ products:
   param: 4
   price: 450
 - id: 1191
-  param: 5,5
+  param: 5.5
   price: 600
 
 ---

@@ -35,7 +35,7 @@ param_name: 'Толщина'
 param_mes: 'мм'
 products:
 - id: 1197
-  param: 3,5
+  param: 3.5
   price: 400
 - id: 1198
   param: 7
