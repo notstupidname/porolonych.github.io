@@ -2,13 +2,13 @@
 // Shopping Cart API
 // ************************************************
 
-var cartApi = (function() {
+var cartApi = (function () {
     // =============================
     // Private methods and propeties
     // =============================
     let cart = [];
 
-  // Constructor
+    // Constructor
     class Item {
         constructor(id, title, price, url, count) {
             this.id = id;
@@ -40,12 +40,12 @@ var cartApi = (function() {
     var obj = {};
 
     // Add new item to cart
-    obj.addNewItemToCart = function(id, title, price, url, count) {
+    obj.addNewItemToCart = function (id, title, price, url, count) {
         for (const item of cart) {
             if (item.id === id) {
                 item.count += count;
                 saveCart();
-            return item.count;
+                return item.count;
             }
         }
         const item = new Item(id, title, price, url, count);
@@ -55,17 +55,17 @@ var cartApi = (function() {
     }
 
     // Add existing item to cart
-    obj.addItemToCart = function(id) {
+    obj.addItemToCart = function (id) {
         for (const item of cart) {
             if (item.id == id) {
-                item.count ++;
+                item.count++;
                 saveCart();
                 return item.count;
             }
         }
     }
     // Set count for item by id
-    obj.setCountForItem = function(id, count) {
+    obj.setCountForItem = function (id, count) {
         for (const item of cart) {
             if (item.id === id) {
                 item.count = count;
@@ -75,21 +75,21 @@ var cartApi = (function() {
         }
     };
     // Remove item from cart
-    obj.removeItemFromCart = function(id) {
+    obj.removeItemFromCart = function (id) {
         for (const item of cart) {
             if (item.id === id) {
-                item.count --;
+                item.count--;
                 if (item.count === 0) {
                     cart.splice(cart.indexOf(item), 1);
                 }
-            saveCart();
-            return item.count;
+                saveCart();
+                return item.count;
             }
         }
     }
 
     // Remove all items from cart
-    obj.removeItemFromCartAll = function(id) {
+    obj.removeItemFromCartAll = function (id) {
         for (const item of cart) {
             if (item.id === id) {
                 cart.splice(cart.indexOf(item), 1);
@@ -100,13 +100,13 @@ var cartApi = (function() {
     }
 
     // Clear cart
-    obj.clearCart = function() {
+    obj.clearCart = function () {
         cart = [];
         saveCart();
     }
 
     // Count cart 
-    obj.totalCount = function() {
+    obj.totalCount = function () {
         let totalCount = 0;
         for (const item of cart) {
             totalCount += item.count;
@@ -115,7 +115,7 @@ var cartApi = (function() {
     }
 
     // Total cart
-    obj.totalCart = function() {
+    obj.totalCart = function () {
         let totalCart = 0;
         for (const item of cart) {
             totalCart += item.price * item.count;
@@ -124,11 +124,11 @@ var cartApi = (function() {
     }
 
     // List cart
-    obj.listCart = function() {
+    obj.listCart = function () {
         return cart;
     }
 
-    obj.cartToQuerry = function() {
+    obj.cartToQuerry = function () {
         let param = "";
         for (item of cart) {
             param += "&product=" + encodeURIComponent(item.title) + "&price=" + encodeURIComponent(item.price) + "&count=" + encodeURIComponent(item.count) + "&url=" + encodeURIComponent(item.url);
@@ -139,7 +139,7 @@ var cartApi = (function() {
     return obj;
 })();
 
-(function() {
+(function () {
     "use strict"
 
     const body = document.querySelector('body');
@@ -147,37 +147,37 @@ var cartApi = (function() {
     const navToggle = document.querySelector('a[href="#nav"]');
     const navClose = document.querySelector('#nav .close');
     const cart = document.querySelector('#cart');
-	const cartToggles= document.querySelectorAll('a[href="#cart"]');
+    const cartToggles = document.querySelectorAll('a[href="#cart"]');
     const cartClose = document.querySelector('#cart .close');
     const backToTop = document.querySelector('#backtotop');
 
-    window.addEventListener('load', function() {
+    window.addEventListener('load', function () {
         body.classList.remove('is-loading');
         body.classList.remove('trans');
     });
 
-    let hideNav = function() {
+    let hideNav = function () {
         nav.classList.remove('visible');
         body.classList.remove('menu-visible');
     }
 
-    let toggleNav = function() {
+    let toggleNav = function () {
         nav.classList.toggle('visible');
         body.classList.toggle('menu-visible');
     }
 
-    let hideCart = function() {
+    let hideCart = function () {
         cart.classList.remove('visible');
         body.classList.remove('menu-visible');
     }
 
-    let toggleCart = function() {
+    let toggleCart = function () {
         cart.classList.toggle('visible');
         body.classList.toggle('menu-visible');
     }
-    
+
     //Hide nav and cart on body click
-    body.addEventListener('click', function(e){
+    body.addEventListener('click', function (e) {
         if (body.classList.contains('menu-visible')) {
             e.preventDefault();
             e.stopPropagation();
@@ -186,40 +186,40 @@ var cartApi = (function() {
         }
     }, false);
 
-    nav.addEventListener('click', function(e){
+    nav.addEventListener('click', function (e) {
         e.stopPropagation();
     }, false);
 
-    cart.addEventListener('click', function(e){
+    cart.addEventListener('click', function (e) {
         e.stopPropagation();
     }, false);
 
-    navToggle.addEventListener('click', function(e){
+    navToggle.addEventListener('click', function (e) {
         e.preventDefault();
         e.stopPropagation();
         toggleNav();
     }, false);
-    navClose.addEventListener('click', function(e){
+    navClose.addEventListener('click', function (e) {
         e.preventDefault();
         e.stopPropagation();
         hideNav();
     }, false);
-    
+
     for (const cartToggle of cartToggles) {
-        cartToggle.addEventListener('click', function(e){
+        cartToggle.addEventListener('click', function (e) {
             e.preventDefault();
             e.stopPropagation();
             toggleCart();
         }, false);
     }
 
-    cartClose.addEventListener('click', function(e){
+    cartClose.addEventListener('click', function (e) {
         e.preventDefault();
         e.stopPropagation();
         hideCart();
     }, false);
 
-    let transition = function(e) {
+    let transition = function (e) {
         let href = this.getAttribute('href');
         let target = this.getAttribute('target');
         if (!href || href.indexOf('#') != -1 || href.indexOf('tel') != -1 || href.indexOf('wa.me') != -1 || href.indexOf('mailto') != -1 || target == '_blank')
@@ -229,13 +229,13 @@ var cartApi = (function() {
         hideNav();
         hideCart();
         body.classList.add('trans');
-        window.setTimeout(function() {
+        window.setTimeout(function () {
             window.location.href = href;
             console.log('250');
         }, 250);
     }
-    
-    body.addEventListener('click', function(e) {
+
+    body.addEventListener('click', function (e) {
         for (let target = e.target; target && target != this; target = target.parentNode) {
             if (target.matches('a')) {
                 transition.call(target, e);
@@ -244,7 +244,7 @@ var cartApi = (function() {
         }
     }, false);
 
-    nav.addEventListener('click', function(e) {
+    nav.addEventListener('click', function (e) {
         for (let target = e.target; target && target != this; target = target.parentNode) {
             if (target.matches('a')) {
                 transition.call(target, e);
@@ -254,7 +254,7 @@ var cartApi = (function() {
     }, false);
 
     // Remove transition if page loaded from bfcache
-    window.addEventListener('pageshow', function(event) {
+    window.addEventListener('pageshow', function (event) {
         if (event.persisted === true) {
             body.classList.remove('trans');
         }
@@ -262,10 +262,10 @@ var cartApi = (function() {
 
     //Scroll to top
     if (backToTop) {
-        backToTop.addEventListener('click', function(e) {
+        backToTop.addEventListener('click', function (e) {
             e.preventDefault();
             e.stopPropagation();
-            body.scrollIntoView(true, {behavior: "smooth"});
+            body.scrollIntoView(true, { behavior: "smooth" });
         }, false);
     }
 
@@ -275,7 +275,7 @@ var cartApi = (function() {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
     }
 
-    function createCartItem(item){
+    function createCartItem(item) {
         let cart_item = document.createElement('div');
         cart_item.id = item.id;
         cart_item.classList.add('cart-item');
@@ -321,12 +321,12 @@ var cartApi = (function() {
     }
 
     // Update all cart UI
-    function displayCart(){
+    function displayCart() {
         const cart = cartApi.listCart();
         const cartInnerEl = document.querySelector('.show-cart');
         cartInnerEl.innerHTML = "";
         let temp_cart = document.createDocumentFragment();
-        for (const item of cart){
+        for (const item of cart) {
             let cart_item = createCartItem(item);
             temp_cart.appendChild(cart_item);
         }
@@ -334,10 +334,10 @@ var cartApi = (function() {
     };
     displayCart();
 
-    function updateCounts(){
+    function updateCounts() {
         const totalCart = cartApi.totalCart();
         const totalCount = cartApi.totalCount();
-        
+
         const cartTotalCounts = document.querySelectorAll('.total-count');
         for (const cartTotalCount of cartTotalCounts) {
             cartTotalCount.innerText = totalCount;
@@ -348,14 +348,14 @@ var cartApi = (function() {
 
         const orderButton = document.querySelector('.order');
         const floatCart = document.querySelector('.cart.float');
-        if (totalCount > 0 && orderButton.classList.contains('disabled')){
+        if (totalCount > 0 && orderButton.classList.contains('disabled')) {
             orderButton.classList.remove('disabled');
-        } else if (totalCount == 0 && !orderButton.classList.contains('disabled')){
+        } else if (totalCount == 0 && !orderButton.classList.contains('disabled')) {
             orderButton.classList.add('disabled');
         }
-        if (totalCount > 0 && floatCart.classList.contains('disabled')){
+        if (totalCount > 0 && floatCart.classList.contains('disabled')) {
             floatCart.classList.remove('disabled');
-        } else if (totalCount == 0 && !floatCart.classList.contains('disabled')){
+        } else if (totalCount == 0 && !floatCart.classList.contains('disabled')) {
             floatCart.classList.add('disabled');
         }
         const cartString = document.querySelector('.cart-string');
@@ -368,10 +368,10 @@ var cartApi = (function() {
     const cart_cart = document.querySelector('.cart-cart');
     const form_wrapper = document.querySelector('.form-wrapper');
 
-    orderButton.addEventListener('click', function(e){
+    orderButton.addEventListener('click', function (e) {
         e.preventDefault();
         e.stopPropagation();
-        if (!this.classList.contains('disabled')){
+        if (!this.classList.contains('disabled')) {
             cart_cart.classList.add('hide');
             form_wrapper.classList.remove('hide');
             form_wrapper.classList.add('fade-in');
@@ -379,7 +379,7 @@ var cartApi = (function() {
     })
 
     for (const returnButton of returnButtonAll) {
-        returnButton.addEventListener('click', function(e){
+        returnButton.addEventListener('click', function (e) {
             e.preventDefault();
             e.stopPropagation();
             form_wrapper.classList.add('hide');
@@ -398,12 +398,12 @@ var cartApi = (function() {
     // Add to cart on Product page
     const select = document.querySelector('#param_select');
     const products_listEL = document.getElementById('products_list');
-    if (products_listEL){
+    if (products_listEL) {
         var products_list = JSON.parse(products_listEL.textContent);
     }
     const addToCartButton = document.querySelector('.add-to-cart');
     if (addToCartButton) {
-        addToCartButton.addEventListener('click', function(e){
+        addToCartButton.addEventListener('click', function (e) {
             e.preventDefault();
             e.stopPropagation();
             let selected_product;
@@ -417,7 +417,7 @@ var cartApi = (function() {
             } else {
                 selected_product = products_list[0];
             }
-            if (cartApi.totalCount() == 0){
+            if (cartApi.totalCount() == 0) {
                 toggleCart();
             }
             cartApi.addNewItemToCart(selected_product.id, selected_product.title, selected_product.price, selected_product.url, 1);
@@ -425,7 +425,7 @@ var cartApi = (function() {
             updateCounts();
             let button = this;
             button.innerHTML = 'Добавлено';
-            window.setTimeout(function() {
+            window.setTimeout(function () {
                 button.innerHTML = 'В корзину';
             }, 2500, button);
         }, false);
@@ -433,7 +433,7 @@ var cartApi = (function() {
 
     // Select behavior on Product page
     if (select) {
-        select.addEventListener('change', function(e){
+        select.addEventListener('change', function (e) {
             // console.log(select.value);
             for (const product of products_list) {
                 if (product.id == select.value) {
@@ -447,25 +447,25 @@ var cartApi = (function() {
 
     // Select on Category page
     const all_selects = document.querySelectorAll('.price-select');
-    if (all_selects){
+    if (all_selects) {
         for (const current_select of all_selects) {
-            current_select.addEventListener('change', function(e){
+            current_select.addEventListener('change', function (e) {
                 const this_price = this.parentNode.parentNode.querySelector('span');
                 this_price.textContent = current_select.value;
             }, false);
         }
     }
 
-    let cartPlusMinusButton = function(e){
+    let cartPlusMinusButton = function (e) {
         e.preventDefault();
         e.stopPropagation();
         const item_id = this.getAttribute('data');
         let count = this.parentNode.querySelector('input');
-        if (this.classList.contains('plus-item')){
+        if (this.classList.contains('plus-item')) {
             count.value = cartApi.addItemToCart(item_id);
         } else {
             const item_count = cartApi.removeItemFromCart(item_id);
-            if (item_count > 0){
+            if (item_count > 0) {
                 count.value = item_count;
             } else {
                 // Remove .cart-item from cart completly
@@ -477,7 +477,7 @@ var cartApi = (function() {
     }
 
     // Plus and Minus buttons behavior in Cart
-    cart.addEventListener('click', function(e) {
+    cart.addEventListener('click', function (e) {
         for (let target = e.target; target && target != this; target = target.parentNode) {
             if (target.matches('.minus-item, .plus-item')) {
                 cartPlusMinusButton.call(target, e);
@@ -486,11 +486,11 @@ var cartApi = (function() {
         }
     }, false);
 
-    let cartSetCount = function(e){
+    let cartSetCount = function (e) {
         e.preventDefault();
         e.stopPropagation();
         const item_id = this.getAttribute('data');
-        if (parseInt(this.value) > 0){
+        if (parseInt(this.value) > 0) {
             cartApi.setCountForItem(item_id, parseInt(this.value));
         } else {
             const cart_item = this.parentNode.parentNode.parentNode;
@@ -500,7 +500,7 @@ var cartApi = (function() {
         updateCounts();
     }
 
-    cart.addEventListener('change', function(e) {
+    cart.addEventListener('change', function (e) {
         for (let target = e.target; target && target != this; target = target.parentNode) {
             if (target.matches('.count')) {
                 cartSetCount.call(target, e);
@@ -513,10 +513,10 @@ var cartApi = (function() {
 
     const form = document.querySelector('.ajax-form');
 
-    form.addEventListener('submit', function(e) {
+    form.addEventListener('submit', function (e) {
         e.preventDefault();
         // const url = "https://notstupidapp.ew.r.appspot.com/shopapi/v2/porolonych"
-        const url = "https://worker-shop.notstupid.workers.dev/"
+        const url = "https://shop.porolonych.ru/"
 
         const form_loading = this.parentNode.querySelector('.form-loading');
         const form_success = this.parentNode.querySelector('.form-success');
@@ -537,7 +537,7 @@ var cartApi = (function() {
         let request = new XMLHttpRequest();
         request.open('POST', url);
 
-        request.onload = function() {
+        request.onload = function () {
             if (this.status >= 200 && this.status < 400) {
                 try {
                     yaCounter15918124.reachGoal('order');
@@ -560,7 +560,7 @@ var cartApi = (function() {
                 form_error.classList.add('fade-in');
             }
         };
-        request.onerror = function() {
+        request.onerror = function () {
             console.log('Connection error');
             form_loading.classList.add('hide');
             form_error.classList.remove('hide');
