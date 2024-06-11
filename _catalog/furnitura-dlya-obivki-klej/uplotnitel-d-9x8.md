@@ -7,7 +7,7 @@ permalink: /catalog/:path
 image: /images/catalog/furnitura-dlya-obivki-klej/uplotnitel-d-9x8-01_1600w.jpg
 type: product
 
-weight: 11
+weight: 5
 add_category: 
 
 product_title: Уплотнитель самоклеющийся профиль D 9х8мм двойной
@@ -16,7 +16,7 @@ product_full_desc: Уплотнитель отличается превосхо�
 
 price_after: "м.п."
 products:
-- id: 1288
+- id: 1256
   price: 50
 
 ---

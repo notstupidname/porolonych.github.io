@@ -32,7 +32,7 @@ related:
 - voylok-iskusstvenniy-cherniy
 
 products:
-- id: 1208
+- id: 1205
   price: 300
 
 ---

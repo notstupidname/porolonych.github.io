@@ -32,7 +32,7 @@ related:
 - termovoylok
 
 products:
-- id: 1199
+- id: 1196
   price: 600
 
 ---

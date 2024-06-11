@@ -30,7 +30,7 @@ related:
 - kozha-obivochnaya
 
 products:
-- id: 1237
+- id: 1224
   price: 30
 
 ---
