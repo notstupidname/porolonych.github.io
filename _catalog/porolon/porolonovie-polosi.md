@@ -15,11 +15,7 @@ product_short_desc: Полосы из 100% ППУ. Используются пр
 product_full_desc: Полосы из 100% ППУ. Используются при выполнении строительных работ или ручной мойке автомобилей.
 
 price_after: "шт"
-related:
-- porolonoviy-uteplitel
-- voylochniy-uteplitel-cherniy
-- voylochniy-uteplitel-seriy
-- voylochniy-uteplitel-beliy
+
 
 products:
 - id: 1185

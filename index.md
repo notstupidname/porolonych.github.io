@@ -14,7 +14,7 @@ page_title: Поролоныч - всё для обивки и утеплени�
     <li><a class="accent" href="/catalog/iskusstvennaya-kozha/">Искусственная кожа</a></li>
     <li><a class="accent" href="/catalog/napolniteli-dlya-myagkoj-mebeli/">Наполнители для мягкой мебели</a></li>
     <li><a class="accent" href="/catalog/voylok/">Войлок</a></li>
-    <li><a class="accent" href="/catalog/utepliteli/">Утеплители</a></li>
+    <!-- <li><a class="accent" href="/catalog/utepliteli/">Утеплители</a></li> -->
     <li><a class="accent" href="/catalog/mebelnye-gvozdi/">Мебельные гвозди</a></li>
     <li><a class="accent" href="/catalog/furnitura-dlya-obivki-klej/">Фурнитура для обивки. Клей</a></li>
 </ul>
