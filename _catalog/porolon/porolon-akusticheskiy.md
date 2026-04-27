@@ -19,7 +19,7 @@ properties:
 - name: Размер листа
   value: 1000х2000 мм
 - name: Плотность
-  value: 25 кг/м3
+  value: 36 кг/м3
 
 related:
 - porolon-el-2040
@@ -32,21 +32,21 @@ param_mes: 'мм'
 products:
 - id: 1173
   param: Волна/15
-  price: 960
+  price: 830
 - id: 1174
   param: Волна/30
-  price: 1270
+  price: 920
 - id: 1175
   param: Волна/40
-  price: 1890
+  price: 1650
 - id: 1176
   param: Волна/60
-  price: 2820
+  price: 2470
 - id: 1177
   param: Пирамида/30х30
-  price: 3490
+  price: 2640
 - id: 1178
   param: Пирамида/50х50
-  price: 4350
+  price: 3530
 
 ---
