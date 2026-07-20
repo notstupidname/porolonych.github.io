@@ -12,11 +12,11 @@ page_title: Контакты
 	<div id='map'></div>
 	<ul class="alt">
 		<li>
-			<a href="tel:+74994080024">
+			<a href="tel:+79933451607">
 				<svg height="1em" viewBox="0 0 24 24" class="icon" xmlns="http://www.w3.org/2000/svg">
 					<path fill="none" d="M0 0h24v24H0V0z"></path><path d="M19.23 15.26l-2.54-.29c-.61-.07-1.21.14-1.64.57l-1.84 1.84c-2.83-1.44-5.15-3.75-6.59-6.59l1.85-1.85c.43-.43.64-1.03.57-1.64l-.29-2.52c-.12-1.01-.97-1.77-1.99-1.77H5.03c-1.13 0-2.07.94-2 2.07.53 8.54 7.36 15.36 15.89 15.89 1.13.07 2.07-.87 2.07-2v-1.73c.01-1.01-.75-1.86-1.76-1.98z"></path>
 				</svg>
-				<span itemprop="telephone">+7&nbsp;(499)&nbsp;408-00-24</span>
+				<span itemprop="telephone">+7&nbsp;(993)&nbsp;345-16-07</span>
 			</a>
 		</li>
 		<li>
@@ -86,7 +86,7 @@ page_title: Контакты
 		}
 		var mapElement = document.getElementById('map');
 		var map = new google.maps.Map(mapElement, mapOptions);
-		var locations = [['\"Поролоныч\"', 'Неманский пр-д, д. 18c3', '+7 (926) 136-96-23', 'undefined', 'undefined', 55.805811, 37.389688, '/images/solid-pin-orange.png']];
+		var locations = [['\"Поролоныч\"', 'Неманский пр-д, д. 18c3', '+7 (993) 345-16-07', 'undefined', 'undefined', 55.805811, 37.389688, '/images/solid-pin-orange.png']];
 		for (i = 0; i < locations.length; i++) {
 			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
 			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
