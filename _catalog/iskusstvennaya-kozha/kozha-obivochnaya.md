@@ -31,7 +31,7 @@ related:
 
 products:
 - id: 1251
-  price: 500
+  price: 70
 colors:
 - image: 27
   title: "Цвет №306 Тиснение №84 Печать №02330"
